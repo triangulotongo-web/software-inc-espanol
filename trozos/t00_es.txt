@@ -1,0 +1,450 @@
+0	Vayamos más a fondo
+1	Haz el juego dentro del juego con la empresa y el desarrollador
+2	Esto va bien
+3	Haz que alguien perezca en un incendio
+4	Necesito más tiempo
+5	Juega 10 años con 8 días por mes
+6	Toda una vida
+7	Juega 80 años
+8	Fotogramas por estación
+9	Ten más de 500 empleados
+10	Mala empresa
+11	Haz que 10 empleados te demanden en una demanda colectiva
+12	Eso es de lo más elegante
+13	Cancela un proyecto tras recibir financiación de un distribuidor y gana la demanda con éxito
+14	¡Eso es!
+15	Haz que un dron policial atraviese paredes para confiscar metales preciosos
+16	PvPago
+17	Compra la empresa de otro jugador
+18	Cooptimizado
+19	Lanza un producto con una cuota de ingresos aproximadamente igual a la de otros jugadores
+20	Que suban los números
+21	Lanza 10 secuelas de la misma IP
+22	¡Zas!
+23	Absorbe 5 empresas en un año
+24	CTRL-C CTRL-$
+25	Intenta duplicar metales preciosos en el modo de construcción
+26	El mejor de todos los tiempos
+27	Gana un premio de platino ganando 5 años seguidos
+28	Exceso de características
+29	Interactúa con todas las características del juego {FeaturesLeft}
+30	{0} ha sacado una versión de {1}
+31	{0} está lista para presumir de {1}
+32	Hemos echado el guante a {1} de {0}
+33	, otra vez
+34	, no hace tanto que lo probamos por última vez
+35	, parece que de verdad necesitan atención
+36	, son esos de nuevo
+37	 y no tiene buena pinta
+38	, no estamos emocionados
+39	, ahora mismo parece un petardo
+40	, veamos qué tienen que ofrecer
+41	, puede que merezca su tiempo
+42	, lo hemos probado
+43	{0} no es muy conocida en este mercado
+44	El público objetivo no sabe muy bien quién es {0}
+45	{0} ya se ha hecho un nombre en este mercado
+46	{0} goza de buena fama entre este público
+47	No creemos que puedan salvar este
+48	Parece que está muerto en el agua
+49	Tendrán que pulirlo de verdad
+50	Tienen que esforzarse más
+51	Tiene un aspecto decente por ahora
+52	La verdad es que tiene buena pinta
+53	Podría ser el nuevo gran éxito
+54	Tiene un aspecto increíble
+55	 y
+56	 pero
+57	 está muy anticuado
+58	 no tiene muchas características
+59	 presume de un conjunto de características decente
+60	 tiene todas las novedades
+61	No hemos oído hablar mucho de {0}
+62	Hemos oído algunos rumores sobre {0}
+63	Hay quien lleva tiempo esperando {0}
+64	{0} ha reunido a bastantes seguidores
+65	A estas alturas todo el mundo conoce {0}
+66	No tiene fecha de lanzamiento
+67	No hay noticias de cuándo lo lanzarán
+68	No cumplieron su fecha de lanzamiento prevista
+69	No falta mucho para su lanzamiento
+70	Podrás probarlo en un futuro próximo
+71	Saldrá de un momento a otro
+72	Aún falta un poco para su lanzamiento
+73	No saldrá en una buena temporada
+74	Tendrás que esperar para probarlo tú mismo
+75	Debería lanzarse {0}
+76	Se lanzará {0}
+77	Apuntan a {0}
+78	{0} quiere hablarnos de {1} una vez más
+79	{0} sigue dándonos la lata con {1}
+80	Sí, ya sabemos que {1} llegará pronto, ¿podrías dejar de escribir sobre ello?
+81	{0} no deja de enviar notas de prensa sobre {1}
+82	{0} ha enviado una nota de prensa sobre {1}
+83	{0} está anunciando {1}
+84	{0} nos ha dado algunos detalles sobre {1}
+85	{0} está desarrollando {1}
+86	{0} aún no ha empezado el desarrollo, pero
+87	Todavía están esbozando los detalles, pero
+88	Por ahora solo están lanzando ideas, pero
+89	El desarrollo de {0} está en marcha y
+90	{0} está en desarrollo y
+91	Ya han empezado a trabajar en {0} y
+92	 le faltan características
+93	 no parece tener muchas características
+94	 parece tener un buen número de características
+95	 es de vanguardia
+96	La nota de prensa es bastante aburrida de ver
+97	La nota de prensa no tiene ningún atractivo visual
+98	La nota de prensa no enseña nada
+99	La nota de prensa contiene algunas imágenes bonitas
+100	Presentan el producto con imágenes
+101	La nota de prensa incluye unos vídeos muy chulos
+102	Han publicado un vídeo junto con la nota de prensa
+103	Han usado un vídeo para presumir de su producto
+104	 no le han dedicado nada de trabajo
+105	 parece hecho por un niño
+106	 no tiene tan buen aspecto
+107	 no inspira confianza en la calidad del producto
+108	 tiene buen aspecto
+109	 resulta algo interesante
+110	 se ha ganado toda nuestra atención
+111	 suena genial
+112	No menciona ninguna fecha de lanzamiento
+113	De momento no hay fecha de lanzamiento
+114	Está previsto que se lance {0}
+115	Planean lanzarlo {0}
+116	{0} se ha quedado sin dinero
+117	{0} ha sido arruinada
+118	con {2} productos en el mercado.
+119	con un solo producto en el mercado.
+120	sin lanzamientos.
+121	antes incluso de empezar.
+122	En una masacre total {0}
+123	lamentablemente ha sido adquirida por {1}
+124	ha sido adquirida por {1}
+125	por unos vertiginosos {3}
+126	por la friolera de {3}
+127	por {3}
+128	por prácticamente nada
+129	sin ningún producto en el mercado.
+130	con un solo producto en el mercado.
+131	junto con {2} IP originales.
+132	Habrá muchos candidatos nuevos a los que contratar durante los próximos meses.
+133	Esto debería reponer la reserva de candidatos durante un tiempo.
+134	Esperamos que muchos buscadores de empleo lleguen al mercado en los próximos meses.
+135	{0} ha sido adquirida
+136	{0} comprada
+137	{0} absorbida
+138	{0} ya no está en activo
+139	{0} se ha declarado en quiebra
+140	es|son|es|ellos|ellos|su
+141	Sin declaraciones
+142	{0} {1}, eso sí
+143	{0}, lo cual es una pena porque {1}
+144	{0}, pero al menos {1}
+145	{0} y {1}
+146	{0}, además {1}
+147	{0}, también {1}
+148	{0}, pero {1}
+149	{0}. {1}, eso sí
+150	Nostálgicos
+151	Asistencia de Calidad
+152	Equipo Antierrores
+153	Ahorradores
+154	La Punta Sangrante
+155	¿Quién es quién? Entérate
+156	Tendencias
+157	[ProductName] es de gran calidad
+158	[ProductName] es una obra magnífica
+159	Se nota que se ha trabajado mucho en [ProductName]
+160	[ProductName] está bastante bien
+161	Nos gusta [ProductName]
+162	[ProductName] cumple, y nada más
+163	[ProductName] está bien, supongo
+164	[ProductName] es bastante flojo
+165	A [ProductName] le falta algo
+166	[ProductName] podría haber sido mejor
+167	[ProductName] es una porquería
+168	[ProductName] está horriblemente construido
+169	[ProductName] es básicamente basura
+170	Despidan a los desarrolladores
+171	Es un producto muy estable
+172	[ProductName] funciona con mucha fluidez
+173	Nunca encontramos un error
+174	Los errores brillan por su ausencia
+175	Solo encontramos algunos fallos menores aquí y allá
+176	[ProductName] no tiene tantos errores
+177	[ProductName] tiene bastantes errores
+178	Encontramos un montón de errores
+179	Esto es un parche del primer día a punto de ocurrir
+180	Nos costó probar [ProductName] por culpa de los errores
+181	Se olvidaron de hacer algo que funcione de verdad
+182	[ProductName] se cerró antes de que termináramos de instalarlo
+183	[ProductName] no paraba de cerrarse
+184	Ni siquiera podemos abrir la cosa esta
+185	Cambiadle el nombre a [ProductName] por simulador de pantallazo azul
+186	Todo el mundo sabe quién [is] [CompanyName]
+187	[CompanyName] [is] conocida en todo el mundo
+188	Sabemos que conocéis a [CompanyName]
+189	[CompanyName] [is] bastante conocida
+190	[CompanyName] [is] muy respetada
+191	Hemos oído rumores sobre [CompanyNameBe]
+192	[CompanyName] es la última promesa
+193	[CompanyName] es la comidilla de la ciudad
+194	[CompanyName] [is] relativamente desconocida
+195	[CompanyName] [is] una incógnita por ahora
+196	No podemos contaros mucho sobre [CompanyNameBe]
+197	No estoy del todo seguro de haber oído hablar antes de [CompanyNameBe]
+198	¿¡Quién demonios [is] [CompanyName]!?
+199	Llamadme cuando alguien pueda decirme quién [is] [CompanyName]
+200	Literalmente nunca hemos oído hablar de [CompanyNameBe]
+201	¿Se supone que tenemos que saber quién [is] [CompanyName]?
+202	El precio es una locura total
+203	Nadie puede permitirse [ProductName]
+204	Qué precio más ridículo
+205	[ProductName] es sospechosamente barato
+206	[ProductName] es un producto desechable
+207	[ProductName] parece de presupuesto ínfimo
+208	[ProductName] debería haberse quedado en la década pasada
+209	[ProductName] parece un producto antiquísimo
+210	¿Esto salió hace 20 años o qué?
+211	No paramos de oír hablar de [ProductName]
+212	No podemos girar la cabeza sin ver [ProductName]
+213	Ves [ProductName] allá donde mires
+214	[CompanyName] [is] a tope con el marketing
+215	Creemos que [CompanyName] se olvidó de contarle a alguien lo de su producto
+216	Nos encantaría reseñar [ProductName], pero acabamos de enterarnos de que existe
+217	Es difícil hablar de [ProductName] sin material de marketing
+218	[ProductName] no logra atraer a nadie
+219	¿Para quién se hizo [ProductName]? Desde luego, no para nosotros
+220	[ProductName] es bastante básico
+221	[ProductName] no tiene nada
+222	[ProductName] se siente bastante vacío
+223	Se les olvidó añadir características
+224	Deberían haberlo dejado en el horno un poco más
+225	[CompanyName] se olvidó de hacer realmente un producto
+226	Se supone que hay que terminar el producto ANTES de lanzarlo
+227	Esto es un paso atrás para la IP
+228	Han empeorado la IP
+229	La IP no se merece este lanzamiento
+230	Han optado por el modelo de suscripción para [ProductName]
+231	Ahora hay que pagar todos los meses para usar [ProductName]
+232	Solo puedes usar [ProductName] mientras pagues por él, a diferencia de las entregas anteriores
+233	[ProductName] es una idea ambiciosa de [DesignerBe]
+234	Se nota la brillantez de [DesignerPos]
+235	[Designer] ha dado en el clavo
+236	[ProductName] es poco inspirado
+237	[ProductName] no aporta nada nuevo
+238	El mundo de [DesignerPos] es aburrido
+239	No parece que [Designer] [isD] muy motivado
+240	[ProductName] es supremamente aburrido
+241	[ProductName] no tiene una filosofía de diseño coherente
+242	El cerebro de [DesignerPos] está roto
+243	¿De verdad era esta la mejor idea de [DesignerPos]?
+244	[ProductName] no consigue llevar a cabo la idea de [DesignerPos]
+245	[CompanyName] ha fallado por completo a [DesignerBe] con este
+246	[Designer] necesitaba un presupuesto mayor para hacer de [ProductName] lo que podría haber sido
+247	[CompanyName] no lo vende en muchas plataformas en línea
+248	[ProductName] no está disponible en muchas tiendas en línea
+249	No logramos averiguar dónde conseguir [ProductName] en línea
+250	Probablemente deberías comprar [Competition] en su lugar
+251	Todos deberían echar un vistazo a [Competition] en su lugar
+252	Seguramente nos decantemos por [Competition], la verdad
+253	Ascensor
+254	Coloca ascensores unos sobre otros para conectar salas en distintas plantas
+255	Ascensor grande
+256	Ascensor más grande
+257	Hueco de ascensor
+258	Deja que el ascensor se salte una planta, ¿por qué no?
+259	Hueco de ascensor grande
+260	Hueco de ascensor más grande
+261	Escaleras
+262	Escaleras de cuarto de vuelta a la izquierda
+263	Escaleras de cuarto de vuelta a la derecha
+264	Escaleras con giro a la izquierda
+265	Escaleras con giro a la derecha
+266	Mesa
+267	Pon cosas encima y sillas alrededor
+268	Mesa de esquina
+269	Mesa de cristal
+270	Disfruta de la vista de tus pies mientras trabajas
+271	Marco
+272	Mesita auxiliar de 2 m
+273	Más o menos redonda
+274	Mesita auxiliar de 3 m
+275	Aún más redonda
+276	Escritorio
+277	Escritorio moderno
+278	Escritorio regulable
+279	Silla de plástico
+280	Silla de plástico incómoda
+281	Asiento
+282	Soporte
+283	Silla de comedor
+284	Para todas tus necesidades de sentarte fuera de la oficina
+285	Silla de oficina
+286	Bonita silla tapizada, aunque sin ruedas
+287	Respaldo
+288	Silla de dirección
+289	Para el máximo de sillez
+290	Silla ergonómica
+291	Pelota de yoga
+292	Sillas de espera
+293	Sofá
+294	Hogar Salón S. A.
+295	Sofá moderno
+296	Sofá de cuero
+297	Banco
+298	Es un banco
+299	Estantería
+300	Calefactor pequeño
+301	Humilde unidad de calefacción para las necesidades básicas de tu oficina
+302	Ventilador de techo
+303	Ingenioso ventilador de techo que no solo luce genial, ¡sino que además refresca la sala! Puede causar contaminación acústica.
+304	Base
+305	Aspas
+306	Radiador eléctrico
+307	Una tostadora para tu oficina
+308	Aire acondicionado
+309	Esta unidad refrigerará una sola sala
+310	Carcasa
+311	Ventiladores
+312	Caldera de gas
+313	Unidad de calefacción central de potencia industrial para calentar edificios enteros con gas barato
+314	Placa
+315	Contenedor
+316	Bomba de calor
+317	Unidad de calefacción central de potencia industrial para calentar edificios enteros con electricidad
+318	Aire acondicionado de tejado
+319	Unidad de refrigeración central de potencia industrial para enfriar edificios enteros
+320	Radiador
+321	Las unidades de calefacción central bombearán agua caliente por esta cosa para calentar una sala
+322	Radiador grande
+323	Ventilación
+324	Las unidades de refrigeración central expulsarán aire frío por esta cosa para enfriar una sala
+325	Aire acondicionado de techo
+326	Rejilla de calefacción de suelo
+327	Rejilla de refrigeración de suelo
+328	Ventilación industrial
+329	Este ventilador se diseñó para enfriar una sala hasta las condiciones que necesitan los servidores, es decir, no las personas
+330	Ordenador antiguo
+331	¡Más píxeles de los que puedes contar con una mano!
+332	Ordenador de los 90
+333	Portátil
+334	Ordenador moderno
+335	Ordenador moderno para todas tus necesidades informáticas modernas
+336	Ordenador RGB
+337	Consigue un ordenador gratis con la compra de una cantidad copiosa de LED RGB
+338	LED
+339	Teclas
+340	HoloOrdenador
+341	¡Bienvenido al futuro! Donde todo es un poco menos cómodo
+342	Holograma
+343	Mampara de cubículo
+344	Papelera
+345	Este juego de gestión de oficinas tardó solo 10 años en añadir papeleras
+346	Lámpara
+347	Asegúrate de que tus empleados vean cuando trabajan hasta tarde o si no te apetece poner ventanas
+348	Pantalla
+349	Iluminación
+350	Lámpara de pared
+351	Lámpara de escritorio
+352	Para mejoras de iluminación localizadas
+353	Plástico
+354	Metal
+355	Lámpara de pie
+356	Da luz, pero también estorba
+357	Lámpara de pie abierta
+358	Lámpara de trípode
+359	Articulación
+360	Barra de luz
+361	Luz
+362	Lámpara fluorescente
+363	Perfecta para iluminar sótanos sombríos con poco mantenimiento, aunque no tan buena para nada más
+364	Lámpara colgante fina
+365	Lámpara colgante triangular
+366	Lámpara de exterior
+367	¡Lámpara acogedora para todas tus necesidades de no tropezar en la oscuridad al aire libre por la noche!
+368	Luz de suelo
+369	Alarma de incendios
+370	Avisa a todo el edificio si se declara un incendio en la misma sala
+371	Aspersor
+372	Cámara de seguridad
+373	Necesita un puesto de vigilancia para poder usarse
+374	Minineverita
+375	Un lugar donde los empleados guardan su propia comida
+376	Asa
+377	Máquina expendedora
+378	Generador de comida
+379	Nevera
+380	Genera comida para que los cocineros cocinen
+381	Cocina
+382	Los cocineros usarán fogones para calentar la comida. Uno por cocinero.
+383	Bandeja de servicio
+384	Los cocineros llenarán las bandejas con la comida terminada para que los empleados puedan comer
+385	Mesa de servicio
+386	Café instantáneo
+387	Remojas polvo marrón en agua caliente y supongo que en algún momento te sientes menos cansado, ¿no?
+388	Jarra
+389	Café
+390	Tu cafetera de café molido de toda la vida
+391	Detalle
+392	Máquina de espresso
+393	Sirve café de gran calidad a base de hacer ruido y consumir grandes cantidades de agua, electricidad y mantenimiento
+394	Inodoro
+395	Máquina de cacas
+396	Lavabo
+397	Ducha
+398	Dispensador de agua
+399	Un lugar donde los empleados socializan
+400	Cuadro
+401	Un cuadro cursi para animar la oficina
+402	Imagen
+403	¡Añade tu propio arte al juego!
+404	Imagen de escritorio
+405	Expositor de hardware
+406	Espuma acústica
+407	Panel acústico de diamantes
+408	Panel acústico hexagonal
+409	Tele
+410	Librería
+411	¡Con libros incluidos!
+412	Mostrador de recepción
+413	Puesto de seguridad
+414	Colócalo estratégicamente para obtener los mejores resultados
+415	Puesto de vigilancia
+416	Permite que un guardia vigile cuatro cámaras de seguridad a la vez
+417	Puesto de TI
+418	Permite a tu personal de soporte informático arreglar dispositivos a distancia, a costa de no alcanzar sus objetivos diarios de pasos
+419	Planta de suelo
+420	Una encantadora planta de suelo
+421	Planta de mesa
+422	Bonsái de pocos polígonos
+423	Cactus de mesa
+424	Planta grande
+425	Ocupa mucho espacio, pero los empleados coinciden en que lo compensa con lo bonita que queda
+426	Alfombra cuadrada
+427	Alfombra de esquina
+428	Alfombra de esquina redondeada
+429	Alfombra de esquina inversa
+430	Alfombra grande
+431	Alfombra redonda
+432	Árbol pequeño
+433	Pino pequeño
+434	Árbol del dinero
+435	Otra forma de invertir tu dinero (todos los beneficios van a una cuenta en el extranjero)
+436	Árbol acogedor
+437	Reloj
+438	¡Máquina del tiempo! (No es una máquina del tiempo de verdad)
+439	Servidor pequeño
+440	Un ordenador normal, pero con más internet
+441	Servidor mediano
+442	Como un servidor pequeño, pero más mediano
+443	Servidor torre
+444	Una torre de alto rendimiento (no es una torre de verdad)
+445	Carcasa
+446	Servidores
+447	Rack de servidores
+448	Si un ordenador no es suficiente
+449	Rack de servidores grande

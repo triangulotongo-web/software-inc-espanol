@@ -1,0 +1,450 @@
+3150	Gestionar quejas y sueldos
+3151	Gestionar la formación
+3152	Gestionar las contrataciones
+3153	Secuelas, iteraciones y frameworks
+3154	Gestionar las tareas posteriores al lanzamiento
+3155	Mejorar la compatibilidad del equipo
+3156	Socializar con los empleados
+3157	Celebrar reuniones
+3158	Mejorar la eficacia con tareas de soporte y marketing
+3159	Mejorar la eficacia con tareas de desarrollo
+3160	Mejorar la eficacia con cualquier tarea
+3161	Notificar errores
+3162	Atender 2 incidencias de soporte
+3163	Probabilidad de corregir un error
+3164	Crear notas de prensa
+3165	Crear fotos de prensa
+3166	Crear vídeos de prensa
+3167	Gestionar disputas internas
+3168	Gestionar disputas externas
+3169	Solicitar patentes
+3170	Redactar informes fiscales
+3171	Optimizar impuestos y solicitar préstamos
+3172	Gestión de cuentas en el extranjero
+3173	Hay un ladrón en tus instalaciones
+3174	Hay un incendio activo en tus instalaciones
+3175	Sobrecargado
+3176	{0:Plural:Los empleados,El empleado} que has seleccionado {0:Plural:no son aptos,no es apto} para recibir formación.
+3177	Necesitan adquirir algo de experiencia relevante antes de poder asistir a una clase.
+3178	Ya han agotado sus puntos de especialización.
+3179	Se te acusa de {0} y se te demanda en una demanda colectiva por {1}. ¿Quieres llegar a un acuerdo o ir a juicio?
+3180	Motivos alegados:
+3181	El producto financiado no cumplió las expectativas
+3182	El producto financiado nunca se lanzó
+3183	No cumplir el calendario acordado
+3184	Investigar {0}\nNecesario: {3} x {1}\nRegalía potencial: {2}
+3185	El software que estás creando es muy complejo y tardará mucho en desarrollarse, sin aportar más interés a los consumidores. Deberías considerar seleccionar menos características.\n¿Seguro que quieres continuar?
+3186	Negligencia
+3187	Próxima clase
+3188	Restante
+3189	Disponible
+3190	Llama a los mensajeros directamente solo en emergencias, ¡se ponen carísimos muy rápido!
+3191	Aumenta la eficacia de las tareas de trato con personas, como soporte, marketing y trabajo legal
+3192	¿Seguro que quieres pasar este proyecto a la fase de desarrollo tan pronto? Un mal diseño puede reducir la calidad y aumentar los errores
+3193	Se ha transferido un total de {0} a tu cuenta bancaria conforme a tu póliza de seguro de contenidos
+3194	Reparar todas las salas y restaurar todo el mobiliario: {0}
+3195	Aumento de velocidad
+3196	Calidad de texturas
+3197	Una calidad de texturas menor hace que las texturas se vean más borrosas, pero ocupa menos memoria de la tarjeta gráfica, lo que resulta útil si tienes una tarjeta gráfica de gama baja.
+3198	Sombreado avanzado del mobiliario
+3199	Activa el mapeado de relieve y los reflejos en el mobiliario que los use
+3200	Policía
+3201	Un empleado tiene problemas para encontrar un sitio donde sentarse a comer
+3202	Coste mensual de reposición
+3203	Has terminado de investigar {0} y el nivel tecnológico {1} estará disponible para futuros proyectos de desarrollo. Sin embargo, un competidor ya ha investigado esta tecnología y no se puede patentar.
+3204	Un competidor ha hecho públicos sus datos de investigación tecnológica de {0} para {1} y tu investigación se ha cancelado
+3205	Simple
+3206	Avanzado
+3207	Pasar directamente al avanzado en futuros proyectos
+3208	Documento de diseño simple
+3209	Documento de diseño avanzado
+3210	No has mirado las opciones avanzadas de la ventana del documento de diseño.\n¿Seguro que quieres continuar?
+3211	Suavizado de bordes
+3212	Al activarlo se eliminan los bordes dentados de la interfaz de usuario, pero puede romper el renderizado en algunas combinaciones de Linux y controladores gráficos.
+3213	{0} [Empresa|Empresas]
+3214	Inflamabilidad
+3215	{0} ha solicitado acceso a tu plataforma de distribución digital.
+3216	{0} ha cancelado su acuerdo de distribución digital contigo.
+3217	Distribuir productos de otras empresas
+3218	Comprar automáticamente salidas de temperatura
+3219	Se han colocado {0} unidades por un total de {1}
+3220	No se encontraron oficinas ni zonas de recepción, que no estén ya equipadas, donde colocar unidades
+3221	Un visitante que quería cerrar un trato con tu empresa se fue a casa por el estado de tu sala de espera.
+3222	Aprox.
+3223	Regulación de la temperatura
+3224	El sistema de temperatura se ha renovado en la Alfa 11.4 y he quitado de tu partida todas las unidades de aire acondicionado, la calefacción central, los radiadores y la ventilación, ya que ya no funcionan igual.\n¿Quieres empezar ahora el tutorial de regulación de la temperatura?
+3225	La distribución no está disponible para productos propios
+3226	Haz clic aquí para alternar las capas que muestran el estado de tus salas, mobiliario y empleados. Clic derecho para desactivarlas.
+3227	Cualquier nivel
+3228	Gérmenes
+3229	Ya has investigado este nivel tecnológico
+3230	Atravesable
+3231	Este objeto solo se puede colocar sobre césped
+3232	Estadísticas
+3233	Contratados
+3234	Productos lanzados
+3235	Impresiones enviadas
+3236	Contratos completados
+3237	Ancho de banda del servidor
+3238	Fallo del servidor
+3239	Incendios
+3240	Robos consumados
+3241	Robos frustrados
+3242	Color del coche de empresa
+3243	Leyendo bits
+3244	Descomprimiendo bits
+3245	Traduciendo bits
+3246	Interpretando planos arquitectónicos
+3247	Colocando cimientos y levantando paredes
+3248	Juntándolo todo
+3249	Cambiando suelos, enlucido y pintura
+3250	Derribándolo todo
+3251	{0} [Acción|Acciones]
+3252	{0} [Minuto|Minutos]
+3253	{0} [Personalidad|Personalidades]
+3254	{0} [Tipo de software|Tipos de software]
+3255	{0} [empresa informática|empresas informáticas]
+3256	Ahora
+3257	Inversiones
+3258	Seguros e inversiones
+3259	Invierte en acciones y bonos, contrata un seguro de contenidos y consulta los pagos de seguros a empleados anteriores
+3260	Invertido en bonos
+3261	Invertir
+3262	Inicial
+3263	Bonos
+3264	Bolsa
+3265	Cotizada
+3266	Inversores privados
+3267	IP originales
+3268	Empresas compradas
+3269	{0} de {1} acciones valoradas en {2}
+3270	Sin interés
+3271	En cuarentena
+3272	Vender acciones
+3273	No cotiza en bolsa
+3274	A {0} no le interesa perder dinero con su inversión. Estaría dispuesta a venderte tus acciones de vuelta a {1} por acción, por un total de {2}.\n¿Te interesa?
+3275	Bancarrota
+3276	No lograste recuperar la mayoría de las acciones de tu empresa y fuiste absorbido por {0}
+3277	Los medios descubrieron que espiabas a tus usuarios con {0}, lo que afectará a tu reconocimiento en el mercado
+3278	No se permite la participación cruzada. Debes recomprar tus acciones a {0} para poder comprar acciones suyas.
+3279	Colocando {0} puertas y ventanas
+3280	Amueblando oficinas con {0} objetos
+3281	Creando {0} humanos
+3282	Con fallos
+3283	Puntos restantes
+3284	¡Un equipo se ha estropeado y ha provocado un incendio!
+3285	Autor
+3286	Mods de datos
+3287	Mods de código
+3288	Traducciones
+3289	{0} traducido
+3290	¿Quieres guardar los cambios?
+3291	Instalado localmente
+3292	Subido a Steam
+3293	Descargado de Steam
+3294	Completado
+3295	Sin terminar
+3296	Reclamar recompensa
+3297	Reclamada
+3298	Completa tareas para desbloquear mobiliario nuevo
+3299	Ahorro potencial
+3300	Energía solar
+3301	Caminos dinámicos
+3302	Si los empleados abrirán caminos al andar por la hierba o la nieve
+3303	Nubes
+3304	Desactivado
+3305	Esperando a los empleados que están en clase
+3306	Presupuesto mensual superado
+3307	No hay empleados listos en las especializaciones seleccionadas
+3308	Mantén Mayús para reclamar tu recompensa al instante
+3309	Si aceptas este acuerdo, estarás obligado por contrato a lanzar tu producto en {0}.\n¿Seguro que quieres continuar?
+3310	Una mala ergonomía provoca mala postura, poca eficacia, más bajas por enfermedad y quejas. Sin embargo, una buena ergonomía puede corregir la mala postura
+3311	Los cubículos pueden aislar a los empleados del ruido que los rodea, pero también los aíslan socialmente
+3312	Ofrecer a los visitantes una comodidad adecuada puede aumentar mucho su paciencia cuando te proponen acuerdos
+3313	Un café de más calidad frena con más eficacia el agotamiento de la energía
+3314	Los lavabos evitarán la propagación de gérmenes, que de otro modo aumentarían las bajas por enfermedad en toda tu empresa
+3315	Puedes usar este mobiliario para ofrecer a los empleados un lugar donde socializar y desestresarse, como alternativa a las reuniones, las cantinas y sentarse cerca de sus amigos
+3316	Necesitarás un mostrador de recepción y un recepcionista para recibir acuerdos de otras empresas
+3317	Los servidores se pueden conectar mediante el menú contextual ({KeyBind:ContextMenu}) o el modo cable ({KeyBind:ToggleWireMode})
+3318	Ergonomía
+3319	Neutral
+3320	Efectos adicionales
+3321	Cancelación de ruido
+3322	Aislamiento social
+3323	Postura
+3324	Mala espalda
+3325	Me duele la espalda
+3326	Lago
+3327	{0} decidió dimitir tras ver ignoradas sus quejas durante demasiado tiempo
+3328	Un empleado ha presentado una queja formal
+3329	Subir {0:Plural:los sueldos,el sueldo} a {1} (+{2})
+3330	Ignorar
+3331	Quejas de toda la empresa
+3332	Ver
+3333	¿Quieres vender {0} IP a {1:FirstOrCount:empresas} por {2}?
+3334	¿Quieres vender {0} IP a {1:FirstOrCount:empresas} por {2} o transferirlas a una filial?
+3335	Este mobiliario debe colocarse en una sala sin nada encima
+3336	A algunas personas simplemente les cansa trabajar en el mismo sitio toda la vida. Ofrecer buenos beneficios a tus empleados puede inclinar la balanza a tu favor
+3337	A la mayoría de la gente no le gusta trabajar de noche. Puedes dar a los empleados el beneficio de compensación por turno de noche para compensarlo
+3338	Los empleados se estresan si tienen demasiadas tareas complejas a la vez
+3339	Un entorno de trabajo abierto, cantinas, reuniones de equipo y mobiliario para socializar, como un dispensador de agua, pueden ayudar a los empleados solitarios
+3340	Asegúrate de que los empleados no pasen largas jornadas sin café para que no se sientan agotados
+3341	Separa los distintos equipos en salas diferentes para que no se distraigan entre sí
+3342	A veces un empleado no se lleva bien con otro empleado concreto de su equipo. Consulta la ventana de detalles del empleado para saber quién causa problemas
+3343	{0} [recompensa|recompensas]
+3344	Salida permitida
+3345	Salida no permitida
+3346	Alternar salida del ascensor
+3347	Los ascensores están desactivados durante los incendios
+3348	Fabricación
+3349	Alterna la capa de fabricación para ver el flujo de componentes por tus ensambladoras
+3350	Montaje final
+3351	Establecer salida
+3352	Fabricando {0}
+3353	Siguiente punto
+3354	Impresoras
+3355	Ensambladoras
+3356	Media
+3357	Óptimo
+3358	No lograste imprimir las últimas {0} copias para {1} a falta de poco más de {3:PluralKey:Month}, lo que te costó un total de {2}
+3359	Asignado
+3360	Impresión de software
+3361	Fabricación de hardware
+3362	Acuerdos entrantes
+3363	Acuerdos activos
+3364	Contrato de {0:ToLower} por un valor neto de {1}, con {2} copias pendientes
+3365	Copia sin entregar
+3366	Sin entregar
+3367	Coste de fabricación
+3368	Trabajo de fabricación para {0}
+3369	Esto debe colocarse {0}
+3370	en una mesa
+3371	sobre una mesa
+3372	en un ordenador
+3373	sobre una cinta transportadora
+3374	Vaciar
+3375	El sistema de impresión de productos se ha renovado en la Alfa 11.7 y he quitado de tu partida todas las impresoras, palés, trabajos de impresión y acuerdos de impresión, ya que ya no funcionan igual.\n¿Quieres empezar ahora el tutorial de distribución física?
+3376	Eficiencia
+3377	Eficiencia de reciclaje
+3378	Últimas 24 horas
+3379	Sistema de cintas
+3380	Artículos
+3381	Impresora de {0}
+3382	Ensambladora de {0}
+3383	Indica un límite de cuántas copias quieres tener en stock antes de pausar el trabajo. -1 significa sin límite.
+3384	Esto es un callejón sin salida
+3385	Desbloqueos permanentes
+3386	Si conservar todas las recompensas de mobiliario de esta partida que se hayan desbloqueado en este ordenador
+3387	No tienes las impresoras de componentes ni las ensambladoras necesarias para los contratos seleccionados.\n¿Seguro que quieres continuar?
+3388	Lanzar este producto ahora incumpliría tu contrato de distribución y podría acabar en una demanda.\n¿Seguro que quieres continuar?
+3389	Puedes hacer clic y arrastrar esta línea para cambiar el tamaño de los paneles contiguos
+3390	Algunas listas permiten seleccionar varios elementos manteniendo Ctrl, un rango de elementos manteniendo Mayús o todos los elementos pulsando Ctrl + A
+3391	Mobiliario asignado
+3392	Imposible
+3393	Consumo bajo
+3394	Colocar solo una vez
+3395	Colocar varios
+3396	Girar
+3397	Estirar para ajustar a la pared
+3398	Estirar
+3399	Cambiar el ancho de cada segmento
+3400	Girar en sentido horario
+3401	Girar en sentido antihorario
+3402	Cambiar estilo
+3403	Crear pilar
+3404	Rueda
+3405	Mantén {0}
+3406	Pulsa {0}
+3407	{0} para {1}
+3408	Multiplicador de velocidad medio
+3409	En curso
+3410	En planificación
+3411	Falta líder
+3412	El líder necesita la especialización en socialización de nivel 3
+3413	No hay sitio para celebrar reuniones
+3414	Camino bloqueado hacia la sala de reuniones
+3415	Esta sala está asignada a un equipo al que no se permite el paso por ninguna de las salas que llevan hasta ella
+3416	Permitido
+3417	No permitido
+3418	Autocompletar sala
+3419	Pulsa {KeyBind:AutoCompleteRoom} para autocompletar la sala para {0}
+3420	Permite a los empleados pasar por esta sala, aunque su equipo no tenga permiso
+3421	Densidad de tráfico
+3422	Belleza
+3423	Ruido de fondo
+3424	Reserva de talento
+3425	Coste de la parcela
+3426	Coste del proveedor de internet
+3427	Coste de suministros
+3428	Se puede usar como salida de emergencia
+3429	Inspector de incendios
+3430	Llamar al inspector de incendios
+3431	Inspección de incendios
+3432	El inspector de incendios visitará tu empresa mañana. Asegúrate de que la seguridad contra incendios esté en orden
+3433	Infracciones
+3434	Advertencias
+3435	Superada
+3436	Suspendida
+3437	Infracciones de evacuación
+3438	Los ascensores no se pueden usar durante un incendio. Necesitas escaleras entre plantas.
+3439	Infracciones de alarma de incendios
+3440	Infracciones de aspersores
+3441	Necesitas instalar aspersores en las oficinas para proteger a tus empleados.
+3442	Necesitas más personal de mantenimiento para atender todo tu inventario
+3443	Necesitas más personal de informática para atender todos tus aparatos electrónicos
+3444	Deberías instalar aspersores en las salas con objetos inflamables para reducir la propagación del fuego
+3445	Te han multado con {0}
+3446	¡Has superado la inspección de incendios!
+3447	Necesitas superar una inspección de incendios para obtener un seguro
+3448	Guardar mobiliario en el inventario
+3449	Inventario
+3450	Clic derecho para vender
+3451	Registro de automatización
+3452	RR. HH. de {0} perdió a {1} por ignorar sus quejas
+3453	RR. HH. de {0} dio a {2} una subida de {1} por sus quejas
+3454	RR. HH. de {0} envió a {1:PluralKey:Employee} a clase de {2}
+3455	RR. HH. de {0} gastó {1} en buscar empleados y contrató a {2}
+3456	El proyecto {0} lanzó {1}
+3457	El proyecto {0} puso en cola un nuevo proyecto: {1}
+3458	El proyecto {0} inició la fase de diseño de {1}
+3459	El proyecto {0} inició la fase alfa de {1}
+3460	El proyecto {0} inició la fase beta de {1}
+3461	El proyecto {0} se está encargando del soporte de {1}
+3462	El proyecto {0} finalizó el soporte de {1}
+3463	El proyecto {0} se está encargando del marketing de {1}
+3464	El proyecto {0} finalizó la campaña de marketing de {1}
+3465	El proyecto {0} encargó {1} copias de {2}
+3466	El proyecto {0} inició un trabajo de impresión de {1} copias de {2}
+3467	Helicóptero
+3468	Este helipuerto está bloqueado por arriba
+3469	Guardar historial de la consola
+3470	Varios
+3471	Tareas de distribuidora
+3472	Separar
+3473	Vaciar casillas
+3474	Las farolas y las lámparas de las salas proyectarán sombras de los objetos estáticos. Así se evita, por ejemplo, que la luz se cuele a través de las paredes
+3475	Deberías poner un reciclador después de este punto para evitar que se acumulen los componentes
+3476	Titular de la patente
+3477	El mod {0} causó un error y se ha descargado. Copia el mensaje de error de abajo y envíaselo al autor del mod
+3478	Un mod causó un error. Se generó el siguiente mensaje de error. Si puedes identificar el mod, copia el mensaje de error y envíaselo al autor del mod
+3479	Colocar libremente
+3480	Acústica
+3481	Inmediatamente
+3482	Puedes mejorar la acústica de una sala llenándola de mobiliario, para que los sonidos no reboten en las paredes, el suelo y el techo. Una mala acústica afectará negativamente a la capacidad de tus empleados para celebrar reuniones y socializar, y hará que el ruido llegue más lejos
+3483	Necesitas alarmas de incendios en cada sala de más de 10 metros cuadrados con objetos inflamables, o en las salas contiguas si tiene menos de 10 metros cuadrados, para avisar al edificio cuando se declare un incendio.
+3484	Los paneles acústicos son muy eficaces para mejorar la acústica de una sala teniendo en cuenta lo poco que ocupan
+3485	Zonas exteriores
+3486	Mesa de madera
+3487	Moqueta
+3488	Cinta transportadora
+3489	Desactivar cuadrícula
+3490	Fondo del mundo
+3491	Qué renderizar alrededor del mapa (se actualizará al recargar)
+3492	Vacío
+3493	Suelo sólido
+3494	Este objeto debe colocarse en una planta a la que se pueda llegar por carretera
+3495	Calendario de eventos
+3496	Consulta todos los próximos lanzamientos y plazos
+3497	Esta característica no está disponible para {0}
+3498	Desplazar cuadrícula 1/2
+3499	Cantidad de aumento de velocidad de desarrollo obtenida por ser una secuela y/o usar un framework
+3500	Cuánto costará fabricar un producto en las propias instalaciones. Encargar copias saldrá más caro
+3501	Cuánto tendrás que pagar al mes durante el desarrollo por usar las herramientas elegidas
+3502	Cuánto tendrás que pagar por las licencias de sistema operativo de cada empleado para desarrollar el producto
+3503	Cuánto uso de servidor puedes esperar de media suponiendo que tu producto sea un éxito
+3504	Lo interesado que está tu público objetivo en tu producto según las características elegidas, los niveles tecnológicos y la segmentación de submercados
+3505	Interés desperdiciado
+3506	Al alcanzar el 100 % de interés, has saturado a tu público objetivo. Añadir más características a partir de ahí alargará el tiempo de desarrollo, pero no generará más ventas
+3507	Cuántos compradores potenciales como máximo tiene tu producto
+3508	Autoequilibrar
+3509	Impulso del producto
+3510	Cuánto aumentaron las ventas el mes pasado gracias a los productos disponibles para este sistema operativo
+3511	Cuánto se ha gastado en crear y mantener este producto en sueldos, marketing, distribución, etc.
+3512	Calidad del césped
+3513	Deshacer cambio de pilar/sala
+3514	Cambio de pilar/sala
+3515	Usa esta herramienta para convertir salas en pilares, o viceversa, haciendo clic en ellas
+3516	Pilar
+3517	{0} [Cadena de montaje|Cadenas de montaje]
+3518	Ya existe una cadena de montaje con ese nombre
+3519	Esta cadena de montaje contiene impresoras de componentes que no hacen falta para esta tarea. Las impresoras innecesarias se detendrán periódicamente para evitar que se acumulen componentes de más
+3520	No se encontraron tareas de impresión compatibles
+3521	¡No tienes ninguna cadena de montaje compatible! La impresión no podrá empezar hasta que construyas una
+3522	¡No hay cadenas de montaje compatibles!
+3523	Alternar capa de datos de cadenas de montaje
+3524	Alternar capa de datos de fabricación
+3525	Próximos lanzamientos
+3526	Gestionar cadenas de montaje
+3527	Elige un nombre para tu grupo de planos
+3528	Nombre del grupo de planos
+3529	Mi grupo de planos
+3530	Guardar las salas seleccionadas en este grupo
+3531	Crear grupo nuevo
+3532	Reemplazar por las salas seleccionadas
+3533	Modificadores de velocidad
+3534	Analizar
+3535	Análisis de mercado
+3536	Saturación del mercado (cuanto menor, mejor)
+3537	Objetivo sugerido
+3538	Sencillez
+3539	Dibujo
+3540	Retoque
+3541	Mezcla
+3542	Composición
+3543	Grabación
+3544	Historia
+3545	Presentación
+3546	Procesamiento de textos
+3547	Hojas de cálculo
+3548	Monitorización
+3549	Protección pasiva
+3550	Protección activa
+3551	Modelado
+3552	Renderizado
+3553	Animación
+3554	Pagado
+3555	Cuánto se ganó usando este producto como herramienta de desarrollo para crear otro producto (incluidos proyectos nunca lanzados o aún por lanzar)
+3556	Número de licencias
+3557	Cuántos proyectos están licenciando actualmente este producto como herramienta de desarrollo
+3558	Resaltado diagonal de salas
+3559	Si mostrar líneas diagonales en el interior de una sala cuando está seleccionada
+3560	Trazando caminos por el laberinto de oficinas
+3561	Competencia
+3562	Solapamiento de mercado
+3563	Este producto no tiene competencia inmediata en este momento
+3564	Reponer
+3565	Este {0} está asignado a un empleado al que no se permite estar en la misma sala
+3566	Llegada del competidor
+3567	Investigación terminada
+3568	Investigación activa
+3569	Patentando
+3570	Si tienes un problema en tu partida actual y no la adjuntas a tus comentarios, puede que me sea imposible reproducirlo y solucionarlo.\n\n¿Seguro que quieres continuar sin adjuntar un archivo de guardado?
+3571	Por suscripción
+3572	Los usuarios pagarán una cuota mensual por usar tu software
+3573	Usuarios ganados
+3574	Diseñador de hardware
+3575	Diseño de {0}
+3576	Filtrar por especialización
+3577	Filtrar por compatibilidad
+3578	Filtrar por rasgo (clic izquierdo para exigir, clic derecho para filtrar)
+3579	Reserva
+3580	La reserva de candidatos se repone cada mes
+3581	No se encontró ningún empleado que cumpla los criterios seleccionados.\nVuelve a intentarlo el mes que viene
+3582	Selecciona un equipo
+3583	No se encontraron candidatos nuevos.\nSe han reembolsado {0}
+3584	Elige los rasgos restantes de tu fundador para continuar
+3585	Errores corregidos
+3586	Tus empleados no han terminado la actualización. Si paras ahora, se descartará todo su trabajo y solo se aplicarán las correcciones de errores.\n¿Seguro que quieres continuar?
+3587	Actualización
+3588	Versión
+3589	Candidatos esperados
+3590	¡No hay cadenas de montaje de {0}!
+3591	¡Ninguna cadena de montaje tiene {0}!
+3592	Escribe aquí un nombre para tu filtro:
+3593	Cargar filtro
+3594	Guardar filtro
+3595	Final
+3596	Campaña de marketing
+3597	Imprimir copias
+3598	Indica un presupuesto mensual para tu campaña de marketing. Escribe 0 para no tener límite.\nPuedes iniciar una campaña de marketing en cualquier momento tras lanzar un producto haciendo clic en el botón «Tus lanzamientos»
+3599	Para vender copias de tu producto tienes que encargar o imprimir copias físicas. Si no imprimes ninguna copia de tu producto, solo estará disponible en digital. Indica la cantidad de copias que quieres encargar.\nSiempre puedes encargar o imprimir copias nuevas en la ventana «Tus lanzamientos».

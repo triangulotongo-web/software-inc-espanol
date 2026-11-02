@@ -1,0 +1,450 @@
+3600	Copias
+3601	Gastos
+3602	Otros
+3603	{0} [Complemento|Complementos]
+3604	Desarrollar complemento
+3605	Problemas
+3606	Mensajes
+3607	Anterior
+3608	Hay empleados asignados a mobiliario al que no pueden llegar
+3609	{0:FirstOrCount:empleados} se fueron de vacaciones
+3610	Hay personal asignado a grupos de salas vacíos
+3611	Se detuvo a los ladrones y la policía logró recuperar {0} de {1} {1:Plural:objetos robados,objeto robado}
+3612	Los ladrones saquearon con éxito {0} {0:Plural:objetos,objeto}
+3613	Pulsa el ojo y luego «Restaurar mobiliario», abajo a la izquierda, para recomprar todo lo que perdiste
+3614	Un empleado tropieza en la oscuridad
+3615	Un empleado tiene problemas para concentrarse por el ruido
+3616	Un empleado está estresado por tener demasiadas tareas o jornadas demasiado largas
+3617	Algunos empleados están descontentos con su trabajo
+3618	A un empleado no le cubren sus necesidades sociales
+3619	Un empleado tiene hambre pero no encuentra comida
+3620	A un empleado le urge ir al baño pero no encuentra ninguno
+3621	Un empleado tiene problemas para concentrarse porque otros equipos ocupan su oficina
+3622	Un empleado cree que su entorno de oficina es deprimente
+3623	Un empleado está harto de trabajar hasta tarde sin compensación
+3624	Un cocinero no encuentra bandejas donde poner la comida
+3625	Asegúrate de tener una cantina con bandejas y de que no estén demasiado lejos de la cocina
+3626	Un cocinero no encuentra ningún fogón
+3627	Asegúrate de tener un fogón en funcionamiento por cada cocinero y al menos un frigorífico y una bandeja
+3628	Un cocinero no encuentra ningún frigorífico
+3629	Tus cocineros no pueden seguir cocinando porque todos los frigoríficos están vacíos
+3630	Un guardia de seguridad no encuentra ninguna entrada que vigilar
+3631	Quítale las salas asignadas para que vigile las entradas del edificio, o asegúrate de que las salas asignadas tengan puertas de entrada o puestos de seguridad
+3632	Los sistemas operativos compatibles con {0} ya no tienen usuarios a los que vender
+3633	Plantéate adaptarlo a otros sistemas operativos si es posible
+3634	Un producto se ha quedado sin existencias y estás perdiendo ventas
+3635	Tu mensajero no tiene dónde aparcar
+3636	Tienes que asignar un diseño inicial de proyecto a tu grupo de gestión de proyectos antes de que puedan empezar a trabajar
+3637	Ayer
+3638	Un producto va con retraso y está perdiendo seguidores
+3639	Tus empleados no dan abasto con el soporte
+3640	Un equipo tiene poca compatibilidad
+3641	Una unidad de regulación de temperatura está sobrecargada
+3642	Una empresa ha cancelado su acuerdo de distribución por tu conexión inestable
+3643	Suspendiste una inspección de incendios y te multaron con {0}
+3644	A los servidores les cuesta soportar su carga
+3645	En {0} no hay características de las que desarrollar {1:Vowel:un,un} {1}
+3646	{0} para {1}
+3647	{0} [Pista|Pistas]
+3648	{0} [Estilo|Estilos]
+3649	Tareas de actualización de software
+3650	Creador
+3651	Corregir errores (quedan {0} {0:Plural:errores verificados,error verificado} por corregir)
+3652	Actualización para {0}
+3653	Mantén todos los archivos del proyecto sincronizados en un mismo sitio, lo que reduce los errores y hace más eficientes a tus empleados durante el desarrollo. Requiere un servidor.
+3654	Especificaciones de tareas activas
+3655	Elegir
+3656	Buscar candidatos
+3657	No puedes lanzar este producto antes de terminar todos los productos de los que depende
+3658	Elige un diseño de {0}
+3659	Selecciona un producto para cada dependencia de herramienta
+3660	{0} [Diseñador jefe|Diseñadores jefe]
+3661	Creatividad
+3662	La creatividad determina la calidad de las ideas que generará un diseñador jefe durante la fase de diseño. La creatividad es innata del empleado y no mejora con formación. El nivel exacto de creatividad de un empleado se irá aclarando a medida que termine proyectos
+3663	Inspiración
+3664	Los diseñadores jefe necesitan inspiración para generar buenas ideas, y se va agotando poco a poco al usarla durante la fase de diseño. La inspiración no afectará a la creatividad del empleado hasta que la barra esté por debajo de la línea central
+3665	Los diseñadores jefe irán mejorando su habilidad en un tipo de software cuando lances productos que hayan diseñado
+3666	Asignar jefe
+3667	{0} [Exigencia|Exigencias]
+3668	El empleado recibe la patada
+3669	Tarifa fija
+3670	El empleado cobra una tarifa mensual fija, sea cual sea el número real de horas
+3671	Contrato no vinculante
+3672	El empleado es libre de aceptar ofertas de empleo de otras empresas
+3673	Jefe en exclusiva
+3674	El empleado trabajará como diseñador jefe y nada más
+3675	Comida de lujo
+3676	El empleado recibe todos los días una comida {Constant:LeadMeal} de una cocina
+3677	Coche de lujo
+3678	El empleado recibe un coche {Constant:LeadCar}
+3679	El empleado tiene su propia oficina privada
+3680	Indemnización dorada
+3681	El empleado recibe una bonificación si se rescinde su contrato, equivalente a {Constant:LeadGolden} años de sueldo
+3682	El empleado recibe {Constant:LeadRoyalty} de los ingresos brutos de los productos que ha diseñado
+3683	Propiedad de la IP
+3684	El empleado obtiene el derecho exclusivo a diseñar secuelas y se lleva todos los ingresos comerciales de cualquier IP en la que haya participado
+3685	El empleado supone un coste inicial extra de contratación por romper su contrato actual
+3686	{0} tiene exigencias que debes aceptar antes de continuar
+3687	No se están cumpliendo mis exigencias
+3688	A un diseñador jefe no se le están cumpliendo sus exigencias
+3689	Exigencias incumplidas
+3690	Portafolio
+3691	Portafolio de {0}
+3692	Tu diseñador jefe aún no ha tenido ni una sola idea para este diseño
+3693	Cuánto tienes que pagar por cada venta a frameworks, distribuidoras, diseñadores jefe y tecnología patentada
+3694	Desconocido
+3695	El siguiente mobiliario no se cargó en tu ordenador:\n{0}\nEl juego seguirá cargando tu partida sin este mobiliario, lo que podría estropear el juego.
+3696	¿Seguro que quieres sustituir el contenido de {0} por las salas seleccionadas?
+3697	{0} asumió las tareas de diseño jefe de {1}
+3698	Una tarea de diseño necesita al propietario de la IP como diseñador jefe para continuar
+3699	Este proyecto necesita al propietario de la IP ({0}) como diseñador jefe para empezar el desarrollo
+3700	¿Quieres comprar la IP de {0}?
+3701	Buscar diseñadores jefe
+3702	{0} le ha hecho a {1} una oferta de empleo muy lucrativa, ¿quieres igualar su oferta por {2}?
+3703	Fichar
+3704	Ahora mismo no hay diseñadores jefe disponibles
+3705	Necesitas subir tu reputación empresarial a al menos {0} estrellas para contratar a este empleado
+3706	{0} se ha retirado desde el lanzamiento de {1}
+3707	Contratar a este empleado tiene un coste inicial de {0}. ¿Seguro que quieres continuar?
+3708	La creatividad de {0} se ha acotado a {1}
+3709	Herramienta de arrastre de muros
+3710	Te permite arrastrar un muro para crear una zona nueva
+3711	Dividir a la izquierda
+3712	Dividir a la derecha
+3713	Puntos máximos de especialización del fundador
+3714	Bonificación de velocidad de la fase de diseño
+3715	Bonificación de adquisición de habilidades de los empleados
+3716	Ventana de impulso de marketing antes del lanzamiento
+3717	Inteligencia media de la IA
+3718	Bonificación de velocidad de la fase alfa
+3719	Importancia del reconocimiento de mercado inicial
+3720	Efecto del reconocimiento de mercado en las ventas
+3721	Ingresos extra por contratos
+3722	Puntos máximos de habilidad del fundador
+3723	Descuento en licencias
+3724	Descuento en el alquiler del edificio
+3725	Calvo
+3726	Cuerpo
+3727	Masculino
+3728	Femenino
+3729	Patrimonio de {0}
+3730	No puedes comprar {0} hasta {1} o hasta que se retiren, lo que ocurra primero
+3731	Aceptar acuerdos nuevos automáticamente
+3732	Activo
+3733	Est. {0}
+3734	Puedes llenar tu edificio automáticamente de radiadores y rejillas seleccionando un aire acondicionado de tejado o una unidad de calefacción central y pulsando el botón de compra automática en la esquina inferior izquierda
+3735	Se están generando los caminos en segundo plano.\nEsto puede tardar un poco en ordenadores antiguos y hacer que algunas salas dejen de estar disponibles temporalmente
+3736	Bombero
+3737	Cuánto se llevan las tiendas físicas por cada copia vendida en sus establecimientos
+3738	Una filial no tiene ningún diseñador jefe y, por tanto, no puede terminar ningún proyecto
+3739	Transferir
+3740	Unidades incluidas en las ventas de {0}
+3741	Un componente sin terminar ha detenido tu cadena de montaje. Construye recicladoras para evitar atascos
+3742	Beneficios de complementos
+3743	{0} [Variable|Variables]
+3744	{0} [LightStrip|LightStrips]
+3745	Dominio público
+3746	Archivado
+3747	Mostrar productos que ya no están en el mercado
+3748	Ya hay una actualización en desarrollo para este producto
+3749	No se está actualizando nada
+3750	Tiempo de carga
+3751	Aquí se está desperdiciando mi talento
+3752	Duchándose
+3753	Aparcabicicletas
+3754	Aparcabicicletas horizontal
+3755	Aparcabicicletas vertical
+3756	Caben 16 bicicletas
+3757	Electricidad a la red
+3758	W
+3759	kW
+3760	MW
+3761	GW
+3762	kWh
+3763	MWh
+3764	GWh
+3765	Wh
+3766	L
+3767	Carga
+3768	Consumiendo
+3769	Produciendo
+3770	Almacenado
+3771	Electricidad consumida
+3772	Electricidad producida
+3773	Agua consumida
+3774	Gas consumido
+3775	Suministros
+3776	Esto tiene que colocarse fuera de cualquier sala o zona vallada
+3777	Gas
+3778	Este {0:ToLower} no funcionará sin un {1:ToLower}
+3779	Costes de funcionamiento
+3780	Producción máxima
+3781	Alternar energía
+3782	Puedes pulsar {KeyBind:GotoEmp} para saltar entre los objetos que has seleccionado
+3783	Editor de mobiliario
+3784	Editor de diseño de hardware
+3785	Esta máquina está enviando componentes a una ubicación no válida
+3786	Un empleado cree que su entorno de trabajo es asqueroso
+3787	Una sala está sucia y hay que limpiarla
+3788	Irse al terminar
+3789	El personal se irá cuando no tenga nada que hacer, en lugar de cuando acabe su turno
+3790	Opcional
+3791	Puedes elegir un diseñador jefe para un contrato, lo que lo ralentizará pero revelará parte de su creatividad cuando termine el contrato
+3792	Segmentación de {0}
+3793	Esto te dice cuánto interés puede generar tu producto para este complemento con su segmentación de mercado y sus características actuales
+3794	Actualizaciones
+3795	Tu acuerdo de {0} con {1} se canceló porque los compraron
+3796	Tu acuerdo de {0} con {1} se canceló porque se compró la IP
+3797	Aburrido
+3798	Corriente
+3799	Inspirador
+3800	Visionario
+3801	Proporciona un aumento de velocidad de {Constant:Spec3Boost} para {0} {1}
+3802	código
+3803	arte
+3804	diseño
+3805	La creatividad determina la calidad de las ideas que generará tu fundador como diseñador jefe al desarrollar productos nuevos. La creatividad es innata y no mejora con formación. No se recomienda aumentarla en tu primera partida
+3806	{1} de los ingresos comerciales irán a {0:FirstOrCount:diseñadores jefe}
+3807	Plantillas
+3808	Una tarea de gestión de proyectos está atascada porque no hay diseñadores jefe aptos disponibles
+3809	No tienes empleados aptos con el diseño como función principal
+3810	Todavía no has diseñado el aspecto de tu hardware. ¿Seguro que quieres continuar?
+3811	No hay mods que editar. Haz clic aquí para abrir la wiki\n(Abre un enlace en el navegador)
+3812	Un diseñador jefe está trabajando en un proyecto sin inspiración, lo que puede perjudicar gravemente la calidad
+3813	Impacto de la creatividad en las ventas
+3814	Ciclismo
+3815	Yendo a ducharse
+3816	El precio de este software es ahora mismo mucho más alto de lo sugerido según sus características y/o niveles tecnológicos.\nEl precio sugerido es {0}
+3817	Píxel perfecto
+3818	Desactivarlo puede mejorar el rendimiento de los elementos de la interfaz, pero puede hacer que cosas como el texto y las imágenes se vean borrosas
+3819	Los intereses de los bonos se ingresan en una cuenta aparte y no se pueden usar hasta que se retiren
+3820	Equipos de actualización
+3821	Ciclo de actualización
+3822	Cada cuántos meses lanzar actualizaciones
+3823	Duración de las actualizaciones
+3824	Cuánto tiempo seguir lanzando actualizaciones tras el lanzamiento
+3825	Una de tus antiguas IP pasó a dominio público
+3826	La puntuación de creatividad de un producto depende de la calidad de las ideas que tuvo el diseñador jefe durante su concepción. La creatividad influye mucho en las ventas y el marketing
+3827	Puntuación de creatividad estimada
+3828	Enfoque
+3829	Moviendo {0} {0:Plural:segmentos,segmento} de muro
+3830	Siguiente fase
+3831	¡Hay una versión nueva disponible!
+3832	En la mayoría de los casos, los atascos de la línea de fabricación se resuelven añadiendo más cintas transportadoras, para espaciar la salida de las impresoras y ensambladoras de componentes, o mejorando a un nivel superior de cinta transportadora
+3833	Has cargado una partida de una versión anterior de Software Inc., así que puede que no puedas usar todas las características añadidas en la versión que estás jugando
+3834	Actualizando {0}
+3835	Añade contexto a tu problema, como qué estabas haciendo cuando ocurrió
+3836	Caducidad
+3837	Desperdiciado el mes pasado
+3838	No {0}
+3839	Actualizar niveles tecnológicos
+3840	Intenta actualizar a la última tecnología siempre que sea posible; si no, limítate a corregir errores
+3841	Puedes hacer clic y arrastrar este triángulo para cambiar el tamaño de la ventana
+3842	Opacidad
+3843	En ventana
+3844	Exclusivo
+3845	Esta sala es rara
+3846	Saca del espacio de trabajo de tus empleados el mobiliario con auras de ánimo negativas
+3847	Puedes hacer clic derecho en una notificación para descartarla
+3848	{0} {0:Plural:errores,error}
+3849	Filtrar la lista para mostrar solo a los empleados listos para formación
+3850	Editar etiqueta
+3851	Escribe una etiqueta para los objetos que has elegido:
+3852	Seleccionar tipos de segmento en las salas seleccionadas
+3853	Puerta de cristal
+3854	Logística
+3855	Consulta un resumen de tu consumo y producción de agua, gas y electricidad
+3856	Gestiona tus tareas de impresión de software y fabricación de hardware
+3857	Consulta un resumen de los lugares donde vender tus productos en digital o abrir tu propia tienda online
+3858	Tareas secundarias en curso
+3859	Plataformas
+3860	Cuota de mercado
+3861	Firmar plataformas nuevas automáticamente
+3862	Firmado
+3863	Desarrollar plataforma de distribución digital
+3864	Sincronizar filiales
+3865	Obliga a las filiales a usar las mismas plataformas de distribución que tú
+3866	No estás registrado en ninguna plataforma de distribución online, así que no puedes vender tus productos en digital
+3867	{0} disponible en {1:ToLower}
+3868	Comisión de ingresos
+3869	Acuerdo de exclusividad
+3870	Ofrece un acuerdo de exclusividad por tiempo limitado para los productos seleccionados en tu tienda digital
+3871	Exclusividad
+3872	{0:FirstOrCount:empresas} no {0:Plural:están,está} interesadas en tu acuerdo porque no tienes suficientes usuarios en tu plataforma
+3873	Fecha de fin
+3874	Nadie compra {0} porque es demasiado caro. Plantéate actualizar su tecnología o bajar el precio
+3875	Sugerido: {0}
+3876	Puede que tu CPU esté por debajo del requisito mínimo.\nPuedes pulsar espacio para saltarte el aviso, pero espera que el juego sea algo inestable.
+3877	Alternar distancia de interacción del mobiliario
+3878	Gestionar cola del ensamblador
+3879	Resaltar
+3880	{0} de {1} {1:Plural:empleados asignados,empleado asignado} no están cualificados para las tareas activas
+3881	Tener más empleados de los sugeridos en los equipos de desarrollo provoca rendimientos decrecientes: pagas más en sueldos, pero obtienes un aumento de velocidad cada vez menor
+3882	{1} quebró y recibiste {0}
+3883	Atrio
+3884	Aumenta la altura de una sala
+3885	Has instalado el juego en un sistema de archivos que distingue mayúsculas de minúsculas, lo que podría causar problemas. Para eliminar cualquier posibilidad de errores, plantéate mover los archivos del juego a una partición de disco que no distinga mayúsculas de minúsculas.
+3886	Balcones
+3887	No se puede cerrar el balcón
+3888	Leer código fuente
+3889	No volver a preguntar
+3890	Requiere un puesto de vigilancia en el mismo edificio
+3891	Mantén CTRL para invertir la zona del balcón
+3892	Esto tiene que colocarse en el suelo
+3893	Esto tiene que colocarse en el techo
+3894	Esta cámara tiene que estar en un edificio con un puesto de vigilancia
+3895	Cursor personalizado
+3896	Campaña
+3897	Esta acción no está disponible en esta parte de la campaña
+3898	Exterior
+3899	Conocidos
+3900	Los empleados se van conociendo con las interacciones diarias, como reuniones, comer juntos, sentarse cerca, etc. Su amistad se irá desvaneciendo poco a poco si no interactúan
+3901	Amigos
+3902	La compatibilidad entre empleados mejorará a medida que se hagan amigos
+3903	Mejores amigos
+3904	Mejor amigo
+3905	Los mejores amigos se potencian mutuamente y reducen el desgaste social, pero les afecta más profundamente que uno de ellos deje la empresa
+3906	Cohesión
+3907	A medida que los empleados de un equipo se hacen amigos, aumentan la cohesión y la compatibilidad del equipo
+3908	Orden
+3909	Esto indica qué parte de una empresa puedes comprar en acciones; necesitas al menos un 50 % para absorberla
+3910	Han despedido a mi amigo
+3911	Relaciones
+3912	Esperando al diseñador jefe
+3913	Ocultar cuadrícula
+3914	Si mostrar la cuadrícula solo donde está el cursor
+3915	El líder del equipo necesita estos puntos en la especialización de RR. HH. para desbloquear las siguientes opciones
+3916	Una empresa en la que has invertido ha empezado a vender más acciones
+3917	Descargar
+3918	Ayuda a traducir
+3919	Gran crecimiento este mes para {0}
+3920	{0} ha ganado la friolera de {1} este mes, lo que la valora en {2} con {3} lanzamientos en su catálogo.
+3921	Aceptar todos los sueldos
+3922	Rotación
+3923	Desplazamiento
+3924	Alinear con la cuadrícula
+3925	Empleados en todas las plantas
+3926	Muestra a los empleados a través de las ventanas de las plantas inferiores. Puede afectar mucho al rendimiento.
+3927	Barandilla
+3928	Prioridad por defecto
+3929	Con qué prioridad empezarán las tareas nuevas, de 1 a 10, siendo 10 la prioridad más alta
+3930	Impuesto
+3931	Impuestos
+3932	Tipo impositivo
+3933	Presenta la declaración en {0} o paga una tasa de {1}
+3934	A pagar
+3935	Explotación
+3936	Amortización
+3937	Informe fiscal
+3938	Contabilidad
+3939	Contable
+3940	Tareas de contabilidad
+3941	Oro
+3942	Plata
+3943	Cobre
+3944	Adquisiciones
+3945	Cuenta en paraíso fiscal
+3946	Equipos de contabilidad
+3947	Desvío de dinero
+3948	Optimización fiscal
+3949	Este tipo de tarea es secundaria para este equipo, lo que significa que solo trabajará en ella si no tiene nada más que hacer
+3950	Totalmente legal
+3951	Presión
+3952	Capital
+3953	Tendrás que pagar {0}, pero te ahorrarás {1} de intereses pendientes. ¿Seguro que quieres continuar?
+3954	Impuesto añadido
+3955	Te inspeccionarán si este número llega al 100 % y se descubrirá cualquier actividad ilegal
+3956	Fraude fiscal
+3957	Esta empresa no es ética
+3958	La policía está en camino para confiscar las posesiones ilegales
+3959	Te han inspeccionado y descubierto que realizas actividades ilegales
+3960	DDoS
+3961	Lanza un ataque de denegación de servicio distribuido contra los servidores de un producto de la competencia para aumentar los reembolsos y reducir su reconocimiento de mercado
+3962	{0} ha sido objetivo de un ataque DDoS
+3963	Los clientes tienen problemas para acceder a {0}, lo que está provocando muchas reseñas negativas.
+3964	Pagar para que se vaya un empleado
+3965	Haz que un empleado se vaya amistosamente, evitando posibles consecuencias negativas
+3966	Acciones
+3967	{0} decidió irse porque ya no se sentía a gusto en tu empresa
+3968	Usar cuenta en paraíso fiscal
+3969	Espionaje industrial
+3970	Espía a otras empresas para averiguar la última tecnología, saltándote el proceso de investigación
+3971	Solicitar préstamo
+3972	Préstamo rápido
+3973	Préstamo bancario
+3974	Solicitud de préstamo
+3975	Tus {0} fueron descubiertos y denunciados, lo que aumenta tu presión en {1}. Procura que no se noten tanto
+3976	Atractivo para candidatos
+3977	Tasa de rotación
+3978	Despidos masivos
+3979	Contabilidad e impuestos
+3980	Debes {0} en impuestos y tienes 3 meses para presentar un informe o pagar {1}
+3981	Presentaste con éxito un informe fiscal de {0}{1:NotNull: y ahorraste * en optimización fiscal}
+3982	Te multaron con {1} por no presentar un informe fiscal de {0}{2:NotNull:, pero ahorraste * en optimización fiscal}
+3983	Pagaste {0} en impuestos más una tasa de {1} por el informe fiscal
+3984	Ratón izquierdo
+3985	Ratón derecho
+3986	Ratón central
+3987	Flecha arriba
+3988	Flecha abajo
+3989	Flecha izquierda
+3990	Flecha derecha
+3991	Teclado numérico {0}
+3992	Más
+3993	Menos
+3994	Grosor
+3995	{0} fue sorprendido cometiendo fraude fiscal
+3996	{0} está en apuros tras ser sorprendido por las autoridades intentando evadir impuestos. Esto manchará la reputación de la empresa ante otras compañías y probablemente incluso ante sus propios empleados.{1:NotNull: Se rumorea que se le viene encima una demanda de *.}
+3997	Tus contables tienen 1 mes para terminar una adquisición
+3998	Compra metales preciosos para reducir tu factura de impuestos
+3999	El dinero obtenido de vender metales preciosos va a una cuenta en paraíso fiscal
+4000	Usa el dinero de la cuenta en paraíso fiscal para diversas acciones
+4001	Desvía dinero de la cuenta en paraíso fiscal de vuelta a la cuenta de tu empresa
+4002	Mercado negro
+4003	Compra un montón de mobiliario y confía en ganar lo que has gastado
+4004	Vender por {0}
+4005	Mínimo de contables necesarios
+4006	No recomendado
+4007	Cumplimiento est.
+4008	Notificaciones de existencias
+4009	A una tarea de soporte le faltan empleados que puedan presentar informes de errores
+4010	Logotipo
+4011	Pega aquí el código de tu logotipo
+4012	El código del logotipo no tenía el formato correcto
+4013	Usar código
+4014	Pegar
+4015	Generar código
+4016	Conecta la entrada
+4017	Logotipos personalizados
+4018	Editar
+4019	Efecto
+4020	Combinar
+4021	Espejo
+4022	Repetir
+4023	Mezclar colores
+4024	Intersecar
+4025	Restar
+4026	Transformar
+4027	Posición
+4028	Radio
+4029	Ángulo
+4030	Parámetro
+4031	Suavizado
+4032	Vaciar
+4033	Distorsión
+4034	Umbral
+4035	Lineal
+4036	Onda
+4037	Frecuencia
+4038	Voltear X
+4039	Voltear Y
+4040	Premios
+4041	Premio {0}
+4042	El efecto de un premio se va desvaneciendo cada año desde que se recibió, salvo los premios de platino
+4043	Te han nominado a un premio en {0} de {1} categorías. ¿Quieres ver los resultados?
+4044	Mejor empleador
+4045	Mejor producto
+4046	Mejor diseñador
+4047	Producto más rentable
+4048	Necesidades reducidas
+4049	Menor deterioro del mobiliario

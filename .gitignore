@@ -1,0 +1,9 @@
+# Archivos del juego y descompilado: no se publican
+English/
+decomp/
+decomp_fp/
+textos.json
+__pycache__/
+listar.py
+textassets.txt
+trozos/*_en.txt

@@ -1,0 +1,450 @@
+900	Sistema de reseñas
+901	9/10 - Tiene algo para todo el mundo
+902	Sincronización en la nube
+903	Funciones sociales
+904	Amigos, chat, foros y otras formas de difundir fotos de gatos
+905	Chat de voz
+906	Parches delta
+907	Resulta que solo hace falta actualizar lo que ha cambiado
+908	Streaming remoto
+909	La tecnología de gran ancho de banda por fin permite a los usuarios emitir sus hojas de cálculo favoritas en el televisor del salón en Full HD
+910	Altura
+911	Profundidad
+912	Anchura
+913	Mod. de longitud
+914	Inclinación inferior
+915	Inclinación superior
+916	Esquinas
+917	Curva
+918	Curva superior
+919	Doblez
+920	Hendidura superior
+921	Hendidura inferior
+922	Bulto
+923	Asas
+924	Grosor de asas
+925	Base del gatillo
+926	Centro trasero
+927	Espacio de dedos trasero
+928	Redondez
+929	Curva frontal
+930	Hendidura frontal
+931	4 botones
+932	Tamaño
+933	Escala
+934	2 botones
+935	Cruceta
+936	Cruceta segmentada
+937	Palanca analógica
+938	Botón grande
+939	Botón Select
+940	Estrechamiento
+941	Forma
+942	Panel táctil
+943	Asa central
+944	Longitud
+945	Curva inferior
+946	Curva superior
+947	Inclinación
+948	Entrante
+949	Escalón
+950	Mod. central
+951	Anchura central
+952	Inserto del mando
+953	Teléfono móvil
+954	Anchura de pantalla
+955	Altura de pantalla
+956	Posición de pantalla
+957	Curva lateral
+958	Curva inferior
+959	Abombado superior
+960	Abombado frontal
+961	Parte trasera redondeada
+962	Bultos
+963	Altura de teclas
+964	Doblez 2
+965	Escala de teclas
+966	Biseles
+967	Elíptico
+968	Fino
+969	Plano
+970	Smartphone
+971	Curva trasera
+972	Esquinas suaves
+973	Grosor del marco
+974	Borde redondeado
+975	Marco
+976	Altura de pantalla inferior
+977	Altura de pantalla superior
+978	Muesca
+979	Anchura de muesca
+980	Consola antigua
+981	Estrechamiento inferior
+982	Estrechamiento superior
+983	Bulto trasero
+984	Cinturón
+985	Pendiente
+986	Gana {Currency:50000} con contratos
+987	Compra tu propia parcela de terreno
+988	Puedes mover tu empresa en el modo construcción o desde el menú de pausa
+989	Lanza tu primer producto
+990	Construye una cantina y una cocina
+991	Puedes marcar una sala como cantina con el menú contextual ({KeyBind:ContextMenu}) y pulsando «Limitar uso de la sala»
+992	Cantina con mesas de servicio
+993	Cocina con neveras y fogones
+994	Contrata cocineros
+995	Controla la temperatura de tu edificio con sistemas centralizados de calefacción y refrigeración
+996	Construye calefacción central
+997	Construye refrigeración central
+998	Distribuye el calor y el frío por tus oficinas
+999	Gana {Currency:20000} con acciones y bonos
+1000	Contrata a tu primer empleado
+1001	Amuebla tu oficina para que tus empleados estén cómodos
+1002	Algo de comer
+1003	Váter y lavabo
+1004	Un dispensador de agua donde socializar
+1005	Un ordenador para cada empleado
+1006	Iluminación adecuada
+1007	Ten 4 empleados
+1008	Imprime y distribuye 100.000 copias físicas de cualquier producto
+1009	Compra una impresora de productos
+1010	Compra palés
+1011	Contrata a un mensajero
+1012	Envía 100.000 productos
+1013	Posee una filial
+1014	Acepta tu primer acuerdo
+1015	Para recibir acuerdos necesitas un mostrador de recepción y un recepcionista
+1016	Coloca un mostrador de recepción
+1017	Contrata a un recepcionista
+1018	Acepta un acuerdo
+1019	Ten una granja de servidores con al menos 3 servidores
+1020	Compra al menos 3 servidores
+1021	Conecta 3 servidores en un único grupo
+1022	Posee 800 metros cuadrados de terreno
+1023	Puedes comprar parcelas en el modo construcción con la herramienta Parcelas del menú de construcción
+1024	Aprendiz rápido
+1025	Aumenta la habilidad y adquiere especializaciones más rápido
+1026	Independiente
+1027	Le afectan menos las necesidades sociales
+1028	Cerebrito
+1029	Sin límite de puntos de especialización en el rol principal
+1030	Modesto
+1031	Tiene unas exigencias salariales por debajo de la media
+1032	Condensador
+1033	No se cansa hasta que se agota por completo la energía
+1034	Pasa del cuerpo
+1035	No le afectan emocionalmente las necesidades corporales
+1036	No le afectan los entornos caóticos
+1037	Noctámbulo
+1038	Trabaja mejor de noche, no le gustan las mañanas tempranas
+1039	Líder nato
+1040	Mejores dotes de liderazgo, malo en todo lo demás
+1041	Firmware Inc.
+1042	Genial desarrollando hardware, no tanto con el software
+1043	Superconcentración
+1044	Trabaja rápido en una sola tarea, pero fracasa en la multitarea
+1045	Imperturbable
+1046	No le afecta mucho nada emocionalmente
+1047	Solo es una gripe
+1048	Nunca pide la baja por enfermedad, pero sigue siendo contagioso
+1049	Distante
+1050	No le afecta la compatibilidad de equipo
+1051	Estresado
+1052	Se estresa con más facilidad
+1053	Paciente cero
+1054	Se pone enfermo más a menudo
+1055	Comedor lento
+1056	Tarda el doble en comer
+1057	Vejiga nerviosa
+1058	Va al baño más a menudo
+1059	Paso de caracol
+1060	Camina más despacio
+1061	Olvidadizo
+1062	De vez en cuando olvida su especialización
+1063	Portavasos
+1064	De vez en cuando rompe su ordenador
+1065	Maniático de la limpieza
+1066	No soporta los entornos sucios o feos
+1067	Silencioso pero letal
+1068	Nadie querrá subir al ascensor con él
+1069	Tengo reloj
+1070	Eso es todo... Ese es el rasgo
+1071	Mejor andando
+1072	No usará coches
+1073	Con el ánimo bajo
+1074	Se deprime los días de lluvia
+1075	Suela vieja
+1076	Arrastra más suciedad
+1077	Rayo de sol
+1078	El buen tiempo mejora su ánimo y el calor no le molesta tanto
+1079	Rascacielos
+1080	Prefiere trabajar en las plantas altas, cuanto más arriba, mejor
+1081	Pulgar RGB
+1082	Arregla su ordenador mientras lo está usando
+1083	Hace amigos
+1084	Hace amigos más rápido y las amistades nunca se desvanecen
+1085	Claustrofóbico
+1086	Odia las salas pequeñas o abarrotadas y la falta de ventanas
+1087	Impecable
+1088	No deja desorden al personal de limpieza
+1089	Para empezar a desarrollar software, los diseñadores deben montar un documento de diseño. Este documento describe cómo debe desarrollarse y estructurarse el software, para asegurarse de que todos estén en la misma página.\n\t\nLa fase de diseño se divide en iteraciones. Cada iteración aumenta la calidad final potencial y reduce la velocidad y la cantidad de errores de tu proyecto. Hay 2 formas de abordar la fase de diseño:\n\t•Puedes terminar 1 iteración y resolver los problemas en la fase de desarrollo\n\t•Puedes terminar todas las iteraciones y tener menos problemas en la fase de desarrollo\n\t\nEl primer método es muy eficaz, pero dificulta estimar cuánto durará el desarrollo; en cambio, el segundo método alarga la fase de diseño de forma exponencial, sin duda alguna.\n\nPulsa {H:continuar} para avanzar en el tutorial.
+1090	Al hacer una reseña tienes que elegir cuántas reseñas quieres. Cuantas más reseñas tengas, mayor precisión obtendrás.\n\t\t\t\nTambién tienes que decidir quién quieres que haga la reseña, lo que afecta al precio final.\n\nPor último, tienes que decidir qué partes del software revisar. Si ya has obtenido buenas puntuaciones en una reseña anterior, puedes ahorrar tiempo y dinero omitiendo esas áreas en la reseña actual.\n\nPulsa {H:OK} cuando estés listo para continuar.
+1091	Las reseñas irán llegando con el tiempo. Puedes terminarla antes de tiempo si quieres, pero si quieres una precisión alta, deberías esperar a que lleguen todas.\n\nTen en cuenta que las reseñas se basarán en la versión del proyecto que existía cuando hiciste clic en reseñar por primera vez, así que los cambios posteriores no se tendrán en cuenta.\n\t\t\t\nHaz clic en el botón {H:Fin} de la reseña cuando la barra de progreso se haya llenado.
+1092	Si la puntuación de la reseña no es satisfactoria, puedes hacer clic en el botón de iterar para pausar el desarrollo y dejar que tus diseñadores reelaboren el documento de diseño. Esto atará los cabos sueltos, pero también retrasará un poco el progreso de tu proyecto.\n\nSi estás contento con tu puntuación, simplemente cierra la ventana de la reseña y continúa con el desarrollo.
+1093	Al pulsar {KeyBind:MultipleSelect} sobre objetos, salas o empleados podrás seleccionar varios a la vez; después puedes pulsar {KeyBind:ContextMenu} en cualquier sitio para ver el menú contextual. Puedes mantener pulsado {KeyBind:SweepSelect} para seleccionar rápidamente objetos del mismo tipo o pulsar {KeyBind:NormalSelection} y arrastrar para seleccionar todo lo que haya dentro de un rectángulo.\n\nPrueba a seleccionar al menos 2 cosas en el juego.
+1094	Vamos a poner algo de mobiliario en tu sala.\n\nConstruye una mesa nueva haciendo clic en el botón {H:Amueblar} o buscando {H:mesa}.
+1095	Ahora añade una silla. Las sillas solo se pueden añadir a las mesas.\n\nTen en cuenta que algunos muebles, como las sillas y las mesas, se pueden sustituir por versiones alternativas una vez colocados. Puedes usar el menú contextual para sustituir fácilmente muchos muebles a la vez, por ejemplo seleccionando todos los muebles del mismo tipo de las salas seleccionadas.
+1096	Por último, añade un ordenador. Al añadir un ordenador, haz clic y mantén pulsado donde quieras ponerlo y arrastra el ratón en la dirección hacia la que quieras que mire; por último, suelta el botón del ratón para colocarlo.\n\nLos ordenadores tienen que estar encima de una mesa y mirar hacia una silla.
+1097	Cuando pones mesas una al lado de otra, se agrupan si no tienen nada encima. Las mesas agrupadas se pueden usar para reuniones. Para ver qué mesas están agrupadas, selecciona una mesa y su grupo se resaltará en azul.\n\nEs importante que controles los niveles de ruido de tu entorno de trabajo; prueba a activar la superposición de audio para ver qué mobiliario hace ruido.
+1098	Tu fundador no tiene hambre, ni se siente solo, ni necesita ir al baño, ni se molesta por nada en general, pero los empleados nuevos que contrates sí. Así que asegúrate de añadir al menos una máquina expendedora, un radiador, un ventilador y un baño aparte antes de contratar a nuevos empleados.\n\nActiva la superposición de audio para avanzar.
+1099	Ahora asignemos la sala a un equipo; los empleados de otros equipos no podrán usarla ni siquiera atravesarla.\n\nHaz clic derecho en tu nueva sala y elige {H:Cambiar de equipo}, que se parece a un grupo de personas. Aparecerá una ventana; haz clic en {H:Core} para asignar la sala al equipo Core.\n\nRecuerda asignar también a los empleados a un equipo. Puedes hacerlo pulsando {KeyBind:ContextMenu} sobre un empleado y eligiendo {H:Cambiar de equipo}, desde la ventana de empleados o directamente en la ventana de contratación.
+1100	Empieza el tutorial pulsando el botón {H:Desarrollar software} para abrir el documento de diseño.
+1101	Continúa yendo a la primera página del documento de diseño avanzado.
+1102	Te damos la bienvenida al documento de diseño, el corazón de Software Inc. Aquí es donde decides qué tipo de software quieres crear.\n\nEmpieza eligiendo un tipo de software.\n\nHaz clic en continuar para avanzar en el tutorial.
+1103	Si procede, puedes elegir una categoría de software. Cada categoría de un tipo de software tiene distintos tiempos de desarrollo, popularidad, retención de audiencia, características y su propio público objetivo.
+1104	Después elige un nombre. Puedes escribir uno tú mismo o pulsar el botón «Nombre:» para que se genere uno.
+1105	También puedes elegir un precio. Si dejas el campo del precio como está, se elegirá el mejor precio según el software y las características que hayas elegido. Puedes hacer clic en el botón Precio para restablecerlo.
+1106	Veamos las características que puedes elegir para tu producto. Cada característica requiere tiempo de desarrollo y satisface a mercados distintos.\n\nEl software se divide en especializaciones, como 2D, 3D, Sistema, etc. Cada especialización se muestra como un contenedor en el panel de características y cada contenedor tiene una lista de características extra que puedes añadir. Las características extra requieren que tus empleados tengan la cantidad adecuada de «estrellas» en la especialización a la que pertenecen.\n\nLas características resaltadas en rojo no están disponibles porque ningún empleado de los equipos de desarrollo que has elegido tiene la cantidad de estrellas necesaria.
+1107	Las características de 1 estrella son características sencillas que ayudan a satisfacer a los submercados en menor medida\n\nLas características de 2 estrellas son mucho más eficaces para satisfacer a sus públicos objetivo que las de 1 estrella, ya que obtendrás más valor por el tiempo dedicado a desarrollarlas\n\nLas características de 3 estrellas no satisfacen a tu público objetivo, sino que modifican tu software de algún modo
+1108	Como habrás notado, cada característica principal tiene asociado un nivel tecnológico. Los niveles tecnológicos pueden ser investigados por ti o por otras empresas con el paso de los años.\n\nUsar el nivel tecnológico más reciente aumentará la satisfacción de tu público objetivo y la comerciabilidad de tu producto, pero aumentará el tiempo de desarrollo y los posibles costes de investigación y licencias asociados a su desarrollo.\n\nConviene señalar que el nivel tecnológico máximo está limitado por las herramientas necesarias durante el desarrollo.
+1109	Puedes convertir tu software en la secuela de un producto que hiciste antes o que compraste a otra empresa. Para ello, haz clic en el botón {H:IP original} y selecciona un producto.\n\nHacer una secuela dará un impulso de marketing y cambiará las expectativas de tus fans según el éxito de sus predecesores.\n\nLas características que se implementaron en el producto predecesor aparecerán resaltadas en naranja en el panel de características, ya que se desarrollarán más rápido de lo normal.
+1110	Tu producto puede depender de otros tipos de software. Por ejemplo, necesitarás un editor 2D para hacer un juego con gráficos 2D; si no, tus artistas no podrían crear los recursos gráficos necesarios.\n\t\t\t\nAdemás, la mayoría del software también necesita funcionar en uno o más sistemas operativos. Conviene elegir sistemas operativos populares, ya que limitarán el tamaño de tu audiencia. Pero ten cuidado: cada sistema operativo que decidas admitir alargará el desarrollo.\n\nPuedes portar tu software a otros sistemas operativos después de su lanzamiento, si lo deseas.\n\nPasa a la página siguiente cuando estés listo.
+1111	El triángulo de submercados te permite decidir cómo se ponderan tus esfuerzos de marketing y diseño para dirigirte a un sector de usuarios del mercado.\n\nPuedes decidir a qué mercados quieres dirigirte y elegir características que satisfagan a esos mercados, o elegir las características que quieres en tu producto y equilibrar los mercados para que encajen con ellas.\n\nLas 3 barras de abajo te mostrarán lo bien que las características elegidas satisfacen a cada mercado y cuánto requieren, según cómo hayas equilibrado el triángulo.\n\n¡Solo queda 1 página!
+1112	Si te preocupa cómo pagar a tus desarrolladores, cuántas copias físicas tendrás que encargar o cuánto esfuerzo dedicar a tu campaña de marketing, puedes firmar con una distribuidora y ella se encargará de estos detalles, si aceptas pagarle royalties con los beneficios de tu producto.
+1113	Antes de terminar, asegúrate de revisar la información de este cuadro. Resume todo lo que necesitas para desarrollar este producto.\n\t\t\t\nPresta especial atención al porcentaje de {H:Interés esperado}, ya que añadir más características una vez que llega al 100% solo aumentará el tiempo de desarrollo, no tus ventas.\n\nTener más empleados de los sugeridos en los equipos de desarrollo dará rendimientos decrecientes, así que pagarás más en sueldos pero obtendrás un aumento de velocidad cada vez menor.
+1114	Después de pasar por las fases de desarrollo y cuando estés listo para lanzar tu producto, recuerda comprobar si se acaba de lanzar algún producto popular en la misma categoría de software que el tuyo.\n\nTambién puedes consultar el {H:Calendario de eventos} para evitar los próximos lanzamientos de tus competidores y asegurarte de que una gran empresa no eclipse tu producto.\n\n¡El momento lo es todo cuando estás empezando!
+1115	Para transportar cajas por tu edificio necesitas {H:cintas transportadoras}.\n\nLas {H:cintas transportadoras} te permiten llevar cajas a través de paredes y hasta palés o directamente al exterior para que las recojan los mensajeros, colocando {H:puertos de garaje}.\n\nPuedes dirigir cajas desde distintos lugares al mismo destino colocando cintas transportadoras perpendiculares entre sí. O puedes dividir las cajas en distintas direcciones colocando {H:divisores de cinta}. Asegúrate de dejar espacio en tus cintas para que pasen las cajas, ya que las máquinas no podrán empujar cajas si la cinta que tienen delante está bloqueada.
+1116	Los {H:palés} se pueden usar como almacenamiento, para evitar que se amontonen las cajas, o como punto de recogida para los {H:mensajeros}.\n\nColoca {H:palés} junto a las {H:cintas transportadoras} para dejar las cajas cuando las cintas estén obstruidas y volverán a moverse cuando el camino esté libre.\n\t\t\nSal del {H:modo construcción} cuando estés listo.
+1117	En la ventana de personal puedes contratar {H:mensajeros} que vengan una vez al día a recoger cajas o llamar a un mensajero para que recoja cuantas cajas pueda de inmediato. Llamar a mensajeros es mucho más caro y debería reservarse para emergencias.\n\t\t\nCuando estés listo, abre la {H:ventana de distribución} para ver cómo puedes gestionar tu propia tienda de distribución digital.
+1118	También tendrás que elegir a un diseñador jefe que se le ocurran ideas para tu proyecto. El juego ya habrá elegido al empleado más adecuado, según los equipos de diseño asignados.
+1119	Empieza abriendo el {H:menú de impuestos}.
+1120	Los impuestos hay que pagarlos cada año en que hayas obtenido beneficios, y cada año tienes la opción de presentar una {H:declaración de impuestos} antes de abril o pagar una multa. Cualquier activo o actividad ilegal que se haya producido durante ese año fiscal será descubierto si no presentas tú mismo la declaración.\n\nTen en cuenta que, en los activos que puedes comprar o vender, como un ordenador o una {H:IP}, los impuestos se basan en la {H:depreciación} de su valor, y no en su valor real cuando lo compraste o vendiste.\n\nAbre la {H:ventana de contabilidad} para continuar el tutorial.
+1121	En la ventana de contabilidad puedes elegir qué equipos deben presentar tus declaraciones de impuestos y {H:optimizar} tus impuestos cada año.\n\nTus contables optimizan tus impuestos encontrando errores y formas de reducirlos. Si no obtienes beneficios durante un año fiscal, ese esfuerzo no te ahorrará dinero.\n\nHaz clic en {H:Continuar} para leer sobre la cuenta offshore.
+1122	Puedes comprar {H:metales preciosos} para reducir tus impuestos e incluso obtener beneficios vendiéndolos cuando suba el precio. Solo procura no dejar tu reserva de metales preciosos a la vista de nadie que no sea tu personal.\n\nEl dinero que ganes vendiendo metales preciosos va a tu {H:cuenta offshore}, que no se puede usar para tus operaciones diarias.
+1123	Tu cuenta offshore se puede usar para la acción que aparece en la parte inferior de la ventana o reenviarse a la cuenta principal de tu empresa. Las acciones también indican el coste para tu cuenta offshore y cuánto {H:calor} generará la acción.\n\nPresta mucha atención a tu {H:nivel de calor}. Cuando llegue al 100% te harán una auditoría, se descubrirá cualquier actividad ilegal y te embargarán los activos.
+1124	Puedes desarrollar nuevos complementos en cualquier momento abriendo la ventana {H:Tus lanzamientos} y seleccionando un producto que tenga complementos disponibles, o abriendo la ventana de detalles de un producto y haciendo clic en una de sus pestañas de complementos.\n\nPrueba a empezar a desarrollar un complemento ahora para continuar el tutorial.
+1125	Un {H:complemento} es un producto que puedes desarrollar para venderlo como extensión de un producto existente.\n\nHaz clic en {H:Continuar} para echar un vistazo a las características que puedes elegir para un complemento.
+1126	Las características de los complementos funcionan como las de los productos normales, pero algunas tienen la opción de aumentar su potencial.\n\nLas características que puedes añadir dependerán de la categoría y las características del producto principal. Las características deben elegirse de forma que atraigan al mismo mercado objetivo que el producto para el que se hacen.\n\nPuedes encontrar complementos de otros productos buscando en la ventana de productos los que tengan un saldo distinto de cero en la columna {H:Beneficio de complementos}.\n\nPrueba a ver si encuentras ahora un producto así.
+1127	Ahora haz clic en la pestaña del complemento correspondiente y abre los detalles de un complemento para verlos.
+1128	Desarrollar complementos puede ser una buena forma de obtener algunos ingresos extra de productos populares o de recuperar a antiguos clientes en productos basados en suscripción.\n\nLos complementos hechos para hardware son periféricos; algunos pueden ser obligatorios para el desarrollo del producto principal y algunos incluso se pueden vender varias veces al mismo cliente, como los joysticks de las consolas.
+1129	La primera página del documento de diseño avanzado se parece al documento de diseño simple, pero con un panel de {H:Framework} adicional.\n\nPuedes usar o crear un framework al desarrollar software. Los frameworks aceleran el desarrollo, pero limitan los niveles tecnológicos máximos de tus características.\n\nUsar un framework hecho por otra empresa requerirá que pagues una tasa de licencia con tus beneficios.\n\nSi decides crear un framework nuevo, alargará un poco el desarrollo, pero el nuevo framework se podrá licenciar a otras empresas para ganar algo de dinero extra.
+1130	El documento de diseño avanzado tiene varias páginas. Pasemos a la página 2 para continuar.
+1131	Esta es la página de resumen. Aquí puedes repasar los detalles finales de tu proyecto, decidir qué equipos de diseño y desarrollo usar y si quieres una {H:Distribuidora}. Las distribuidoras ayudarán a financiar tu proyecto y se encargarán del marketing y la distribución física a cambio de una parte de tus beneficios.\n\nHaz clic en el botón de desarrollar cuando estés listo para empezar el desarrollo.
+1132	Tienes que llegar a la fase de implementación del desarrollo para que el tutorial pueda continuar
+1133	Tu proyecto ha pasado ya a implementación.\n\nLa fase de implementación tiene dos etapas:\n\t•{H:Alfa}: en la que los desarrolladores y los artistas crean el producto según las especificaciones y los requisitos del diseño.\n\t•{H:Beta}: en la que tus programadores descubren errores y, con suerte, los corrigen antes del lanzamiento final.
+1134	Verás cómo se llena la barra de progreso a medida que tus empleados trabajan en el proyecto, y puedes pasar el ratón sobre la tarea para ver un desglose detallado del progreso en cada área de la implementación.\n\t\t\nSin embargo, el progreso no dice nada de la calidad real del proyecto. Para hacerte una idea de lo buenos que son los trabajos de tus empleados, necesitas hacer una revisión por pares. Empieza pulsando el botón de reseñar.
+1135	Asegúrate de hacer una nota de prensa durante la fase de implementación, como esperamos que hicieras durante la fase de diseño, a menos que hayas firmado con una distribuidora.\n\nDurante la fase de implementación también tienes la opción de enviar una versión para la prensa, para que la prensa pueda probar tu software. Las versiones para la prensa no requieren trabajo por tu parte, pero asegúrate de tener buenas valoraciones en tus revisiones por pares y algunos seguidores antes de enviar una.\n\nEl tutorial continuará cuando envíes una versión para la prensa. Tómate todo el tiempo que necesites.
+1136	Pulsa el botón Promocionar para pasar a la fase beta cuando estés listo.
+1137	La fase beta es teóricamente interminable, pero tendrás que lanzar tu proyecto en algún momento, sobre todo si ya has anunciado una fecha de lanzamiento.\n\nEs buena idea corregir tantos errores como sea posible, ya que los productos con muchos errores provocarán reembolsos, pero no pretendas corregir todos los errores posibles de tu producto. Cuando se lance tu producto podrás corregir más errores, a medida que tus clientes se pongan en contacto con tu equipo de soporte.\n\nEs importante tener en cuenta que la cantidad de errores que puede corregir un empleado depende del programador más hábil de su equipo. Por eso, puede que tus empleados no sean capaces de corregir todos los errores y que un equipo deje de corregirlos mientras otro sigue haciéndolo.
+1138	Pulsa el botón de lanzar cuando estés listo.\n\t\t\nCuando lances tu producto tendrás que comprar o imprimir copias físicas para venderlo. Más adelante, la distribución de software en línea se hará más popular, pero es muy importante tener copias físicas de tu producto antes y durante los años 90.\n\t\t\nPuedes imprimir tú mismo las copias físicas o encargar algunas para distribución inmediata a un precio más alto. El juego te lo recordará cuando lances un producto.
+1139	Empieza abriendo la ventana de beneficios
+1140	Los beneficios para empleados aumentarán de forma pasiva la satisfacción de todos tus empleados, lo que puede ser muy útil si quieres bajarles el sueldo o asegurarte de que no se vayan simplemente por aburrimiento.\n\nAlgunos beneficios para empleados pueden tener un impacto financiero enorme e inmediato, mientras que otros pueden dar grandes aumentos de satisfacción sin consecuencias inmediatas.\n\nPuedes jugar tranquilamente con los controles deslizantes y ver su impacto, ya que los cambios no se aplican hasta que pulsas Aplicar.\n\nPulsa continuar para avanzar en el tutorial.
+1141	Si marcas la casilla junto a un beneficio y pulsas Aplicar, cualquier empleado con beneficios personalizados lo verá restablecido al valor predeterminado de la empresa.\n\t\t\nPuedes cambiar los beneficios de cada empleado en la ventana de resumen de empleados. Prueba a abrirla ahora, selecciona uno o más empleados y haz clic en «Cambiar beneficios».
+1142	Para anular un beneficio de la empresa para empleados concretos, tienes que marcar la casilla junto al beneficio.
+1143	Empieza entrando en el {H:Modo construcción} haciendo clic en el botón Construir.
+1144	El juego siempre está en pausa en el modo construcción.\n\nEmpecemos construyendo una sala. Tienes dos opciones para construirla.\n\nHaz clic en el botón {H:Salas rectangulares} del panel de construcción para construir una sala rectangular sencilla o en el botón {H:Salas de ángulo libre} para construir salas con la forma que quieras, pared a pared.\n\nTambién puedes usar la opción {H:Salas de ángulo libre} para dividir salas en dos salas distintas, simplemente construyendo una pared a través de una sala existente.
+1145	Ahora haz clic en algún punto del área de tu propiedad, que tiene una cuadrícula, y luego haz clic en otro punto para terminar tu nueva sala. Fíjate en el coste mientras mueves el cursor.
+1146	Quizá hayas notado que estabas limitado a la cuadrícula al construir tu sala. Puedes cambiar la cuadrícula y los ángulos de construcción si quieres, moviendo el gizmo de la cuadrícula a una pared o a un mueble. Esto puede venirte bien si quieres construir mesas a lo largo de una pared diagonal, por ejemplo.\n\nSi no te gusta cómo queda tu sala, puedes usar el botón de deshacer o {KeyBind:Undo} para deshacer tus cambios.\n\nHaz clic en Continuar cuando estés listo.
+1147	Puedes subir y bajar de planta pulsando {KeyBind:FloorUp} y {KeyBind:FloorDown}.\n\nAhora añadamos ventanas y puertas. Puedes seleccionar una categoría o buscar {H:ventana} o {H:puerta} en el panel de construcción.
+1148	Fíjate cómo se ilumina la sala cuando añades ventanas; asegúrate de añadir las suficientes para que tus empleados vean.\n\nPuedes inspeccionar las condiciones de iluminación, entorno, temperatura y ruido haciendo clic en la sala y seleccionándola.
+1149	También puedes cambiar el color de tus salas y de tu mobiliario.\n\nPrueba a cambiar el color de tu sala pulsando {KeyBind:ContextMenu} sobre ella y haciendo clic en el botón {H:Colores de sala} que parece un pincel.
+1150	Puedes cambiar el color de varias cosas a la vez y la ventana de color sugerirá los colores que se están usando actualmente.\n\nSi te gusta el estilo que has dado a una sala, puedes guardarlo haciendo clic en {H:Guardar estilo} en el menú contextual de las salas, y en {H:Establecer como estilo predeterminado} para el mobiliario.\n\nHaz clic en Aplicar cuando estés listo o cierra la ventana si quieres cancelar tus cambios.
+1151	Puedes fusionar salas con la herramienta {H:Destruir pared}, o seleccionando las salas que quieres fusionar y haciendo clic en la opción {H:Fusionar salas} del menú contextual.\n\t\t\t\nTambién puedes crear tramos de pared curvos con la {H:Herramienta de curva}, haciendo clic en una pared que no tenga nada encima y arrastrando el ratón hacia fuera.\n\nHaz clic en Continuar cuando estés listo para continuar.
+1152	Cuando sientas que ya no tienes espacio suficiente para tus edificios, puedes comprar nuevas parcelas entrando en el modo parcelas.\n\nCuando estés listo para continuar, sal del modo construcción.
+1153	Cuando estés listo, abre la ventana de empleados para empezar a gestionarlos.
+1154	Empieza abriendo la ventana de contratos.
+1155	Esta es una lista de los contratos disponibles. Se añadirán contratos nuevos a medida que se completen los antiguos.\n\nLos contratos tienen un pago por adelantado que recibirás al aceptar el trabajo y un pago mayor por completarlo. Completas un contrato entregando un producto con el progreso y la calidad solicitados.\n\nPrueba a seleccionar ahora un contrato de la lista.
+1156	Al pago final se le restará dinero por no completar el contrato, por no completarlo a tiempo y por cualquier error sin corregir.\n\nNo cumplir las expectativas de calidad del cliente afectará a tu reputación comercial, pero no a tu pago.\n\nExplora ahora los contratos y acepta uno que te parezca bueno.
+1157	Hasta que un empleado empiece realmente a trabajar en el contrato, el plazo no empezará a correr.\n\nEl tutorial continuará cuando pases a la siguiente fase de desarrollo.
+1158	Cuando la barra de progreso llegue a la línea azul, habrás cumplido los requisitos de progreso del contrato. Sin embargo, todavía tendrás que cumplir sus requisitos de calidad si quieres aumentar tu reputación comercial y recibir mejores contratos.\n\nAsegúrate de hacer una revisión del cliente antes de pasar a la fase de corrección de errores, para comprobar que cumples sus requisitos de calidad.\n\nEl tutorial continuará cuando empieces una reseña.
+1159	Cuando estés listo, pasemos a la fase de corrección de errores.\n\nEs imposible saber exactamente cuántos errores tiene un software, así que intenta corregir tantos como puedas antes de que se acabe el tiempo.\n\nTermina tu trabajo por encargo para finalizar el tutorial.
+1160	Este tutorial da por hecho que ya has probado el modo construcción y se centrará en cómo difiere el editor de mapas.\n\t\nHaz clic en Continuar si estás listo para avanzar.
+1161	El editor de mapas te da la posibilidad de crear un edificio en el que podrás alquilar espacio cuando te traslades o crees una nueva empresa. El editor de mapas no permite editar los edificios normales {H:en venta}.\n\nEn el editor de mapas tienes un suministro ilimitado de dinero y la capacidad de colocar objetos de entorno. Prueba a abrir ahora la pestaña de entorno.
+1162	Puedes pasar el ratón sobre los distintos tipos de objetos de entorno para obtener más detalles.\n\nOtro aspecto importante de los edificios de alquiler es que puedes ofrecer algunas comodidades al inquilino y tienes que proporcionar calefacción y refrigeración.\nAsegúrate de colocar suficiente calefacción y refrigeración para todo el edificio. El inquilino no podrá interactuar con ningún mueble que coloques en el editor de mapas.\n\nPrueba a construir una sala ahora.
+1163	Cuando selecciones tu sala y abras el menú contextual, notarás un par de opciones nuevas: la posibilidad de agrupar salas, marcarlas para alquilar y marcarlas como salas propiedad del jugador.\n\nCuando agrupas salas, solo se pueden alquilar como una única unidad. Al clonar salas se mantiene el mismo estilo de agrupación, así que puedes construir una distribución y duplicarla rápidamente.\n\nHay una superposición de datos que te permite ver cómo se han marcado las salas. Actívala ahora para terminar el tutorial.
+1164	Te damos la bienvenida a la pantalla de personalización. Pulsa {H:Continuar} para avanzar en el tutorial o {H:Cancelar} para salir.
+1165	Empieza eligiendo un nombre y un logotipo para tu empresa.
+1166	Luego elige un nombre para tu fundador en el juego.
+1167	Y un tipo de cuerpo.\n\nPuedes alternar los tipos de cuerpo varias veces para aleatorizar el aspecto de tu fundador.
+1168	Puedes usar estos botones para elegir un aspecto de la apariencia de tu fundador que quieras cambiar.\n\t\nPuedes cambiar la forma de la cara y de las cejas con el primer botón; el resto de los botones te permiten cambiar la ropa, los accesorios y los colores.
+1169	Aquí puedes elegir los rasgos de personalidad de tu fundador.\n\nPuedes elegir dos rasgos, que afectarán a los rasgos de tu fundador, enumerados más abajo, y a las relaciones dentro de la oficina.
+1170	Aquí abajo puedes elegir los rasgos de tu fundador. Algunos pueden estar bloqueados según los rasgos de personalidad que hayas elegido.\n\nPuedes hacer clic en los rasgos desbloqueados para activarlos y desactivarlos.
+1171	Aquí puedes elegir los puntos de habilidad de tu fundador, que afectarán a su rendimiento.\n\nLas habilidades están equilibradas y la cantidad máxima de habilidad que puedes asignar al principio depende de la dificultad que elijas.
+1172	Sobre las habilidades de tu fundador está su creatividad, que afecta a la calidad de las ideas que se le ocurren al diseñar un producto.\n\nAumentar la creatividad de tu fundador reducirá su nivel máximo de habilidad y añadirá exigencias.\n\nEsto no es muy importante al principio y probablemente lo mejor sea dejarlo como está en tu primera partida.
+1173	Puedes cambiar los puntos de especialización de tus empleados haciendo clic en las estrellas resaltadas aquí abajo.\n\t\t\t\nLos niveles de especialización controlan qué tareas puede completar tu empleado. Recuerda consultar los otros roles con el menú desplegable.\n\nAl hacer clic en el botón {H:Aleatorio} se elegirán niveles de especialización aleatorios con los puntos que te queden.\n\nPuedes seguir formando y entrenando a tu fundador para ganar habilidad y especializaciones durante la partida.
+1174	También puedes saltarte la elección de creatividad y especializaciones desactivando el modo avanzado y dejando que el juego las elija por ti.
+1175	Puedes añadir hasta 4 fundadores, pero solo 1 te representa a ti y el resto exigirá una parte de la empresa.\n\nTendrás que pagar dividendos de cualquier beneficio a los demás accionistas, así que cada fundador extra reducirá tu margen de beneficio.
+1176	Ya has terminado de personalizar a tu fundador. ¡Empecemos a elegir las reglas del juego!
+1177	Aquí puedes activar cualquier mod, que quedará ligado a la partida para siempre.\n\nNo podrás activar ni desactivar mods una vez empezada la partida, ya que alteran de forma fundamental cómo se juega, pero puedes compartir tu partida guardada con otras personas sin que tengan que volver a instalar los mods.
+1178	Elige con cuánto dinero quieres empezar. Por defecto empiezas con {StartingFunds}; cualquier fondo adicional se tomará como préstamo.\n\nTen en cuenta que necesitas al menos {StartingPlot} si prefieres comprar una parcela vacía en lugar de alquilar salas en un edificio.
+1179	Aquí puedes cambiar el año en el que quieres empezar.\n\t\nEmpezar más tarde te dará todo el poder de la tecnología moderna y la distribución digital, pero tus competidores estarán más consolidados.
+1180	La dificultad se puede cambiar en cualquier momento de la partida yendo al menú de opciones.\n\nPuedes hacer clic en el signo de interrogación para ver qué afecta el nivel de dificultad actual o hacer clic en {H:Personalizada} para elegir tus propias reglas.
+1181	Puedes elegir cuántos días quieres por mes.\n\nPor defecto, 1 mes dura 1 día. El juego se hizo pensando en este ritmo, por lo que es el ajuste recomendado.\n\nSi sientes que el juego va demasiado rápido o quieres un par de días para ganar dinero entre pago y pago de facturas, puedes aumentar este ajuste. Ten en cuenta que todo irá más lento para ajustarse a lo que elijas y que no se puede cambiar más adelante.
+1182	Haz clic en el botón Elegir mapa para elegir tu entorno inicial
+1183	Aquí puedes ver una lista de edificios que puedes comprar directamente o en los que puedes alquilar espacio. Junto a cada imagen puedes ver si un edificio está «En alquiler» o «En venta».\n\nTen en cuenta que el «Área de edificio» de los edificios en los que puedes alquilar define el área máxima que puedes alquilar a medida que amplías tu empresa.
+1184	Puedes usar estos botones para elegir si quieres alquilar o comprar una parcela vacía.\n\nConstruir es muy caro, así que se recomienda empezar alquilando, aunque ten en cuenta que alquilar sale mucho más caro a largo plazo.\n\nPuedes trasladar tu empresa cuando quieras durante la partida.
+1185	Empieza abriendo el editor de logotipos.
+1186	Borra todo lo que hay en el editor para que podamos empezar de cero.
+1187	Para crear un logotipo necesitas añadir {H:formas} y dar {H:colores} a las formas.\n\nPuedes usar los botones azules de la parte superior de la ventana para crear, modificar y combinar formas. Prueba a crear una forma haciendo clic en el primer botón y colocando la forma en el panel principal.
+1188	Ahora prueba a modificar la forma aplicándole un efecto. Crea un nodo de efecto y conéctalos arrastrando una línea desde la salida del nodo de forma hasta la entrada del nodo de efecto.\n\nUna vez conectados, puedes hacer clic en el efecto para seleccionarlo y usar el panel de la derecha para cambiarlo.
+1189	Para dar color a tu forma tienes que conectar la salida a un nodo de color. {H:Ten en cuenta que los nodos de forma son azules y los nodos de color son rojos}.\n\nEmpieza creando un nodo de color y conecta el nodo de efecto al nodo de color. {H:Ten en cuenta que las salidas azules solo van a azul y las rojas solo a rojo}.\n\nPara terminar el logotipo necesitas conectar un nodo de color a la salida final.
+1190	Si quieres guardar tu logotipo para usarlo más adelante o compartirlo con otras personas, haz clic en el botón {H:Generar código} y copia el código.
+1191	Puedes usar o crear un framework al desarrollar software. Los frameworks aceleran el desarrollo, pero limitan los niveles tecnológicos máximos de tus características.\n\nUsar un framework hecho por otra empresa requerirá que pagues una tasa de licencia con tus beneficios.\n\nSi decides crear un framework nuevo, alargará un poco el desarrollo, pero el nuevo framework se podrá licenciar a otras empresas para ganar algo de dinero extra.
+1192	Echemos un vistazo a la página de {H:Dependencias}.
+1193	Haz clic en el botón de desarrollar cuando estés listo para empezar el desarrollo.
+1194	Tienes que empezar un proyecto nuevo para que el tutorial pueda continuar
+1195	Mientras trabajas en tu documento de diseño, deberías empezar a contarle al mundo tu nuevo proyecto. Empieza anunciando una fecha de lanzamiento pulsando el botón Mercado.\n\nTendrás que hacer algunas conjeturas al elegir una fecha de lanzamiento, pero aumentará la eficacia de todas tus futuras acciones de marketing. ¡Solo asegúrate de lanzarlo a tiempo!
+1196	A menos que tengas una distribuidora, deberías hacer una nota de prensa para contarle al mundo tu producto antes de pasar a la fase alfa del desarrollo.\n\nCuando haces marketing de tu producto antes de su lanzamiento, te creas una base de seguidores. Los seguidores de un proyecto comprarán sin falta el producto final cuando se lance, aunque puede que no todos lo compren enseguida o que pidan el reembolso si tiene muchos errores.\n\nTus empleados tendrán que trabajar en la nota de prensa, así que si crees que tardará un rato, puedes pausar tu trabajo de diseño pulsando el botón de reproducir.\n\nEmpieza abriendo de nuevo la ventana de marketing.
+1197	Asegúrate de leer el texto de la ventana de marketing, ya que te explica cómo manejar las distintas acciones de marketing que tienes a tu disposición.
+1198	Haz clic en el botón Desarrollar para empezar el desarrollo cuando estés listo.\n\nHaz clic derecho en la barra de título del elemento de trabajo para alternar entre la vista normal y la contraída.\n\nHaz clic izquierdo en la barra de título y arrastra para reordenar tus elementos de trabajo.
+1199	Abre la ventana de distribución para empezar el tutorial.
+1200	Esta es una lista de tiendas en línea que distribuyen software a cambio de una parte de los ingresos. Por defecto vendes a través de todas ellas.\n\nPuedes hacer clic en las marcas de la lista y desmarcar {H:Firmar automáticamente nuevas plataformas} para tomar el control total. Fíjate en el número de {H:Alcance de consumidores}, ya que vender en muy pocas tiendas puede limitar cuánta gente comprará tu producto de forma digital.\n\nPulsa continuar para saber cómo abrir tu propia tienda.
+1201	Para empezar a vender productos a través de tu propia tienda en línea, necesitas desarrollar una plataforma de distribución haciendo clic en el botón resaltado. Gestionar una plataforma de distribución requiere un equipo de soporte grande y una granja de servidores de gran ancho de banda. Aunque tu tienda no venda mucho, puede que tenga una gran base de usuarios que solo se quedará si les ofreces un servicio constante.\n\nUna vez que tu tienda esté en marcha, deberías actualizarla con regularidad para estar al día en niveles tecnológicos y reducir los errores. Asegúrate de desarrollar una nueva versión de tu plataforma cuando las plataformas de tus competidores incorporen nuevas características.\n\nTen en cuenta que las tiendas en línea no se asientan de verdad hasta el siglo XXI, así que puede que al principio no veas mucha actividad.\n\nPulsa continuar para saber cómo vender productos de otras empresas.
+1202	Si quieres ganar algunos ingresos extra distribuyendo productos de otras empresas, puedes activarlo con el interruptor resaltado.\n\nTu cuota de mercado digital y tu reputación comercial, junto con la comisión que decidas cobrar por los productos de tus clientes, determinarán cuántos están dispuestos a apuntarse a tu tienda digital.\n\nLas empresas empezarán a apuntarse automáticamente a tu servicio cada mes. Depende de ti si quieres aceptar todos los acuerdos nuevos o dejarlos entrar uno a uno, marcando el interruptor {H:Aceptar automáticamente nuevos acuerdos}.\n\nLa etiqueta de porcentaje del control deslizante se vuelve roja cuando cambias tu comisión, para indicar si la comisión actual tiene probabilidad de hacer que los clientes cancelen su acuerdo por completo.\n\nPor último, ten en cuenta que necesitarás ancho de banda extra para gestionar la venta de todos esos productos adicionales.
+1203	Tu tienda puede tener muchos usuarios, pero si no tienes productos que puedan comprar, tu cuota de mercado seguirá siendo baja y no lograrás atraer nuevos clientes. Por suerte, puedes ofrecer a otras empresas {H:acuerdos de exclusividad} de duración limitada para tu tienda, para dar a tus usuarios algo que comprar.\n\nPuedes hacerlo abriendo cualquier resumen de productos, como {H:Todo el software}, seleccionando un producto de <b>software</b> y haciendo clic en el botón {H:Acuerdo de exclusividad}. No serán baratos, sobre todo para productos nuevos, pero cada venta aumentará la cuota de mercado de tu tienda.
+1204	Necesitas un empleado listo para formarse antes de poder empezar el tutorial de formación.\n\nLos empleados podrán formarse cuando ganen suficiente experiencia trabajando en distintas tareas.
+1205	Empieza el tutorial abriendo la {H:ventana de empleados}, seleccionando a los empleados que quieres formar y pulsando el botón {H:Formar}, o bien seleccionando uno o más de tus empleados, pulsando {KeyBind:ContextMenu} en cualquier punto de la pantalla para abrir el menú contextual y eligiendo {H:Formar empleado}.\n\t\t\t\nPuedes ver qué empleados están listos para formarse en la ventana de empleados buscando iconos verdes en la columna de {H:rol}.
+1206	En la ventana de formación puedes elegir un rol y una especialización en la que quieres formar a tus empleados. Cuando terminen su clase, los empleados ganarán una estrella en la especialización que hayas elegido.\n\nSegún los empleados y la especialización que hayas elegido, puedes ver cuánto tiempo y dinero necesitarán tus empleados para terminar sus clases.
+1207	Arriba puedes ver cuáles de los empleados que has elegido son aptos para la formación que has elegido.\n\nCuando hagas clic en {H:Empezar formación}, todos los empleados aptos empezarán sus clases. Si queda algún empleado, podrás decidir en qué se formará. Puedes poner clases en cola para un empleado iniciando la formación del empleado varias veces.
+1208	También puedes hacer clic directamente en las estrellas resaltadas si quieres elegir rápidamente las clases del empleado seleccionado.\n\nTen en cuenta que si haces clic en una estrella que está más de 1 nivel por encima de lo que tiene el empleado, se le enviará a varias clases a la vez.
+1209	Empieza abriendo la ventana de empleados.
+1210	Esta es una lista de todos tus empleados, con detalles de su estado.\n\nPuedes marcar cualquiera de las opciones de la barra superior para obtener más detalles de todos tus empleados.
+1211	Cuando seleccionas un empleado de la lista, queda seleccionado en el juego y puedes ver detalles de sus especializaciones en la parte inferior de la ventana.\n\nPrueba a seleccionar un empleado ahora.
+1212	Puedes seleccionar varios empleados manteniendo pulsada la tecla Mayús o Ctrl mientras haces clic en sus nombres en la ventana de empleados.\n\nAhora pulsa {KeyBind:ContextMenu} en cualquier sitio para abrir el menú contextual del empleado seleccionado. Haz clic en el botón {H:Cambiar de equipo} para ver las posibles asignaciones de equipo.
+1213	Cuando hayas terminado, haz clic en {H:Aceptar}, luego pulsa {KeyBind:ContextMenu} otra vez y haz clic en el botón {H:Cambiar rol del empleado}, que parece una corbata.
+1214	Al hacer clic en un rol de la ventana de roles, el empleado se asignará de inmediato exclusivamente a ese rol, mientras que marcar las casillas te permitirá elegir varios roles para tu empleado. La segunda fila de casillas junto a cada rol es la opción {H:Secundario}, con la que los empleados solo trabajarán en ese rol si no tienen trabajo en sus roles principales.\n\nTambién puedes alternar la casilla {H:Cualquier rol} para marcar o desmarcar todos los roles a la vez, o hacer clic en {H:Rol automático} para asignar al empleado los roles en los que es más competente.\n\nTen en cuenta que no se puede elegir {H:Líder} a menos que el empleado esté asignado a un equipo, y que los líderes no trabajarán a plena capacidad en otros roles.\n\nCierra la ventana {H:Seleccionar rol} y haz clic en {H:Continuar} para avanzar en el tutorial.
+1215	Con tu empleado seleccionado, pulsa {KeyBind:ContextMenu} una vez más para abrir el menú contextual y selecciona {H:Detalles del empleado}, que parece una sola persona.
+1216	Aquí puedes ver las estadísticas de tu empleado.\n\nEn la esquina superior izquierda puedes ver los rasgos de personalidad de tu empleado y, a la derecha, el progreso de especialización de tu empleado en cada rol. Cuando un empleado ha llenado el medidor de progreso, podrá formarse en ese rol para ganar una estrella nueva. Al hacer clic en un rol también podrás asignar al empleado a ese rol.
+1217	En la parte central derecha de la ventana puedes ver las {H:especializaciones} de tu empleado, que muestran lo formado que está tu empleado en distintas materias.\n\nLas especializaciones controlan qué tipo de tareas puede completar tu empleado. La {H:habilidad base} es la experiencia de tu empleado en ese rol, que controla la velocidad y la calidad de su trabajo en distintas situaciones.
+1218	En la parte superior izquierda de la ventana puedes ver los rasgos de tu empleado. Estos rasgos los controla la personalidad de tu empleado.\n\nPuedes pasar el ratón sobre cada rasgo para ver cómo afecta al empleado.
+1219	En la parte inferior izquierda de la ventana puedes ver los últimos pensamientos de tu empleado, que te dirán lo contento que está con su lugar de trabajo y, en consecuencia, lo eficaz que es en su trabajo.\n\nDeberías consultarlo a menudo para ver cómo le va a un empleado y si puedes hacer algo para mejorar su satisfacción.
+1220	En la parte inferior derecha de la ventana puedes ver qué está afectando actualmente a la eficacia de tu empleado al trabajar.\n\t\nPuedes usarlo para ver qué pasa si tus empleados de repente empiezan a trabajar despacio o dejan de hacerlo.
+1221	Por último, en la parte central izquierda de la ventana puedes inspeccionar la compatibilidad de este empleado con el resto de su equipo.
+1222	Al principio de la partida necesitarás ganar algo de dinero rápido.\n\nAbre la ventana de contratos para conseguir algo de trabajo.
+1223	Empieza abriendo la ventana de contratación
+1224	Antes de poder contratar a alguien, tienes que lanzar una búsqueda de empleados. Empieza eligiendo en qué rol debe destacar tu nuevo empleado.
+1225	Luego tienes que decidir cuánto dinero al mes quieres ofrecer a tu posible empleado. Es muy importante que te asegures de tener dinero suficiente para pagarle o te arruinarás muy rápido.\n\nLa calidad de los candidatos dependerá de lo alto que fijes el sueldo y de los beneficios de tu empresa, entre otras cosas. Los empleados muy cualificados solo tienen posibilidad de aparecer en el tramo salarial más alto.\n\nTen en cuenta que los empleados más cualificados esperarán un sueldo más alto que los poco cualificados que acaban siendo muy cualificados. Puedes aprovechar esto para ahorrar dinero contratando a gente joven y formándola.
+1226	Puedes filtrar aún más a tus candidatos activando cualquiera de los interruptores de filtro.\n\nTen en cuenta que cada filtro activo aumentará el coste y reducirá la cantidad de candidatos que recibes.\n\nLa reserva de candidatos es limitada y depende de lo atractiva que sea tu empresa para los posibles empleados. La reserva se renueva cada mes y puede aumentar cuando otras empresas cierran.
+1227	Puedes guardar tus filtros si quieres volver a usarlos más adelante.\n\t\t\t\nAlternativamente, puedes buscar diseñadores jefe que estén actualmente sin trabajo.\n\nPulsa {H:Empezar a buscar} para empezar a revisar candidatos.
+1228	Esta es una lista de empleados que se han presentado al puesto abierto en tu empresa. Puedes seleccionar empleados para inspeccionarlos y pulsar el botón {H:Contratar} para contratarlos.\n\nLos empleados son caros y probablemente deberías esperar antes de contratar a ninguno si estás empezando.\n\nPrueba a seleccionar un empleado de la lista.
+1229	Puedes navegar fácilmente por las solicitudes con las teclas de flecha del teclado y pulsando intro para contratar.\n\nCuando hayas terminado, simplemente cierra la ventana.
+1230	Para gestionar los ajustes de RR. HH., abre la ventana de equipos
+1231	Con la ventana de equipos abierta, selecciona un equipo de la lista y haz clic en el botón {H:Gestión de RR. HH.}.
+1232	Las tareas de gestión de RR. HH. que tienes a tu disposición dependen del nivel de especialización en RR. HH. del líder del equipo. Cada sección te dirá si el líder asignado actualmente tiene los puntos de especialización necesarios.\n\nPor defecto, las opciones de RR. HH. seleccionadas no hacen nada. Las opciones de RR. HH. que elijas para un equipo no cambiarán cuando se asigne un nuevo líder, pero qué tareas de RR. HH. se llevan a cabo y lo bien que se hacen dependerá de la habilidad y el nivel de especialización del líder.
+1233	Las dos primeras etiquetas te dicen cuánto cuesta este equipo en sueldos y cuánto dinero se gastó en tareas de RR. HH. el mes pasado.
+1234	Puedes hacer que tu líder envíe a empleados a formarse de forma autónoma.\n\t\t\t\nEl nivel de formación fija la cantidad máxima de estrellas por las que un líder enviará a formarse a un empleado.
+1235	Los últimos campos de texto permiten que tu líder contrate automáticamente a suficientes empleados, de modo que el equipo siempre tenga la cantidad indicada en los roles indicados. El líder se encargará del proceso de selección.\n\nPuedes pasar el ratón sobre algunas de las opciones para obtener más detalles. Cierra la ventana cuando hayas terminado para finalizar el tutorial.
+1236	Empieza abriendo la ventana de seguros
+1237	Puedes sacar dinero de tu dinero de dos formas: invirtiendo en acciones o en bonos.\n\nEmpecemos repasando las inversiones en bonos. Haz clic en {H:Continuar} cuando estés listo.
+1238	Invertir en bonos significa prestar dinero y recuperar algo gracias al interés anual del préstamo, {SavingsInterest}. Es una forma fácil y sin riesgos de obtener un pequeño ingreso estable, con la desventaja de que no puedes retirar el dinero que inviertas durante un tiempo sin perder los intereses.\n\nPuedes ingresar y retirar dinero con este control deslizante.
+1239	El tiempo que debe pasar antes de poder retirar dinero depende de cuánto dinero hayas ingresado dentro del mismo ejercicio fiscal. Puedes ver los depósitos bloqueados en este panel.\n\nCuando decidas retirar dinero, el banco empezará intentando retirar el dinero de tu cuenta de ahorros que no suponga una penalización de intereses.\n\nTen en cuenta que los intereses no se ingresan directamente en tu cuenta bancaria. Tienes que retirarlos con esta ventana.\n\nPulsa el botón de acciones para continuar
+1240	Las acciones son una forma mucho más arriesgada de invertir tu dinero, pero también pueden darte mucho más que las inversiones en bonos.\n\nTendrás que seguir el mercado bursátil cada mes para sacar el máximo partido de tus inversiones, así que no puedes simplemente ingresar y olvidarte, como con las inversiones en bonos.\n\nPara invertir en una acción, solo tienes que escribir la cantidad que quieres ingresar, elegir una acción y hacer clic en {H:Invertir}.\n\nPuedes ver y retirar tus inversiones actuales en este panel.\n\n{H:¡Recuerda comprar alto y vender bajo!}\n\n... Sí, eso suena bien.
+1241	Los diseñadores jefe se encargan de idear las ideas que formarán todos los productos que decidas desarrollar.\n\nLos diseñadores jefe tienen una puntuación de {H:Creatividad}, que controla lo buenas que son sus ideas. Si un empleado no tiene mucha experiencia como diseñador jefe, su puntuación de creatividad no se conocerá de antemano. La barra de creatividad se irá acotando a medida que ganen experiencia, revelando su potencial como diseñadores jefe.\n\nPuedes poner a los diseñadores jefe a cargo de contratos para ayudar a revelar su creatividad, sin que afecte al producto final.
+1242	Los diseñadores necesitan {H:Inspiración} para tener buenas ideas. A medida que trabajan en un proyecto su inspiración se va agotando, pero solo cuando baja de la línea central afectará realmente a sus ideas.\n\nLos diseñadores jefe recuperarán su inspiración durante los descansos del trabajo de diseño. Unos más rápido que otros.
+1243	Idear un proyecto depende mucho del tipo de producto. Los diseñadores jefe ganarán habilidad con un tipo de software a medida que lances productos que hayan diseñado para él, lo que repercute directamente en la calidad de sus ideas.\n\nPuedes pasar el ratón sobre la barra de habilidad para ver sus habilidades con distintos tipos de software.
+1244	A medida que los diseñadores jefe construyen su {H:Cartera}, tendrán más {H:Exigencias} para estar a la altura de su creciente popularidad en el mercado. Las exigencias se plantearán durante las negociaciones salariales y tendrás que elegir entre dos exigencias.\n\nLos diseñadores jefe contratados jóvenes, antes de alcanzar la fama, tendrán cierta lealtad a su primer empleador y tendrán exigencias más bajas en general.
+1245	Puedes encontrar diseñadores jefe de una de estas 3 formas:\n\n\t•Puedes contratar a diseñadores jóvenes y dejar que trabajen como diseñadores jefe en contratos para ver si has encontrado a un prodigio\n\t•Puedes buscar diseñadores jefe sin trabajo desde el menú de contratación\n\t•Puedes quitárselos a tus competidores haciendo clic en el botón de detalles de la ventana de resumen de empresas\n\nNecesitarás cierta cantidad de reputación comercial para contratar a diseñadores jefe con experiencia.
+1246	El juego siempre está en pausa en el modo construcción.\n\nCuando eres dueño de una parcela puedes construir y distribuir tus oficinas como quieras, pero cuando alquilas solo puedes amueblar las oficinas que tienes alquiladas en ese momento.\n\nSi más adelante quieres comprar una parcela, puedes trasladar tu empresa haciendo clic en {H:Trasladar empresa} en la ventana de pausa o usando el botón junto al menú de construcción.\n\nHaz clic en Continuar cuando estés listo.
+1247	Para empezar a colocar objetos, deberías ir a una planta que tenga salas que hayas alquilado.
+1248	Cuando sientas que ya no tienes espacio suficiente, puedes alquilar otras salas seleccionándolas y pulsando alquilar en la esquina inferior izquierda, o trasladando tu empresa a otro mapa.\n\nPrueba a seleccionar ahora una sala que puedas alquilar. Las salas disponibles para alquilar se reconocen por su interior negro.
+1249	También puedes cancelar tus alquileres seleccionando las salas que tienes alquiladas en ese momento. Ten en cuenta que cancelar un alquiler venderá todo el mobiliario de las salas afectadas, pero puedes usar el botón de deshacer para recuperar tu mobiliario.\n\nCuando estés listo para continuar, sal del modo construcción.
+1250	Algunos productos hay que fabricarlos y no se pueden vender de forma digital, como los {H:teléfonos} y las {H:consolas de videojuegos}. Sin embargo, estos productos suelen tener una barrera de entrada más baja para penetrar en el mercado, pero requieren una gran inversión inicial. También podrás satisfacer más fácilmente a los clientes añadiendo características de hardware, en lugar de pasar años programando características de software complejas.\n\nEncargar hardware sale muy caro, y tendrás que montar tu propia fabricación si quieres obtener un beneficio decente.\n\nPrueba a seleccionar un {H:tipo de software} y una {H:categoría} que requiera fabricación de hardware, como el {H:sistema operativo de consola}
+1251	Ahora haz clic en el botón {H:Fabricación} para ver lo que necesitarás para fabricar este producto.
+1252	La {H:vista de fabricación} te muestra qué componentes hay que imprimir y cómo deben ensamblarse.\n\t\t\t\nLos componentes de más arriba hay que imprimirlos y te mostrarán cuántas {H:impresoras de componentes} necesitas para imprimir tantos componentes como sea posible al mes. Estos componentes determinarán el coste de fabricar una copia de tu producto. El resto de los componentes se ensamblarán en {H:ensambladoras de componentes}, usando los componentes impresos, y no suponen ningún coste.\n\nPrueba a abrir ahora la {H:ventana de fabricación} y echa un vistazo a la pestaña {H:Hardware} para ver los trabajos de fabricación de hardware activos.
+1253	Cuando selecciones una tarea de impresión en este panel, obtendrás también un resumen de los componentes necesarios en esta ventana. Puedes hacer clic en el botón {H:Separar} y entrar en el modo construcción para ver los requisitos mientras colocas impresoras y ensambladoras.\n\nCuando hayas terminado de inspeccionar la ventana de distribución, abre el {H:Modo construcción} para ver cómo montar tu propia planta de fabricación.
+1254	Para montar tu propia fabricación necesitarás 3 máquinas:\n\t•{H:Impresora de componentes} para imprimir tus componentes.\n\t•{H:Ensambladora de componentes} para ensamblar tus componentes y, finalmente, tu producto final. La ensambladora puede retener 20 ensamblajes antes de soltarlos, así que asegúrate de tener suficientes para la cantidad de componentes que imprimas.\n\t•{H:Recicladora de componentes} al final de tu proceso de fabricación, para reciclar los componentes de los ensamblajes sin terminar, por si tu montaje tiene ineficiencias. Los componentes reciclados se usarán en futuras impresiones sin coste alguno.\n\nTen en cuenta que cualquier caja que entre en una ensambladora o recicladora y no pertenezca allí simplemente saldrá por el otro lado.\n\nLas encontrarás en el menú de amueblar.
+1255	Ten en cuenta que los productos tienen que pasar por el paso de {H:Ensamblaje final} para poder enviarse. Los componentes en cajas blancas no irán a los palés ni a los puertos de garaje.\n\nCuando hayas colocado tus impresoras y ensambladoras y las hayas conectado con cintas transportadoras, se agruparán automáticamente en {H:líneas de ensamblaje}, a las que puedes asignar tareas y gestionar en conjunto.\n\nTen en cuenta que puedes usar una {H:Recicladora de componentes} para dividir líneas de ensamblaje que de otro modo se agruparían.\n\nPrueba a abrir ahora la ventana de {H:Líneas de ensamblaje} y echa un vistazo a las superposiciones de datos de {H:Línea de ensamblaje} y {H:Fabricación}.
+1256	La superposición de datos de {H:Línea de ensamblaje} te mostrará qué impresoras y ensambladoras se han agrupado por el color de su línea de ensamblaje, que puedes cambiar haciendo clic directamente en el color de la lista.\n\nLa superposición de datos de {H:Fabricación} te permite visualizar cómo viajarán los componentes por tus líneas de ensamblaje y su eficiencia actual.
+1257	El marketing es crucial en Software Inc. Sin marketing, tus productos simplemente no se venderán.\n\nPuedes iniciar una campaña de marketing abriendo tu ventana de lanzamientos, seleccionando un producto y haciendo clic en el botón de mercado
+1258	Esta es la ventana de marketing.\n\t\nHacer marketing de tu producto es un pozo de dinero potencialmente sin fondo. Cuanto más dinero uses, mayor ventaja obtendrás sobre los productos de la competencia. Los productos de software más grandes necesitarán más marketing para competir.\n\nTen en cuenta que gastar más dinero en marketing que tus competidores los llevará a hacer lo mismo.
+1259	Puedes fijar un presupuesto, que pone un límite máximo al gasto de esta tarea de marketing. «0» significa que no hay límite.\n\t\nAumentar tu presupuesto de marketing no aumentará los esfuerzos de marketing. Necesitarás muchos especialistas en marketing con talento para usar tu presupuesto de forma eficaz.\n\nSi estás contento con la selección del equipo, pulsa {H:Aceptar} para empezar tu campaña.
+1260	Tu nuevo plan de marketing aparecerá como un elemento de trabajo a la derecha.\n\nTras el primer día, el elemento de trabajo empezará a llenarse para indicar cuánto dinero estás gastando en comparación con los esfuerzos de marketing de ayer.\n\nPulsa {H:Terminar} para finalizar el tutorial.
+1261	{H:¡Cuidado!} ¡Tus oficinas son susceptibles a robos e incendios! Y una vez que la bola echa a rodar, no hay quien la pare.\n\nSi quieres ir sobre seguro, deberías tomar medidas preventivas y reducir las consecuencias.\n\nPara empezar, deberías cubrir cualquier posible pérdida con un {H:Seguro de contenido}. Empieza abriendo la {H:ventana de seguros}.
+1262	Con el seguro de contenido pagarás una cuota mensual, pero recibirás una indemnización que cubra cualquier mobiliario que pierdas en un incendio o un robo.\n\t\t\t\nCuanto más mobiliario tengas, mayor será la prima.\n\nCierra la ventana de seguros cuando estés listo y veremos cuál es la mejor forma de prevenir los robos.
+1263	Los robos aumentarán en escala y frecuencia a medida que tu empresa crezca. Tus empleados llamarán a la policía cada vez que presencien un robo. Por desgracia, el Departamento de Policía de Software Inc. es lento y burocrático, así que no esperes recuperar todos tus bienes robados.\n\t\t\t\nEn su lugar, puedes intentar evitar por completo los robos contratando {H:guardias de seguridad} en la {H:ventana de personal}. Los guardias de seguridad patrullarán las entradas de tu edificio o las salas que les asignes y ahuyentarán a los posibles ladrones cuando se acerquen demasiado. También puedes colocar cámaras de seguridad de forma estratégica en las entradas del edificio y un puesto de vigilancia, que permite a un guardia de seguridad vigilar cuatro lugares a la vez.\n\nPuedes contratar a varios guardias de seguridad para cubrir un periodo de 24 horas y aun así saltar el tiempo cuando solo haya guardias de seguridad presentes.\n\nPulsa {H:Continuar} para saber más sobre los incendios.
+1264	Los incendios empiezan cuando se rompe mobiliario combustible. La probabilidad de que el mobiliario combustible provoque un incendio al romperse se muestra como una puntuación de {H:Inflamabilidad} en el menú de construcción. Para evitar por completo los incendios, deberías contratar suficiente personal de {H:mantenimiento} y {H:soporte informático} para evitar que tu mobiliario se rompa.\n\nEs muy importante tener en cuenta que {H:los ascensores no funcionan durante los incendios}. Siempre debes asegurarte de tener escaleras por todo el edificio, para que tus empleados puedan escapar.\n\nSi la suerte te da la espalda, asegúrate de tener {H:aspersores} en tus salas para apagar el fuego más rápido, y {H:alarmas de incendios} en las salas con mobiliario combustible, para alertar a todos los empleados del edificio cuando estalle un incendio.
+1265	Puedes encargar copias físicas de tus productos yendo a tus lanzamientos, seleccionando un producto y haciendo clic en el botón Encargar copias.
+1266	El software se vende tanto físicamente en tiendas como digitalmente en línea. Con el tiempo la gente se irá pasando a las compras digitales y en algún momento las dos plataformas se igualan.\n\t\t\nEsta es la ventana de pedido de copias. Te mostrará algunos detalles que afectan a cuántas copias deberías encargar.\n\nTendrás que equilibrar la cantidad que encargues con las que esperas vender para evitar pérdidas. Siempre puedes encargar unas pocas copias ahora y encargar más el mes que viene.\n\nCierra la ventana para continuar.
+1267	También puedes imprimir copias de tu producto tú mismo, lo que es mucho más barato a largo plazo, pero requiere mucho más trabajo por tu parte. Necesitarás {H:impresoras}, {H:almacenamiento}, {H:cintas transportadoras} y {H:mensajeros} para transportar tus copias a las tiendas.\n\t\t\nSi tienes toda la logística necesaria, puedes hacer clic en el botón {H:Empezar a imprimir} de la ventana {H:Tus lanzamientos} con un producto seleccionado para iniciar una tarea de impresión.\n\nVe al modo construcción para ver cómo montar tu logística de impresión.
+1268	Encontrarás las impresoras en el menú de amueblar.\n\nLas impresoras pequeñas se pueden colocar directamente sobre las cintas transportadoras y las más grandes se pueden colocar en el suelo para soltar cajas en las cintas transportadoras adyacentes.
+1269	Empieza abriendo la ventana de gestión de proyectos.
+1270	La gestión de proyectos te permite delegar un ciclo de lanzamiento en un líder de tu empresa, para que controle todo, desde crear un diseño hasta dar soporte al producto una vez lanzado.\n\nUn equipo de gestión de proyectos necesita un líder con al menos 1 estrella en la especialización de {H:Automatización}. El líder dedicará todo su tiempo a mantener el proyecto en marcha, así que puede valer la pena que el líder esté en su propio equipo.\n\nEmpieza seleccionando un líder que dirija el proyecto y poniendo nombre a tu equipo.
+1271	Ahora revisa cada una de las opciones para controlar cómo se deben manejar los proyectos. Puedes pasar el ratón sobre cada etiqueta para obtener una descripción detallada.\n\nTen en cuenta que algunas opciones pueden aparecer en gris porque tu líder no tiene el nivel de Automatización necesario. Puedes ver lo que desbloquea cada nivel de Automatización pasando el ratón sobre las estrellas en el resumen de especializaciones de los líderes en la ventana de empleados, la ventana de equipos o la ventana de detalles del empleado.\n\t\t\nHaz clic en Aceptar cuando estés listo.
+1272	Ahora abre la ventana de detalles de gestión de proyectos de tu nuevo proyecto.
+1273	Notarás un panel nuevo que te dice si el líder ha cometido algún error, lo cual afecta negativamente a los proyectos que gestiona.\n\nLos errores empezarán a producirse cuando la barra de eficacia baje de la marca azul, pero tu diseñador jefe trabajará para evitarlo.\n\nCuanta más habilidad de liderazgo tenga tu líder, más rápido podrá llenar la barra.\n\nLa barra se puede llenar al doble de lo necesario, lo que permitirá al líder tomarse 2 meses libres sin que baje de la marca, si la llena por completo.
+1274	El panel inferior te dice qué proyectos están actualmente en cola y te permite cancelarlos o asumirlos tú.\n\nAntes de que el proyecto pueda empezar tienes que elegir un producto que hayas lanzado para usarlo como prototipo de futuros proyectos o asignar un proyecto directamente desde la ventana del documento de diseño.\n\nTambién puedes elegir productos anteriores si solo quieres que tu líder gestione tareas de productos ya lanzados, p. ej. marketing, soporte, actualizaciones y distribución.\n\nVe a la {H:ventana del documento de diseño}.
+1275	Cuando hayas terminado tu diseño, haz clic en el botón {H:Gestión de proyectos}, en lugar del botón {H:Desarrollar}, para asignar tu nuevo diseño a la cola del proyecto.
+1276	Empieza el tutorial pulsando el botón {H:Investigar} para abrir la ventana de investigación.
+1277	La ventana de investigación te permite investigar una especialización para desbloquear un nuevo nivel tecnológico.\n\nEl nivel tecnológico más reciente siempre será inaccesible hasta que lo hayas investigado, pero se desbloqueará cuando tú o tus competidores investiguéis el siguiente nivel tecnológico.\n\nPrueba a hacer clic en una de las especializaciones del panel izquierdo.
+1278	A la derecha verás ahora una lista de todos los niveles tecnológicos investigados actualmente para la especialización elegida y si tienen propietario de patente.\n\nAbajo puedes ver un botón para empezar a investigar esta especialización, lo que requiere diseñadores con una especialización de nivel 3 del tipo que quieres investigar.\n\nInvestigar una tecnología nueva antes que nadie te permitirá solicitar una patente usando empleados de {H:Servicio} con la especialización de nivel 3 en {H:Derecho}. Si eres titular de la patente de un nivel tecnológico, todas las empresas que lo usen tendrán que pagarte un canon de royalties sobre sus ventas.
+1279	Puedes conectar o desconectar servidores en el modo cableado haciendo clic en un servidor y luego en otro servidor. También puedes seleccionar todos los servidores que quieras conectar con {KeyBind:MultipleSelect}, {KeyBind:SweepSelect} o arrastrando un rectángulo con {KeyBind:NormalSelection} y luego pulsar {KeyBind:ContextMenu} y pulsar {H:Conectar servidores}.\n\nLa carga que pongas en un grupo de servidores conectados se repartirá entre todos los servidores del grupo. Si un servidor de un grupo se estropea, todo el grupo deja de funcionar.\n\nAbre la interfaz de cableado de servidores haciendo clic en el botón de cableado.
+1280	Además de conectar servidores, puedes usar el modo cableado para tener una visión general de las conexiones de tus servidores.\n\t\nSal del modo cableado y abre la ventana de servidores cuando estés listo.
+1281	Desde aquí puedes gestionar tus servidores y comprobar si se están sobrecalentando.\n\nSi seleccionas un grupo de servidores, puedes ver una lista de todos los procesos que se ejecutan en ese grupo. Después puedes mover esos procesos a otros servidores pulsando {H:Mover procesos seleccionados}.\n\nTambién puedes elegir un servidor de respaldo, que se encargará de los procesos de un grupo de servidores si el grupo se avería.
+1282	Si destruyes un grupo de servidores por completo, todos los procesos quedarán sin soporte, lo que puede tener graves consecuencias.\n\t\nSi esto ocurre, deberías hacer clic en el botón {H:Ver procesos no admitidos} y reasignar todos los procesos a otros servidores.\n\nPulsa Fin para terminar el tutorial.
+1283	Mientras tomabas tus decisiones, el juego ha tomado algunas por ti en segundo plano.\n\nLas decisiones del juego puede que no sean las óptimas, pero puedes empezar el desarrollo sin problemas en este punto.\n\nSi quieres profundizar en las dependencias, los frameworks y la segmentación del mercado, puedes cambiar a la versión avanzada del documento de diseño haciendo clic en {H:Avanzado}; si no, simplemente haz clic en {H:Desarrollar}.
+1284	Empieza abriendo la ventana de personal.
+1285	Esta es la ventana de personal. Arriba verás una lista de tu personal contratado actualmente, ya sea fijo o temporal.
+1286	Con los botones de {H:Fijo} puedes contratar de forma permanente a personal para limpiar, arreglar tu mobiliario, etc. Puedes ver su sueldo pasando el ratón sobre los botones. Vendrán una vez al día hasta que los despidas.\n\nPuedes cambiar su horario de trabajo con los botones de la lista.
+1287	Con los botones de {H:Temporal} puedes contratar personal de forma temporal. Se quedará hasta que termine su trabajo o hasta que lo despidas. Al pasar el ratón sobre los botones verás sus condiciones.\n\nPulsa {H:Terminar} para finalizar el tutorial.
+1288	Empieza abriendo la ventana de detalles de tu empresa para ver tus acciones.
+1289	En la esquina superior derecha de la ventana de la empresa hay un panel que te permite vender acciones de tu empresa. El valor de tu empresa depende de lo bien que le vaya vendiendo servicios y productos, lo que determina qué parte de tu empresa puedes vender.\n\nLa primera vez que vendes acciones se llama {H:Oferta pública inicial}, y todo tu dinero y el dinero que estás recaudando se dividirá en aproximadamente {Currency:100} acciones, que se repartirán entre tú y tus inversores.\n\nBajo este panel verás una lista de acciones que puedes comprar y vender, según si la empresa {H:cotiza en bolsa}, es decir, si vende alguna acción.\n\nPrueba a abrir la ventana de detalles de otra empresa para ver cuántas acciones tiene. Puedes consultar la columna {H:Cotizado} de la ventana de empresas para ver qué porcentaje de una empresa está en venta.
+1290	Tener acciones de una empresa te dará {H:Dividendos}, lo que significa que recibirás cada mes un porcentaje de los beneficios de la empresa, según cuánto de la empresa poseas. Ten en cuenta que tú también tienes que pagar dividendos a tus accionistas.\n\nSi posees más del {H:10%} de una empresa, puedes usar su investigación antes que nadie, y si posees más del {H:25%} no tienes que pagar royalties al usar las herramientas, los sistemas operativos, los frameworks o las patentes de esta empresa. De nuevo, esto también funciona a la inversa.\n\nCuando posees más del {H:50%} de una empresa, tienes la posibilidad de comprarla. Comprar una empresa te permite quedarte con todos sus activos o convertirla en filial. Las filiales seguirán funcionando con normalidad, pero puedes controlar sus lanzamientos y pedirles que hagan ciertas tareas para ti.\n\nSi otra empresa posee más del 50% de la tuya, podría iniciar una {H:Opa hostil}, que te da 6 meses para bajarla del 25% antes de que tu empresa se disuelva.\n\nCuando una empresa quiebra, todos sus activos se reparten entre sus accionistas mayoritarios.
+1291	Para empezar el tutorial, asegúrate de tener una filial y de tener abierta la ventana de detalles de su empresa.
+1292	Controlas las filiales principalmente en la ventana de detalles de la empresa.\n\t\nPuedes usar el control deslizante para retirar e ingresar dinero, igual que con tu cuenta de ahorros. Retirar todo el dinero de una filial cerrará la empresa y te dará todos sus activos.\n\nLa ventana de detalles también te da un resumen de sus lanzamientos previstos y la posibilidad de cancelarlos.\n\nPulsa Continuar cuando estés listo.
+1293	Desarrollar consume recursos de una filial; si quieres que trabaje en tareas concretas, o quieres controlar su calendario de lanzamientos, puedes desactivar su autonomía para asegurarte de que no pierda el tiempo haciendo otras cosas.\n\t\nSolo puedes asignar proyectos que la filial desarrolle normalmente, así que fíjate en sus lanzamientos pasados y futuros. Prueba a abrir el documento de diseño y elegir el tipo de software en el que suelen trabajar.
+1294	Algunas tareas también se pueden asignar a filiales. Esto es caro y consume muchos recursos de la filial. Fíjate en la opción de empresa cuando selecciones equipos para una tarea.\n\t\nTermina el tutorial cuando estés listo
+1295	Para que el tutorial de soporte pueda continuar, necesitas tener un producto lanzado y empezar el soporte para él.\n\nPuedes abrir la ventana {H:Tus lanzamientos} y empezar el soporte desde ahí, si tienes algún producto.
+1296	Cuando lances un nuevo software, se generará un elemento de trabajo de soporte. Mediante este elemento de trabajo recibirás tickets de soporte de tus clientes, si tienes alguno.\n\nEl soporte de un producto nunca termina por sí solo, así que tendrás que terminarlo tú cuando creas que ya no es necesario. Fíjate en el número de usuarios activos para guiarte.
+1297	Los tickets de soporte deben responderse lo más rápido posible para evitar la reacción adversa de los consumidores y una pérdida de reconocimiento de mercado.\n\t\t\t\nLa habilidad de {H:Servicio} de un empleado determina lo rápido que puede responder a los tickets de soporte, y tener al menos una estrella en la especialización de {H:Soporte} le permitirá informar de errores.\n\nA medida que los soportistas verifiquen errores, querrás corregirlos lanzando actualizaciones, lo que puedes hacer haciendo clic en el botón {H:Actualizar} de la tarea o desde {H:Tus lanzamientos}.
+1298	Empieza abriendo la ventana de equipos.
+1299	En esta ventana puedes gestionar y crear equipos.\n\t\nPuedes añadir un equipo nuevo escribiendo un nombre y haciendo clic en el botón de abajo.
+1300	Cuando seleccionas uno o más equipos de la lista puedes ver la habilidad media y el recuento de cada nivel de especialización de todos los empleados de los equipos seleccionados.\n\t\nPuedes cambiar las horas de llegada y salida de tus equipos escribiendo las horas que quieras en los campos de entrada de la izquierda con uno o más equipos seleccionados.
+1301	Puedes fijar cuándo empiezan las vacaciones de tus equipos y cuánto deben repartirse. Un rango de vacaciones de 2 significa que las vacaciones de todos los empleados de un equipo se dividirán en 2 a lo largo de 2 meses, de modo que siempre tendrás al menos a la mitad de los empleados trabajando.\n\nPuedes activar el crunch en un equipo para obligar a tus empleados a trabajar más rápido a costa de su bienestar.
+1302	Para tener una visión general de las asignaciones de roles de tus equipos puedes hacer clic en el botón {H:Gestionar roles}.\n\t\t\t\nTambién puedes fijar {H:Tareas secundarias} para cada equipo. Los empleados solo trabajarán en tareas secundarias si no tienen ninguna tarea principal asignada, que por defecto es cualquier tarea.
+1303	Las oficinas y las zonas de recepción necesitan algo de regulación de la temperatura para asegurar que los empleados y los invitados estén cómodos en su entorno.\n\nLas salas se pueden calentar y enfriar de dos formas: sala por sala o con un sistema distribuido de tuberías y rejillas.\n\nPara regular la temperatura en oficinas pequeñas, puedes colocar {H: Calefactores pequeños, Ventiladores de techo, Radiadores eléctricos y Aires acondicionados}, que empezarán a cambiar la temperatura de una sala de inmediato. Regular la temperatura de esta forma requiere mucho mantenimiento y disparará rápidamente los gastos en edificios más grandes.\n\nHaz clic en {H:Continuar} para conocer la solución distribuida.
+1304	Puedes usar {H:Calefacción central} y {H:Aires acondicionados de tejado} para distribuir aire caliente y frío por todo un edificio mediante {H:radiadores} y {H:ventilación} en cada sala. Como los radiadores y la ventilación no requieren mantenimiento, reducirán mucho la carga de trabajo de tu personal.\n\nCuando hayas colocado una unidad central de temperatura, puedes seleccionarla y hacer clic en {H:Comprar salidas de temperatura automáticamente} en la esquina inferior izquierda para colocar ventilación y radiadores en oficinas y zonas de recepción de forma automática.
+1305	Empieza lanzando una actualización de uno de tus productos existentes
+1306	Actualizar un producto puede implicar corregir los errores que haya verificado tu equipo de soporte y/o aumentar los niveles tecnológicos de un producto para atraer nuevos clientes o retener a los existentes.\n\nNo hay límites a la frecuencia con la que puedes actualizar tu software. Puedes lanzar parches diarios si quieres.\n\nHaz clic en el botón {H:Actualizar} cuando estés listo.
+1307	Te damos la bienvenida a Software Inc.\n\nPuedes arrastrar esta ventana a otro sitio si te estorba, haciendo clic y arrastrando la barra de título.\n\nPulsa Continuar para avanzar en el tutorial.
+1308	Puedes mover la cámara con {KeyBind:MoveUp}, {KeyBind:MoveLeft}, {KeyBind:MoveDown} y {KeyBind:MoveRight}, manteniendo pulsado {KeyBind:DragCamera} y arrastrando el ratón, o llevando el ratón a los bordes de la pantalla (si el desplazamiento por el borde está activado en el menú de opciones).\n\nPuedes rotar la cámara manteniendo pulsado {KeyBind:RotateCamera} y moviendo el ratón o usando {KeyBind:TurnUp}, {KeyBind:TurnLeft}, {KeyBind:TurnDown} y {KeyBind:TurnRight}.\n\nPuedes acercar y alejar con la rueda del ratón o con {KeyBind:ZoomIn} y {KeyBind:ZoomOut}.
+1309	Las teclas se pueden configurar en el menú de opciones, que puedes abrir pulsando Escape o pulsando el botón de la esquina inferior derecha y haciendo clic en «Opciones».
+1310	Arriba encontrarás tu saldo bancario actual. Si pasas el ratón sobre el número verás un desglose del valor de tu empresa.
+1311	Puedes ver la fecha y la hora actuales en la parte superior central de la pantalla.\n\nPuedes obtener una visión general de los horarios de tus empleados y de tu personal haciendo clic en la fecha.
+1312	Aquí arriba el número muestra tu cantidad de fans.\n\nPuedes pasar el ratón sobre la barra para ver tu reconocimiento de mercado en cada mercado de software. Para vender más productos en cada categoría de software, necesitas ganar reconocimiento de mercado haciendo buenos productos y promocionándolos.
+1313	Debajo, las estrellas muestran tu reputación comercial actual.\n\nPuedes pasar el ratón sobre la barra para ver qué está afectando actualmente a tu reputación, si es que algo lo hace.\n\nPuedes mejorar tu reputación comercial haciendo trabajos por encargo o aceptando acuerdos de otras empresas
+1314	Aquí puedes ver cuánto dinero entra y sale de tu empresa.\n\nComo es tu primer día, no se muestra nada. Si haces clic aquí, se abrirá una ventana con un resumen de tus finanzas.
+1315	Puedes controlar la velocidad a la que pasa el tiempo con estos botones o con {KeyBind:Pause}, {KeyBind:Speed1}, {KeyBind:Speed2} y {KeyBind:Speed3}, que también se pueden configurar en el menú de opciones.
+1316	Las notificaciones importantes aparecerán a la izquierda.\n\nAlgunas notificaciones se pueden pulsar para ver detalles. Puedes hacer clic derecho en las notificaciones para eliminarlas.
+1317	Todos tus controles y ventanas están aquí, en la esquina inferior izquierda.
+1318	Recuerda: siempre puedes reiniciar cualquier tutorial desde el menú de opciones.\n\nSi no sabes qué hacer a continuación, echa un vistazo a las {H:Tareas} que puedes completar para desbloquear recompensas geniales.\n\nCuando estés listo, empieza a construir tu oficina entrando en el {H:Modo construcción}.
+1319	Enero
+1320	Febrero
+1321	Marzo
+1322	Abril
+1323	Mayo
+1324	Junio
+1325	Julio
+1326	Agosto
+1327	Septiembre
+1328	Octubre
+1329	Noviembre
+1330	Diciembre
+1331	Nueva partida
+1332	Opciones
+1333	Continuar
+1334	Cargar partida
+1335	Salir
+1336	Créditos
+1337	Nombre de la empresa aquí
+1338	Fundador
+1339	Colores
+1340	Género
+1341	Hombre
+1342	Mujer
+1343	Cabeza
+1344	Torso
+1345	Piernas
+1346	Piel
+1347	Cara
+1348	Parte superior
+1349	Parte inferior

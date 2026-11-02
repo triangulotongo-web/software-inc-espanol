@@ -1,0 +1,450 @@
+2700	Fondos iniciales
+2701	Nivel de formación
+2702	Cantidad de formación
+2703	Cuántos {0} esperar entre una formación y otra de los empleados
+2704	Gastos del mes
+2705	Si RR. HH. debe controlar la asignación de roles de los empleados y cómo
+2706	Agrupación de salas
+2707	¡No has marcado ninguna sala inicial para alquilar!\nPuedes hacer clic derecho en las salas para marcarlas o desmarcarlas para alquilar, agruparlas y marcarlas como salas iniciales.
+2708	Alternar si se puede alquilar
+2709	Alternar si está alquilada por defecto
+2710	Agrupar salas como una unidad alquilable
+2711	Agrupar automáticamente el edificio seleccionado para alquilar
+2712	Construcción
+2713	Reparaciones
+2714	Ventas
+2715	Préstamo
+2716	Mi sueldo es demasiado bajo
+2717	Los aseos son atroces
+2718	Las instalaciones de la oficina son atroces
+2719	El ambiente de la oficina es pésimo
+2720	Este trabajo no me realiza
+2721	Esta sala me relaja
+2722	Hay demasiado ruido
+2723	Los otros equipos me distraen
+2724	Autónoma
+2725	Si esta empresa puede crear productos nuevos por su cuenta
+2726	Has recibido {0} por la adquisición de {1}
+2727	{0} se ha añadido a la cola de desarrollo de {1} y empezará a desarrollarse cuando terminen los proyectos actuales
+2728	{0} no tiene capacidad para asumir más trabajo; quizá tengas que cancelar antes sus proyectos en cola
+2729	Empleado descontento
+2730	Acuerdo
+2731	Solo tienes reputación empresarial suficiente para poseer {0} filiales
+2732	Esta es tu reputación en la industria del software. Cada estrella influye en la calidad de los candidatos, los contratos y acuerdos, y en cuántas filiales puedes poseer.
+2733	Subida mínima
+2734	Indemnización por despido
+2735	Vacaciones pagadas
+2736	Meses de vacaciones
+2737	Comida gratis
+2738	Coche de empresa
+2739	Parcela
+2740	Fallecimiento
+2741	Despido
+2742	Hospitalización
+2743	No estoy contento con mis beneficios
+2744	Estoy contento con mis beneficios
+2745	Mis beneficios han mejorado
+2746	Mis beneficios han empeorado
+2747	Un empleado está descontento con su plan de beneficios
+2748	Duración
+2749	Entre empresas
+2750	No puedes comprar una empresa durante su primer año de existencia
+2751	No hay nada que hacer
+2752	Me siento atascado aquí
+2753	Mi amigo se ha ido
+2754	He tenido unas vacaciones estupendas
+2755	Rescindir alquiler
+2756	Demasiado frío
+2757	Perfecto
+2758	Demasiado calor
+2759	Consumo alto
+2760	Sin consumo
+2761	Sin grupo
+2762	Está agrupada
+2763	Propiedad del jugador
+2764	No se puede alquilar
+2765	Se puede alquilar, coloreado por agrupación
+2766	Colocar objetos en el entorno del mapa
+2767	Casas
+2768	Rascacielos
+2769	Árboles
+2770	Clic izquierdo para colocar, Mayús + clic izquierdo para quitar, clic derecho para cancelar y rueda para cambiar el tipo
+2771	Clic izquierdo para elegir posición, tamaño de base y altura, Mayús + clic izquierdo para quitar y clic derecho para cancelar
+2772	Clic izquierdo para colocar, Mayús + clic izquierdo para quitar, clic derecho para cancelar y rueda para cambiar el tamaño del pincel
+2773	Meses restantes
+2774	Entrada
+2775	Valoración añadida
+2776	Superficie de la parcela
+2777	Superficie del edificio
+2778	Superficie alquilada
+2779	Intereses devengados
+2780	Arrendador
+2781	En alquiler
+2782	En venta
+2783	Con esta herramienta puedes construir {2}{3} nuevos o dividir {3} existentes. {4} cuestan {0} por metro y, además, cada metro cuadrado de {5} cuesta {1}. Construir {3} cuesta más cuanto más alto se va.
+2784	zonas exteriores
+2785	salas
+2786	rectangulares
+2787	suelo y tejado
+2788	suelo
+2789	Vallas
+2790	Paredes
+2791	Salas rectangulares
+2792	Salas en ángulo libre
+2793	Zonas exteriores rectangulares
+2794	Zonas exteriores en ángulo libre
+2795	Traslado
+2796	Saldo
+2797	Alquiler
+2798	No puedes sobrescribir este archivo
+2799	Rescindir el alquiler venderá todo tu mobiliario, aunque puedes deshacerlo.
+2800	Añadir árboles
+2801	Quitar árboles
+2802	Quitar objeto del entorno
+2803	Añadir objeto del entorno
+2804	Edificios
+2805	Parcela vacía
+2806	Pulsa Mayús + botón izquierdo del ratón para quitar
+2807	Indica cuántas copias quieres tener en stock antes de que se pause la impresión. -1 significa sin límite.
+2808	Máximo
+2809	{0} no está interesada en intercambiar esta IP contigo
+2810	Parcelas más grandes
+2811	Actívalo para obtener parcelas más grandes y de forma más regular, pero con mayores costes de expansión
+2812	Comparación de habilidades
+2813	Compara las habilidades del candidato seleccionado con la media del equipo seleccionado
+2814	Especialización mínima
+2815	Lo alta que debe ser la especialización de un empleado para que se le permita trabajar con ella. Afecta a la formación de RR. HH.
+2816	Escalar cada barra de nivel de habilidad según el nivel de habilidad más alto de los empleados
+2817	Todo el año
+2818	Las vacaciones se repartirán entre los empleados de los equipos seleccionados dentro de este intervalo. La duración real de las vacaciones depende de los beneficios de los empleados.
+2819	RR. PP.
+2820	Superficie
+2821	Calefacción insuficiente para las noches de invierno\nAñade calefacción y recuerda que las ventanas tienen fugas
+2822	Ventilación insuficiente para los días de verano\nAñade ventilación y recuerda que las ventanas tienen fugas
+2823	FPS objetivo
+2824	Cuántos fotogramas por segundo debería intentar renderizar tu tarjeta gráfica, suponiendo que la sincronización vertical esté desactivada. Introduce -1 para sobrecalentar tu tarjeta gráfica.
+2825	Cambiar beneficios
+2826	Restablecer en toda la empresa
+2827	Anular beneficio de la empresa
+2828	Aislamiento
+2829	Paga de Navidad
+2830	Rampa
+2831	Pulsa {0} o {1} para girar la rampa
+2832	No puedes construir la rampa más alta
+2833	No puedes construir encima de una rampa
+2834	No puedes construir por debajo de las carreteras ni a menos de 2 plantas por encima de ellas
+2835	Alguien está atrapado en una carretera elevada
+2836	Las carreteras deben estar al menos 2 plantas por debajo de cualquier sala
+2837	Tu edificio es demasiado alto para colocarlo en esta planta
+2838	Estás intentando cambiar el rol de uno o más empleados cuyo rol controla un responsable de RR. HH.\n¿Quieres continuar sin cambiar la configuración de RR. HH.?
+2839	Tareas
+2840	A {0} le cae muy mal {1}.\nConsidera separarlos en equipos distintos
+2841	El precio de este software es actualmente muy superior a la media del mercado.\nEl precio sugerido es {0}
+2842	Deberías anunciar la fecha de lanzamiento de tu producto cuanto antes, ya que aumentará la eficacia de tu marketing, mantendrá interesados a los seguidores durante más tiempo y ayudará a fijar una meta para tu proyecto.\nProcura no lanzar tu producto demasiado tarde.
+2843	{0} por adelantado - Hasta {1} por reparación
+2844	{0} [Mes|Meses]
+2845	{0} [Día|Días]
+2846	{0} [Año|Años]
+2847	{0} [Hora|Horas]
+2848	{0} [Producto|Productos]
+2849	{0} [Equipo|Equipos]
+2850	{0} [Especialización|Especializaciones]
+2851	{0} para girar tu mobiliario
+2852	Pulsa {0} o {1}
+2853	Cambiar precio
+2854	No cualificado para tareas activas
+2855	Gestión de equipos
+2856	Tu filial {0} se está quedando sin dinero
+2857	No puedes construir carreteras sobre salas
+2858	Tu producto depende de otros productos que aún están en desarrollo. No podrás lanzar tu producto hasta que se hayan lanzado esos productos.\n¿Seguro que quieres continuar?
+2859	Bajas por enfermedad
+2860	Antigüedad
+2861	Dimisiones
+2862	No hay datos disponibles
+2863	Impresiones vendidas
+2864	Unidades netas vendidas
+2865	Distribución física
+2866	Esto debe colocarse en zonas exteriores valladas
+2867	{0} ha cancelado tu acuerdo de {1} por mal rendimiento
+2868	Este producto aún está en desarrollo
+2869	Vender esta parcela destruirá los edificios existentes.\n¿Seguro que quieres continuar?
+2870	El producto ya es gratuito
+2871	{0} [Tejado|Tejados]
+2872	{0} [Sala|Salas]
+2873	{0} [Grupo|Grupos]
+2874	Colores del tejado
+2875	Materiales del tejado
+2876	Editar tejado
+2877	Destruir estructura
+2878	Terminar tejado
+2879	Tejado no válido
+2880	Alinear
+2881	Enderezar
+2882	Hastial
+2883	Mover
+2884	Fusionar
+2885	Editor de tejados
+2886	Alinear los puntos con los bordes del tejado
+2887	Enderezar los puntos a lo largo de una línea
+2888	Construir un tejado sobre las salas seleccionadas
+2889	No se puede cruzar con el tejado
+2890	No se puede añadir tejado a salas del sótano
+2891	No se puede construir un tejado tan alto
+2892	La sala ya tiene tejado
+2893	Solo puedes construir tejados en una planta a la vez
+2894	Selecciona las salas sobre las que quieres construir un tejado
+2895	Selecciona salas adyacentes sobre las que construir un tejado
+2896	Incluir sótano
+2897	Seleccionar salas sin soporte
+2898	Centrar en el objeto
+2899	Asignar salas
+2900	Calendario
+2901	Horario laboral
+2902	Un empleado no puede volver a casa
+2903	Se ha detectado un nuevo mod de código: {0}. Estos mods pueden alterar tu sistema. No deberías cargar un mod de código si no confías en su origen.\n¿Seguro que quieres continuar?
+2904	Un mod de código, {0}, solicita acceso total, incluido el acceso a tus archivos y a tu conexión a internet. No deberías cargar un mod de código si no confías en su origen.\n¿Seguro que quieres continuar?
+2905	Se han detectado cambios en el mod de código {0}; ¿aun así quieres cargarlo?
+2906	No se pudieron preparar los archivos del mod para subirlos
+2907	No se pueden construir zonas exteriores bajo tierra
+2908	Girar el mobiliario al azar
+2909	Consigue la banda sonora
+2910	Mover los procesos seleccionados
+2911	¿Quieres transferir esta IP a una filial?
+2912	Transferir IP
+2913	El equipo de gestión de proyectos {0} acaba de lanzar el {2}: {3}
+2914	Hace tiempo que no lanzas {0:Vowel:un,un} {0} y tus fans lo notan
+2915	A un empleado se le ha asignado {0:Vowel:un,un} {0} en una sala a la que el empleado no tiene permitido el acceso
+2916	{0} [Empleado|Empleados]
+2917	{0} antes de tiempo
+2918	{0} demasiado tarde
+2919	{0} esperando para usar
+2920	¿Seguro que quieres disolver {1}:\n{0}?
+2921	Ajustar a la cuadrícula
+2922	{0:FirstOrCount:empleados} {0:Plural:han avisado,ha avisado} de que están enfermos
+2923	General
+2924	Controles
+2925	Efectos
+2926	Optimización
+2927	Ayuda
+2928	¿Seguro que quieres mantener esta escala de la interfaz?
+2929	Mantén Mayús para colocar varios objetos
+2930	Desactívalo para colocar varios objetos por defecto, usando el clic derecho para cancelar
+2931	Efectos del entorno
+2932	Nieve, lluvia, truenos y relámpagos. No afecta a la temperatura ni a la textura del suelo
+2933	Duplicar el mobiliario seleccionado
+2934	Planta baja
+2935	Planta {0}
+2936	Ajuste de ángulo
+2937	Duplicar tamaño de cuadrícula
+2938	Reducir a la mitad el tamaño de cuadrícula
+2939	Restablecer cuadrícula
+2940	Panel de cuadrícula antiguo
+2941	Alterna el panel de manipulación de la cuadrícula de versiones anteriores de Software Inc.
+2942	Nada coincide con el filtro
+2943	Haz clic para empezar el tutorial de {0:ToLower}
+2944	{0} [Pieza|Piezas]
+2945	{0} [Alquiler|Alquileres]
+2946	{0} [Camino|Caminos]
+2947	Notas del parche
+2948	Requisitos
+2949	Este producto se ha quedado sin clientes potenciales
+2950	No puedes construir sobre un camino
+2951	No puedes construir a través de edificios
+2952	No puedes construir un camino encima de otro camino
+2953	Tareas secundarias
+2954	Tareas de gestión de proyectos
+2955	Tareas de diseño
+2956	Tareas de marketing
+2957	Tareas de investigación
+2958	Tareas de reseñas
+2959	Tareas de desarrollo
+2960	Tareas de portado
+2961	Tareas de soporte
+2962	Se ha elegido el nivel de calidad {0} según el resultado de la prueba de rendimiento
+2963	Se ha elegido un nivel de calidad entre {0} y {1} según el resultado de la prueba de rendimiento
+2964	Construye carreteras, aparcamientos y caminos para que tus empleados lleguen antes al trabajo
+2965	Construir camino
+2966	Los empleados caminan más rápido por los caminos que por la hierba
+2967	Construir camino suave
+2968	Suave
+2969	Igual que el camino normal pero con esquinas redondeadas
+2970	Quitar camino
+2971	Quita tramos sueltos de camino de uno en uno
+2972	Material del sistema de caminos
+2973	Color del sistema de caminos
+2974	Quitar sistemas de caminos
+2975	Quitando {0} {0:Plural:sistemas,sistema} de caminos
+2976	Construyendo camino
+2977	Destruyendo camino
+2978	Cambiando el estilo del camino
+2979	Comprando {0:PluralKey:Piece} de mobiliario
+2980	Vendiendo {0:PluralKey:Piece} de mobiliario
+2981	Coloreando {0:PluralKey:Piece} de mobiliario
+2982	Sustituyendo {0:PluralKey:Piece} de mobiliario
+2983	Moviendo {0:PluralKey:Piece} de mobiliario
+2984	Construyendo {0} {0:Plural:segmentos,segmento} de pared
+2985	Quitando {0} {0:Plural:segmentos,segmento} de pared
+2986	Construyendo {0:PluralKey:Room}
+2987	Destruyendo {0:PluralKey:Room}
+2988	Dividiendo {0:PluralKey:Room}
+2989	Fusionando {0:PluralKey:Room}
+2990	Coloreando {0:PluralKey:Room}
+2991	Cambiando el material de {0:PluralKey:Room}
+2992	Rescindir {0:PluralKey:Lease}
+2993	Entrar en {0:PluralKey:Lease}
+2994	Destruyendo {0:PluralKey:Roof}
+2995	Construyendo {0:PluralKey:Roof}
+2996	Cambiando {0:PluralKey:Roof}
+2997	Creando atrio
+2998	¿Seguro que quieres demoler {0} {0:Plural:estructuras,estructura}?
+2999	Demoler {0:PluralKey:Room}
+3000	Derribar {0:PluralKey:Roof}
+3001	Quitar {0} {0:Plural:sistemas,sistema} de caminos
+3002	¿Seguro que quieres vender {0:PluralKey:Piece} de mobiliario?
+3003	Vender {0:PluralKey:Piece} de mobiliario
+3004	¿Seguro que quieres despedir a {0:PluralKey:Employee}?
+3005	Despedir a {0:PluralKey:Employee}
+3006	Los empleados solo trabajarán en roles secundarios si no hay tareas disponibles para sus roles principales
+3007	Los empleados solo trabajarán en tareas secundarias si no hay tareas principales disponibles
+3008	Rendimiento
+3009	Este camino está bloqueado
+3010	Favoritos
+3011	Quitar de favoritos
+3012	Añadir a favoritos
+3013	{0} [Patente|Patentes]
+3014	{0} [Acción|Acciones]
+3015	{0} [Framework|Frameworks]
+3016	Reparar
+3017	Nivel {0} ({1})
+3018	Coste total
+3019	El número máximo de empleados que pueden hacer cursos a la vez. Pon -1 para no tener límite
+3020	{0} [Nivel tecnológico|Niveles tecnológicos]
+3021	Limitado por {0}
+3022	Ya se usa la última tecnología
+3023	Página anterior
+3024	Se requiere un nivel tecnológico de {0} o superior para esta característica
+3025	Página siguiente
+3026	Información básica
+3027	Segmentación de mercado
+3028	Resumen
+3029	Satisfacción del mercado
+3030	Herramientas
+3031	No hay líderes entre los que elegir. Contrata a un líder o asegúrate de tener un líder con la especialización en automatización
+3032	{2:ToLower} {1} de nivel {0}
+3033	{1} de nivel {0}
+3034	Falta {0}
+3035	Nadie es competente como {0:ToLower} en los equipos seleccionados.\n¿Seguro que quieres continuar?
+3036	Límites de nivel tecnológico
+3037	Limitado por
+3038	Progreso mínimo
+3039	Compatible
+3040	No es compatible con los niveles tecnológicos seleccionados
+3041	No es compatible con las características seleccionadas
+3042	En desarrollo
+3043	Falta investigación
+3044	Compatible con
+3045	Presupuesto mensual asignado para costes de formación y contratación
+3046	No hay ningún {2} trabajando en {0} para terminar {1}, lo que dificultará el avance del proyecto
+3047	Esta característica no estará disponible hasta el nivel tecnológico {0}
+3048	Esta característica no es compatible con los sistemas operativos seleccionados
+3049	Esta característica no es compatible con ningún sistema operativo del mercado actualmente
+3050	Debes activar {0} para añadir esta característica
+3051	Esta característica requiere {0:Vowel:un,un} {0}, pero no hay ninguno en el mercado
+3052	Puedes pulsar {KeyBind:Destroy} para despedir empleados y destruir objetos.
+3053	Colocar un lavabo junto a un inodoro frenará la propagación de enfermedades y reducirá la probabilidad de que tus empleados enfermen y se queden en casa
+3054	Puedes cambiar las condiciones de iluminación en el modo de construcción con este control deslizante.\nAsí también podrás ver tus lámparas en acción.
+3055	Odio trabajar de noche
+3056	Compensación por turno de noche
+3057	Distribuidora
+3058	¡Esto cancelará tu acuerdo de distribución! ¿Seguro que quieres continuar?
+3059	Financiación
+3060	Este acuerdo de distribución no es válido
+3061	A nadie le interesa este acuerdo de distribución
+3062	Exclusividad de sistema operativo
+3063	Control del calendario de lanzamientos
+3064	Demanda
+3065	Haz clic aquí o pulsa {KeyBind:SkipDay} para saltar el tiempo muerto
+3066	Trabajo jurídico
+3067	Servicio
+3068	Habilidad de servicio
+3069	Disputa externa
+3070	Disputa interna
+3071	Llegar a un acuerdo
+3072	{0} para llegar a un acuerdo por {1}
+3073	{0} para derrotarlos
+3074	Se te acusa de {0} y se te demanda{1:NotNull: por *} por {2}. ¿Quieres llegar a un acuerdo o ir a juicio?
+3075	El caso ha terminado. Te has defendido con éxito por {0}
+3076	El caso ha terminado. No has logrado defenderte por {0} y tendrás que pagar {1} en daños y perjuicios
+3077	No puedes comprar una empresa mientras estás en una disputa legal
+3078	¿Seguro que quieres llegar a un acuerdo por {0}?
+3079	Tribunal
+3080	Legal
+3081	Incumplimiento del contrato de distribución
+3082	Terminar
+3083	Terminado
+3084	Despido improcedente
+3085	Otra empresa ha terminado de investigar {0} antes de que pudieras patentarlo
+3086	Has terminado de investigar {0}. ¿Quieres solicitar una patente para {1}? (Requiere empleados de servicio con la especialización en derecho de nivel 3)
+3087	Solicitando patente
+3088	No apto para el curso seleccionado
+3089	Válido
+3090	Elegir herramienta
+3091	El nombre de framework elegido no es válido o ya existe
+3092	Nombre del framework
+3093	Predecesor
+3094	Primero hay que reparar la sala quemada
+3095	¡Se ha declarado un incendio!
+3096	Puedes dedicar algo de tiempo de desarrollo a crear un framework, que podrás usar para acelerar el desarrollo de futuros proyectos de la misma categoría de software
+3097	La potencia de los ordenadores irá disminuyendo poco a poco a medida que salgan ordenadores nuevos y se necesite mejor hardware para ejecutar software moderno. Deberías reemplazar los ordenadores viejos cuando puedas.
+3098	Nuevo
+3099	Existente
+3100	Aleatorio
+3101	Herramienta de curvas
+3102	Añade curvas a paredes rectas
+3103	Usa la rueda del ratón para controlar la segmentación de la curva
+3104	Añadiendo curva a la pared
+3105	Seguro de contenidos
+3106	No has usado todos tus puntos de especialización.\n¿Seguro que quieres continuar?
+3107	Cubre el mobiliario robado y el perdido en un incendio
+3108	Cubre {0} - Cuesta {1} al mes (el precio escala con el inventario de la empresa)
+3109	Cambiar aspecto del objeto
+3110	Aspecto aleatorio del mobiliario
+3111	Ladrón
+3112	¡Unos ladrones quieren desvalijar tus instalaciones!
+3113	La policía detuvo a los ladrones antes de que robaran nada
+3114	Los ladrones se fueron a casa con las manos vacías
+3115	Aumenta los sueldos de los empleados entre {Constant:NightShiftStart} y {Constant:NightShiftEnd}
+3116	La pensión se ingresa mensualmente en una cuenta aparte y se entrega a los empleados cuando se jubilan (lo más importante para los empleados jóvenes)
+3117	El seguro de vida se paga si un empleado fallece (lo más importante para los empleados mayores)
+3118	El seguro de salud se paga si un empleado enferma demasiado para seguir trabajando (lo más importante para los empleados de mediana edad)
+3119	Establece un aumento salarial mínimo para la negociación salarial anual
+3120	La indemnización se paga cuando despides a un empleado
+3121	Puestos de sistema operativo
+3122	Espiar a los usuarios
+3123	Externalizar
+3124	Iterar
+3125	Pausa el trabajo de la alfa para mejorar el diseño de tu software y aumentar la calidad final potencial del producto
+3126	Iterando
+3127	Iterando en {0}
+3128	Enfriamiento de iteración
+3129	Cuántos meses esperar entre iteraciones en la fase alfa. Escribe 0 para nunca
+3130	Usar frameworks
+3131	Usará frameworks para desarrollar software si hay alguno reciente disponible
+3132	{0} ha cerrado y ya no puede encargarse de la distribución de {1}
+3133	Tu distribuidora desarrollará y publicará tu nota de prensa al instante. ¿Seguro que quieres continuar?
+3134	Generar diseño
+3135	Elige automáticamente características, sistemas operativos y herramientas según los ajustes que has configurado en esta página
+3136	Restaurar mobiliario
+3137	¡No se puede subir mobiliario con límites automáticos activados!\nDebes fijar los límites con el comando de consola EXPORT_FURNITURE_BOUNDS antes de subirlo
+3138	El tamaño de los equipos que has elegido es bastante pequeño para un proyecto de este tipo de software y limitará la calidad del producto final
+3139	Las características que has seleccionado requieren alojamiento en servidores. Si no eliges un servidor antes del lanzamiento, tus clientes se enfadarán muchísimo, y muy rápido.
+3140	Software prototipo
+3141	Los proyectos nuevos se basarán en este software (ten en cuenta que también puedes añadir proyectos nuevos desde la ventana del documento de diseño)
+3142	Cada iteración mejora la calidad potencial y la rapidez con la que aparecen los errores
+3143	Contratar seguridad
+3144	El personal de seguridad vigilará las entradas del edificio y ahuyentará a cualquier posible ladrón
+3145	Socialización
+3146	Tareas legales
+3147	Derecho
+3148	Daltonismo
+3149	Tienes fondos limitados para mantener tu empresa si contratas a {0}. ¿Seguro que quieres continuar?

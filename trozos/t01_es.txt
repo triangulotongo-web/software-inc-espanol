@@ -1,0 +1,450 @@
+450	Cuando nunca tienes suficiente servidor
+451	Teléfono
+452	¿A quién vas a llamar? ¡A soporte!
+453	Tableta gráfica
+454	Mucho más fácil que introducir a mano las coordenadas de los píxeles
+455	Calculadora
+456	Las calculadoras son las mejores amigas de un programador
+457	Bandeja de entrada
+458	Ayuda a que tus empleados estén organizados, especialmente útil para quien no ha oído hablar del correo electrónico
+459	Caja
+460	Auriculares
+461	Impresora de productos pequeña
+462	Una pequeña impresora de disquetes para imprimir tus productos
+463	Impresora de productos mediana
+464	Una impresora de discos mediana
+465	Impresora de productos grande
+466	Imprime copias más pequeñas para que los mensajeros puedan llevar más
+467	Impresora de componentes
+468	Fabrica nuevos componentes de hardware
+469	Ensambladora de componentes
+470	Ensambla los componentes fabricados. Puede tener {Constant:AssemblerMaxQueue} ensamblajes en cola
+471	Reciclador de componentes
+472	Recicla los componentes de los ensamblajes sin terminar que pasan por él para reutilizarlos más tarde. {Warning:Solo debe colocarse después del último ensamblador de componentes}.
+473	Cinta transportadora
+474	Cinta transportadora (nivel 2)
+475	Cinta transportadora (nivel 3)
+476	Cinta transportadora de techo
+477	Mueve cajas sin estorbar al personal
+478	Cinta transportadora de techo (nivel 2)
+479	Cinta transportadora de techo (nivel 3)
+480	Rampa transportadora
+481	Divisor de cinta
+482	Divide las cajas entrantes en hasta 3 direcciones
+483	Cinta transportadora de pared
+484	Transferencia de cajas de sala a sala
+485	Palé
+486	Admite hasta 27 cajas de copias
+487	Punto de descarga de palés
+488	Deja cajas en palés si la cinta transportadora está saturada
+489	Punto de recogida de palés
+490	Recoge cajas de los palés si la cinta transportadora está vacía
+491	Puerto de garaje izquierdo
+492	Envía las cajas directamente a la puerta de casa de tus mensajeros
+493	Puerto de garaje derecho
+494	Helipuerto
+495	Lanza automáticamente hasta 108 cajas a la estratosfera por {Currency:6500} cada vez
+496	Ascensor de cajas
+497	Transfiere cajas entre plantas
+498	Empaquetadora de comida
+499	Toma comida de los cocineros y la distribuye a los comedores mediante cintas transportadoras
+500	Dispensador de comida
+501	Toma comida de una cinta transportadora y la distribuye a los empleados
+502	Título de la empresa
+503	Texto
+504	Contorno
+505	Sombra
+506	Título de la empresa grande
+507	Logotipo de la empresa alto
+508	Logotipo de la empresa
+509	Logotipo de la empresa grande
+510	Panel solar
+511	Rebaja tu factura de la luz y vende lo que sobre a la red con un 25 %
+512	Batería
+513	1 vatio ahorrado vale más que 1 vatio vendido
+514	Aerogenerador
+515	Sacando electricidad de la nada
+516	Lingotes de oro
+517	Lingotes de oro nivel 1
+518	Lingotes de oro nivel 2
+519	Lingotes de plata
+520	Lingotes de plata nivel 1
+521	Lingotes de plata nivel 2
+522	Lingotes de cobre
+523	Lingotes de cobre nivel 1
+524	Lingotes de cobre nivel 2
+525	Agujero
+526	Premio al mejor diseñador
+527	Ralentiza las necesidades sociales y el estrés en la sala
+528	Premio al mejor empleador
+529	Ralentiza el hambre y las ganas de ir al baño en la sala
+530	Premio al mejor producto
+531	Ralentiza el deterioro del mobiliario en la sala
+532	Premio al más rentable
+533	Ralentiza la acumulación de suciedad en la sala
+534	Puerta estándar
+535	Es una puerta...
+536	Vano con marco
+537	Puerta corredera de cristal
+538	Puerta que hace de ventana
+539	Puertas dobles
+540	Más puertas por cada puerta comprada
+541	Puerta doble de cristal
+542	Ventana pequeña
+543	Totalmente inútil si se coloca entre salas
+544	Ventana grande
+545	Si quieres aún más ventana
+546	Ventana ancha
+547	Para la experiencia panorámica
+548	Ventana privada pequeña
+549	Para todas tus necesidades de baño
+550	Puerta de arco
+551	Puerta abierta
+552	Común
+553	Sala de descanso
+554	Asientos
+555	Recepción
+556	Exteriores
+557	Servicios
+558	Baño
+559	Cocina
+560	Portón
+561	Predeterminado
+562	Sistema operativo
+563	El sistema operativo es el software más grande de Software Inc.\nLa mayoría del software necesita un sistema operativo para funcionar. Cuando la gente deja de comprar una línea de sistemas operativos, también deja de comprar software para ellos.
+564	Sistema
+565	Multitarea
+566	Deja que tus usuarios finjan que pueden hacer varias cosas a la vez con varias aplicaciones abiertas al mismo tiempo
+567	Cuentas de usuario
+568	Plug and Play
+569	Permite al usuario interactuar con el sistema operativo de un sinfín de maneras
+570	Cifrado de archivos
+571	Recuperación del sistema
+572	Virtualización
+573	Te meto un SO en tu SO, etc.
+574	Firma de código
+575	Hardware
+576	Táctil
+577	Nunca hay suficientes huellas grasientas en una superficie
+578	Lector de huellas
+579	Vibración
+580	El dispositivo hace brrr
+581	Comunicación inalámbrica
+582	No se puede tropezar con el electromagnetismo
+583	Unidad extraíble
+584	Guardamos partidas en tarjetas de memoria y partidas en discos duros
+585	Entrada estandarizada
+586	Necesitarás un teclado para hacer juegos en tu consola
+587	Superoptimización
+588	Dedica tiempo al desarrollar el software para ahorrar dinero al pedir hardware (elimina el coste extra al pedir impresiones de producto)
+589	Interfaz
+590	Temas personalizados
+591	Sistema de ventanas
+592	Búsqueda unificada
+593	Temas
+594	Widgets
+595	Notificaciones
+596	Renderizado 3D
+597	Audio
+598	Sonido envolvente
+599	Reconocimiento de voz
+600	Vigilancia por micrófono
+601	Escucha las conversaciones de tus usuarios para encontrar y corregir errores antes de que se notifiquen, con el riesgo de que te pillen
+602	Red
+603	¿Cómo van a trolear los anónimos a otros por todo el mundo sin esta práctica característica?
+604	Actualización automática
+605	Corrige errores, protege contra malware y reinicia en mitad de un ensayo de 60 páginas sin guardar
+606	Tienda de aplicaciones
+607	Copia de seguridad en la nube
+608	Inalámbrico
+609	Detección de movimiento
+610	¿Quién no quiere joysticks integrados en su tele?
+611	Altavoz integrado
+612	Iluminación RGB
+613	Ordenador
+614	Para la mesa
+615	Consola
+616	Para la tele
+617	Para el bolsillo
+618	Joystick
+619	Antena
+620	Placa base
+621	Bahía de unidad
+622	Mando
+623	Entrada del dispositivo
+624	Sensor táctil
+625	Pantalla
+626	Giroscopio
+627	Batería pequeña
+628	Batería mediana
+629	Batería grande
+630	Unidad de vibración
+631	Altavoz
+632	Editor 2D
+633	Programa que te permite manejar matrices bidimensionales de información de color
+634	Gráficos 2D
+635	Parece bastante esencial para este tipo de software
+636	Gráficos vectoriales
+637	Mete algunas líneas dentro de tus píxeles
+638	Formas procedurales
+639	¿Quién quiere dibujar un rectángulo a mano?
+640	Capas
+641	Pinceles dinámicos
+642	Niveles y curvas
+643	Efectos de imagen
+644	Necesita más remolino
+645	Renderizado de texto
+646	Preajustes de pincel
+647	Suavizado de trazo
+648	Imágenes prediseñadas
+649	Licuar
+650	Estira y tira de tus píxeles
+651	Pincel corrector
+652	Elimina granos, manchas, motas, personas, edificios, etc.
+653	Embellecer
+654	Halaga a la gente haciendo que salga mejor en las fotos, así es menos probable que pidan el reembolso de tu producto
+655	Importación de imágenes RAW
+656	Si necesitas sacar algo más de color a tus colores
+657	Compatibilidad con tabletas gráficas
+658	Editor 3D
+659	Básicamente, puntos en el espacio
+660	Gráficos 3D
+661	Esculpido
+662	Finge que los puntos son arcilla
+663	Trazado de rayos
+664	Dispara rayos a los puntos para hacer una imagen
+665	Rigging
+666	Haz que los puntos se muevan solos
+667	Objetos procedurales
+668	Genera puntos automágicamente
+669	Simulación de físicas
+670	Haz que los puntos interactúen
+671	Simulación de líquidos
+672	Derrama puntos por todas partes
+673	Simulación de pelo
+674	Haz líneas entre los puntos
+675	Partículas
+676	Esparce puntos por todas partes
+677	Operaciones booleanas
+678	Si punto y punto entonces punto
+679	Subdivisión de malla
+680	Añade puntos entre puntos
+681	Cinemática inversa
+682	Coloca puntos con pulcritud entre otros puntos
+683	Minería de bits
+684	Mina bitcoins con la GPU de tus usuarios para ganar {Currency:0.1} extra por usuario activo, con el riesgo de que te pillen
+685	Renderizado por GPU
+686	Usa hardware de puntos para hacer puntos más rápido
+687	Captura de movimiento
+688	Convierte el movimiento de la vida real en movimiento de puntos
+689	Herramienta de audio
+690	La herramienta de audio sirve para grabar y mezclar efectos de sonido y música.
+691	Las cosas que hacen el sonido
+692	Sintetizador
+693	Retardo y reverberación
+694	Ecualización y compresión
+695	Simulación de amplificador
+696	Tono y estiramiento de onda
+697	Autotune
+698	Esto es una cosa
+699	Preajustes de sintetizador
+700	Banco de sonidos
+701	Ofrece al usuario imágenes para sus sonidos
+702	Edición multipista
+703	Mezclador de canales
+704	Editor de notas
+705	Analizador de espectro
+706	Simulación de rack
+707	Interacciones con el sistema subyacente
+708	Códecs de audio
+709	Entrada de dispositivos MIDI
+710	Complementos de efectos
+711	Tarjeta de sonido incluida
+712	Las ventas físicas aportan un 50 % extra del precio de venta, pero fabricar las copias cuesta {Currency:10} más
+713	Juego
+714	Arte interactivo.
+715	Diseño de juegos
+716	Mundo abierto
+717	Físicas
+718	Cosas que rebotan
+719	Árboles de diálogo
+720	Dale voz al jugador y luego haz que su personaje diga algo ligeramente distinto en el juego
+721	Historia ramificada
+722	Múltiples caminos distintos que llevan todos al mismo destino
+723	Compatibilidad con mods
+724	Puedes quitar esta característica del juego con un mod si quieres
+725	Personaje personalizable
+726	Gráficos 2D
+727	HUD avanzado
+728	Añade algo más de interfaz gráfica a tu juego
+729	Posprocesado
+730	#Bloom
+731	Carta reversa
+732	Anula la propiedad de IP del diseñador principal al lanzar
+733	Gráficos 3D
+734	Sombras
+735	Escenas cinemáticas
+736	RV
+737	Realidad virtual
+738	Animaciones faciales
+739	Generación procedural
+740	Físicas descabelladas
+741	Impulsa el marketing de tu lanzamiento con vídeos virales introduciendo algunos errores en tus objetos físicos
+742	Diálogo grabado
+743	Música adaptativa
+744	Música exclusiva digital
+745	Convierte parte de tus ventas físicas en digitales, perdiendo algunas de tus ventas físicas en el proceso
+746	Multijugador
+747	Facilita que adolescentes de todo el mundo griten obscenidades
+748	MMO
+749	Multijugador masivo en línea
+750	Diálogo nuevo
+751	Escenas cinemáticas nuevas
+752	Personalización de personajes
+753	Calvo es un peinado
+754	Historia nueva
+755	Equipos deportivos
+756	Añade unas filas a la hoja de cálculo y da el trabajo por hecho
+757	Música
+758	Armas
+759	Quizá puedas añadir una con un poco más de pam pam
+760	Personajes jugables
+761	Mapa
+762	Haz tu juego de mundo abierto aún más abierto
+763	Combates contra jefes
+764	Objetos de entorno
+765	Sprites
+766	Parámetros procedurales
+767	Arquetipos de IA
+768	RPG
+769	Juego de rol
+770	Aventura
+771	Simulación
+772	¡Estás jugando a uno!
+773	Deportes
+774	RTS
+775	Estrategia en tiempo real
+776	FPS
+777	Shooter en primera persona
+778	Pack de expansión
+779	Guau
+780	Software de oficina
+781	Para todas tus necesidades de oficina
+782	No se pueden hacer documentos de oficina si no se ven
+783	Renderizado de ecuaciones
+784	y=(1/(σ·sqrt(2·π)))e^(-(x-μ)^2/(2·σ^2))... No queda bien, ¿verdad?
+785	Maquetación automática de páginas
+786	Es decir, pasar 30 minutos intentando que la imagen quepa en su sitio
+787	Gráficos y diagramas
+788	Imágenes prediseñadas
+789	*Monigote señalando un gráfico*
+790	Animaciones
+791	Solo diapositivas y texto deslizándose desde todos lados y ángulos
+792	Plantillas de diapositivas
+793	Asistente virtual
+794	Ayuda a que los informes de errores se resuelvan lentamente por sí solos
+795	Corrector ortográfico
+796	Haz que cualquiera parezca aún más competente
+797	Diapositivas interactivas
+798	A estas alturas, mejor haz una web
+799	Diccionario
+800	Haz que cualquiera parezca competente
+801	Tesauro
+802	Haz que cualquiera parezca más competente
+803	Biblioteca de matemática financiera
+804	Biblioteca de matemática geométrica
+805	Manipulación de fechas
+806	¿Cuánto es hoy menos 10 de junio de 2014? Lo estás viendo
+807	Scripting
+808	Conexiones a bases de datos
+809	Reproducción de audio
+810	Biblioteca de efectos de sonido
+811	¡Aporta algo de emoción muy innecesaria a tus presentaciones!
+812	Efectos de sonido
+813	Alguien va a disfrutar de esta presentación y no soy yo
+814	Biblioteca matemática
+815	Fuentes
+816	<b><color=#FF0000>Papyrus</color></b>
+817	Plantillas de documentos
+818	Gráficos
+819	Anidar un mapa de árbol en este gráfico de cronología salvaría, sinceramente, el informe anual
+820	Paquete de contenido
+821	Antivirus
+822	Protege los ordenadores de los malhechores digitales desde que resultó rentable hacerlo.
+823	Análisis del sistema
+824	Protege contra amenazas locales
+825	Escáner de archivos
+826	Busca virus en segundo plano provocando bloqueos de archivos aleatorios y desternillantes
+827	Escáner de aplicaciones
+828	Busca malware en segundo plano provocando cierres inesperados aleatorios y desternillantes
+829	Antirrobo
+830	¿Por qué no dejar que tu ordenador sepa cuándo se lo han robado?
+831	¡Mejor guardar bajo llave esa receta secreta de galletas!
+832	Protege contra amenazas de usabilidad
+833	Alertas de malware
+834	Alertas de hackeo
+835	Cuarentena de archivos
+836	Gestión de contraseñas
+837	Evita llenar tu bandeja de entrada de restablecimientos de contraseña
+838	Redes
+839	Protege contra amenazas externas
+840	Bloqueo de puertos
+841	Control de acceso de aplicaciones
+842	Solitaire Extreme no necesita acceder a los archivos de tu sistema
+843	Filtrado de IP
+844	Antispam
+845	Recibe menos oportunidades de oro de tus parientes perdidos hace tiempo
+846	Bloqueador de anuncios
+847	Elimina esas cosas que hacen ilegibles las webs de noticias
+848	Base de datos de virus
+849	Mantén automágicamente al día las definiciones de virus de tus usuarios
+850	Minería de datos
+851	Vende los datos de tus usuarios para ganar {Currency:0.25} extra por usuario activo, con el riesgo de que te pillen
+852	Aplicación de logística
+853	Línea de comandos
+854	Integración de terceros
+855	Procesamiento de pagos
+856	Algoritmos de optimización empresarial
+857	Interfaz de usuario
+858	Iconos bonitos
+859	Gestión de bases de datos
+860	Base de datos de productos
+861	Gestión de inventario
+862	Gestión de empleados
+863	Sitio web
+864	Páginas estáticas
+865	Iconos
+866	Maquetación de página
+867	Estilo de página
+868	Fuente personalizada
+869	Páginas dinámicas
+870	Foro
+871	Tienda
+872	Aplicación de back end
+873	Recursos del juego
+874	Arte 2D
+875	Gráficos de interfaz de usuario
+876	Arte conceptual
+877	Diálogo escrito
+878	Modelos 3D
+879	Texturas
+880	Entornos
+881	Rigging y animación
+882	Sistema embebido
+883	Termostato
+884	Cámara
+885	Motor
+886	Pantalla
+887	GPS
+888	Interfaz de hardware
+889	USB
+890	Placa
+891	Plataforma de distribución
+892	Plataforma
+893	Gestión de archivos
+894	Asegúrate de que los usuarios no tengan que conocer al detalle la estructura de carpetas de su ordenador
+895	Sistema de recomendación
+896	Quizá la gente no compra <Color=#0000FF>Colorful</Color> <Color=#FF0000>Calculator</Color> <Color=#00FF00>4</Color> simplemente porque aún no sabe que existe
+897	SDK de plataforma
+898	¿Por qué no dejar que otras aplicaciones se metan con la tuya?
+899	Gestión de bibliotecas

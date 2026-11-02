@@ -1,0 +1,392 @@
+4050	Menor carga mental
+4051	Menos suciedad
+4052	Ralentiza el deterioro del mobiliario de la sala
+4053	Nivel
+4054	Bronce
+4055	Platino
+4056	Primer puesto
+4057	Segundo puesto
+4058	Tercer puesto
+4059	Has recibido un premio de platino por ganar {0} 5 años seguidos
+4060	Algunos nodos no están conectados
+4061	Se han anunciado los ganadores de los premios de este año
+4062	Tardé demasiado en llegar al trabajo
+4063	Un empleado tarda varias horas en llegar al trabajo
+4064	Horario
+4065	Durmiendo
+4066	Color automático
+4067	{0} listo
+4068	{0} [Segundo|Segundos]
+4069	Introduce una cantidad exacta
+4070	Estimación de calidad de la audiencia
+4071	Plazas
+4072	Si ya has jugado antes en este servidor, puede que tengas una plaza reservada
+4073	Jugadores
+4074	Han jugado
+4075	Te has desconectado del anfitrión.\nPuedes salir al menú principal e intentar reconectarte al anfitrión, alojar tú la partida o seguir jugando sin conexión, pero lo que hagas no ocurrirá en la partida del anfitrión si te reconectas
+4076	Te has desconectado
+4077	Te han expulsado de la partida
+4078	Unirse a partida
+4079	Alojar partida
+4080	Actualizar partidas
+4081	Empezar partida nueva
+4082	Reanudar partida anterior
+4083	Chat
+4084	Puedes interactuar con otros jugadores abriendo la ventana de chat
+4085	Pública
+4086	Desconectado de la partida
+4087	Sincronizando
+4088	Sincronizando {0} {0:Plural:jugadores nuevos,jugador nuevo}
+4089	Introduce un nombre...
+4090	Solo con invitación
+4091	Solo amigos
+4092	{0} quiere que te unas a su partida. ¿Quieres continuar?
+4093	Sin conexión
+4094	No se pudo unir a la partida
+4095	Intentando reconectar ({0})...\nPulsa escape para cancelar
+4096	Perfil
+4097	Otro jugador
+4098	una parcela
+4099	{0} {0:Plural:acciones,acción} de {1}
+4100	¿Cuánto quieres ofrecer a {0} por este trato?
+4101	{0} quiere comprarte {1}. Vale {2} y ofrece {3}
+4102	Quieres comprarle {1} a {0}. Vale {2} y ofreces {3}
+4103	Aceptado
+4104	Rechazado
+4105	{0} archivos de guardado redundantes ({1})
+4106	hace {0:ToLower}
+4107	Fecha del juego
+4108	{0} subió la comisión de ingresos de {1} del {2} al {3}
+4109	Interesado
+4110	exclusividad de plataforma para {0} hasta {1}
+4111	Comerciar
+4112	Por {0:ToLower}
+4113	Límite de {0}
+4114	Un empleado ha llamado a la policía al ver a un ladrón
+4115	Intervalo de guardado en modo construcción
+4116	Guardará la partida en modo construcción cuando pase el tiempo indicado
+4117	{0} ofrece
+4118	{0} por adelantado
+4119	{0} al terminar
+4120	una penalización de {0} por no terminar a tiempo
+4121	{0} en regalías
+4122	{0} por {1:ToLower}
+4123	hasta {0}
+4124	por trabajar en {0}
+4125	antes de {0}
+4126	{0} canceló su acuerdo de {1} contigo
+4127	Tu acuerdo de {1} con {0} ha concluido con éxito
+4128	{0} ofrece {1} por copia por {2} copias de {3}
+4129	{0} ofrece {1} por copia de {3} por tener siempre al menos {2} copias
+4130	{0} [Iteración|Iteraciones]
+4131	{0} [Error|Errores]
+4132	{0} [Porcentaje|Porcentaje]
+4133	{0} [Ticket|Tickets]
+4134	{0} [Puerto|Puertos]
+4135	{Constant:PostMarketingPrice}
+4136	Terminar acuerdo
+4137	Desconectado de {0}
+4138	{0} se desconectó
+4139	No se vende
+4140	Comprar acciones
+4141	OPV forzosa
+4142	La cantidad que una empresa de un jugador está obligada a vender en acciones al año
+4143	Conseguiste evitar que te absorbieran
+4144	Cancelar absorción
+4145	¿Quieres guardar antes de salir? Tu último guardado fue {0}
+4146	Volver
+4147	Esto tiene que colocarse en la planta baja
+4148	Principiante
+4149	Meses para combatir la absorción
+4150	Robos
+4151	Modificado
+4152	Por debajo
+4153	Igual
+4154	Por encima
+4155	Unirse
+4156	Unirse por IP directamente
+4157	Introduce la IP:puerto del anfitrión
+4158	Anfitrión
+4159	Esperando a
+4160	Expulsar
+4161	¿Seguro que quieres expulsar a {0} de la partida?
+4162	Vetar
+4163	Contraseña
+4164	Introduce la contraseña
+4165	Invitar
+4166	Jugador
+4167	Latencia
+4168	Complejidad
+4169	Editor avanzado
+4170	Editor sencillo
+4171	Este logotipo no es totalmente compatible con el editor de logotipos sencillo. ¿Quieres abrir el editor avanzado en su lugar?
+4172	Tu logotipo es demasiado complejo, simplifícalo antes de continuar
+4173	Mantén ctrl para ajustar a la cuadrícula
+4174	Mantén ctrl para ajustar a la cuadrícula y mayús para escalar desde el centro
+4175	Mantén mayús para ajustar el ángulo por incrementos
+4176	Ahora mismo no hay productos online a los que lanzar un DDoS
+4177	{0} ha comprado {1} acciones de tu empresa y ahora posee {2}
+4178	Necesitas tener una parcela cerca
+4179	Adyacencia de parcelas
+4180	Si un jugador necesita tener una parcela cerca para comprar otra
+4181	{0} quiere prestarte {1} al {2} de interés, a devolver en {3}
+4182	{0} no puede permitirse prestarte {1}
+4183	AFK
+4184	Votar para saltar
+4185	Tiempo por día
+4186	Cuánto tiempo tiene cada jugador para completar su día
+4187	¡Se pasa al día siguiente en {0} minutos!
+4188	Mods de mobiliario
+4189	El archivo de guardado del anfitrión era más antiguo que el tuyo y no se pudieron reconstruir algunos de tus datos:
+4190	Reseña de {0} por {1}
+4191	Tu partida era {0} más antigua que la partida a la que te uniste. Los plazos y las edades se han ajustado en consecuencia.
+4192	Servicio en la nube
+4193	Ofrece un grupo de servidores para que lo usen otros jugadores
+4194	Margen
+4195	El coste por Mbps que pagan los jugadores por usar tu nube, como margen sobre los costes del proveedor de internet. 0 % significa que regalas el servicio, 25-50 % es aproximadamente el punto de equilibrio y 100 % es el doble de lo que cuesta pagar al proveedor
+4196	El servicio en la nube de {0} se ha cerrado
+4197	El servicio en la nube de {0} ha cambiado su precio de {1} a {2} por Mbps al mes
+4198	Continuo
+4199	Si el trabajo debe continuar indefinidamente y pausarse cada vez que el producto tenga menos copias que la cantidad indicada
+4200	Total impreso
+4201	Servicios de impresión ofrecidos
+4202	Un margen de impresión del 0 % significa que tus clientes solo pagarán el coste de las materias primas de la impresión, sin contar la electricidad. Un margen del 100 % significa que el jugador pagará lo mismo que pidiendo copias a precio de mercado, lo que no sería competitivo.
+4203	¿Quieres subcontratar esta tarea a otro jugador?
+4204	Esta sala usa una versión de Software Inc. distinta que no es compatible con la que estás jugando
+4205	¡Se ha desbloqueado {0} nuevo!
+4206	Tareas máx.
+4207	El número máximo de tareas en las que un equipo puede trabajar a la vez, empezando por arriba de la lista de tareas
+4208	Contrato vinculante de {0}
+4209	Compresión de texturas de mods
+4210	Activa o desactiva la compresión de las texturas de los mods de mobiliario. Desactivar la compresión mejorará los tiempos de carga pero usará más memoria gráfica (requiere reiniciar para aplicarse)
+4211	Amueblado
+4212	Reemplazar
+4213	Crear grupos
+4214	Si siempre se crean grupos de salas nuevos o se usan los existentes cuando sea posible
+4215	Guardar equipos seleccionados
+4216	Alarma de incendios
+4217	Escape
+4218	Puedes usar {KeyBind:DuplicateFurniture} para duplicar el mobiliario y las salas seleccionados
+4219	Puedes usar {KeyBind:FurnitureMove} para mover mobiliario o simplemente hacerle doble clic en modo construcción
+4220	Puedes usar {KeyBind:CloseActiveWindow} para cerrar la ventana superior o {KeyBind:CloseAllWindows} para cerrar todas las ventanas abiertas
+4221	Contratar empleados con el rasgo {H:Noctámbulo} o darles el {H:beneficio de compensación por turno de noche} les permitirá trabajar de noche sin ponerse demasiado gruñones
+4222	Puedes mandar a casa de inmediato a los empleados seleccionados desde el menú contextual cuando no tengan nada que hacer. Esto puede ahorrarte dinero en sueldos y reducir su estrés
+4223	¿Seguro que quieres pasar a la fase alfa del desarrollo? Durante la fase alfa puedes mejorar el diseño revisando e iterando
+4224	Empresa nueva
+4225	Sin procesar
+4226	Procesos no compatibles
+4227	Procesos en {0}
+4228	Puntuación relativa
+4229	Ajusta las reseñas según el progreso actual del proyecto
+4230	No lograste conseguir a tiempo los metales preciosos que encargaste
+4231	Ahora mismo no tienes director ejecutivo. Puedes asignar uno nuevo desde la ventana de detalles de un empleado
+4232	CEO
+4233	Nombrar CEO
+4234	¡{0} está perdiendo seguidores rápidamente! Plantéate iniciar una tarea de promoción para mantener el interés de los seguidores en tu proyecto
+4235	No tienes un CEO con quien continuar tu empresa
+4236	Dividendo del fundador
+4237	Se encontró un archivo de guardado que no es totalmente compatible con el anfitrión. Usarlo podría hacer que el juego sea inestable, ¿quieres intentarlo de todos modos?
+4238	Los visitantes no deberían esperar fuera y se verán afectados por la comodidad, la temperatura, el entorno y la iluminación
+4239	Asegurado
+4240	El precio de tu seguro de contenidos ha subido de {0} a {1} al mes tras una rápida evaluación de riesgos
+4241	Suspendiste la última inspección de incendios y ocurrió lo inevitable
+4242	Ese ladrón daba bastante miedo
+4243	¡Casi me quedo hecho cenizas!
+4244	Peligros de la oficina
+4245	Es probable que haya cancelaciones
+4246	¿Seguro que quieres cancelar esta tarea de {0}?
+4247	Logro
+4248	Logros
+4249	Muy difícil
+4250	Buscar
+4251	Logotipos de la comunidad
+4252	Compartir logotipo
+4253	Distribuir
+4254	Extender
+4255	Encoger
+4256	Reflejo
+4257	¡Recuerda lanzar {0} hoy!
+4258	¡{0} ha iniciado una absorción hostil de tu empresa! Tienes {1:PluralKey:Month} para reducir su participación por debajo del 25 % o tu empresa se disolverá. No podrás vender acciones durante el próximo año.
+4259	Siempre activado
+4260	No estoy satisfecho con mi sueldo actual
+4261	{0} intentó unirse a tu partida, pero no quedaban plazas. Puedes expulsar a los jugadores desconectados de la partida yendo a su parcela inicial en modo construcción.
+4262	¿Seguro que quieres terminar tu acuerdo con {0}?
+4263	Esta persona se jubila en {0}, ¿seguro que quieres continuar?
+4264	Comida desperdiciada
+4265	He comido una comida bien cocinada
+4266	Perderás todos los ajustes de esta empresa si vuelves al menú principal.\n¿Seguro que quieres continuar?
+4267	Tienes salas alquilables que son inaccesibles sin alquilar antes otras salas. Soluciona este problema antes de continuar
+4268	Te están inspeccionando porque la policía encontró {0} en tus instalaciones
+4269	Cuántos productos se han enviado para que los compren los clientes
+4270	Cuántos productos siguen en tu almacén esperando a ser enviados
+4271	{0} unidades por caja
+4272	Cuántos componentes se reciclan frente a los que se ensamblan en productos finales. 100 % significa que todos los componentes se han ensamblado correctamente
+4273	Los puestos de TI necesitan un servidor para funcionar
+4274	Soporte informático
+4275	en un escritorio
+4276	Dejar de seguir
+4277	La policía ha enviado un dron para confiscar los metales preciosos de tus instalaciones que, de otro modo, son inaccesibles
+4278	Inversión
+4279	Relación
+4280	Tu relación con una distribuidora mejorará a medida que trabajéis juntos, lo que te dará mejores acuerdos con ella en el futuro
+4281	Recuperar
+4282	tras recuperar {0}
+4283	El reconocimiento de la distribuidora afectará a las ventas y al marketing, aunque las distribuidoras también se quedarán con la mayoría de los fans del producto
+4284	Tras el lanzamiento
+4285	Configuración
+4286	Productos existentes
+4287	Elige productos ya lanzados para automatizar el marketing, el soporte y las actualizaciones. Ten en cuenta que las tareas de marketing y soporte no se iniciarán si no están ya en marcha
+4288	Errores
+4289	La eficacia se agotará más rápido a medida que se añadan tareas, pero los líderes cualificados trabajarán para aumentarla. La probabilidad de cometer errores aumentará cuando la barra baje del marcador azul
+4290	{0} extravió unas notas de diseño importantes de {1} y perdió {2} de calidad
+4291	{0} promocionó sin querer la versión alfa equivocada de {1} y perdió {2} de progreso
+4292	{0} se equivocó de clic y añadió {2} errores a {1}
+4293	{0} confundió unas fotos de prensa de {1} y perdió {2} seguidores
+4294	{0} estaba limpiando unos archivos de soporte de {1} y perdió {2} informes de errores
+4295	{0} hizo una declaración polémica sobre {1} y perdió {2} de notoriedad de marketing
+4296	{0} escribió mal la dirección de envío de {1} y perdió {2} copias
+4297	{0} lanzó un parche de {1} antes de tiempo y perdió {2} correcciones de errores
+4298	Gestionar distribución
+4299	Deja que el director de proyecto pida copias nuevas cada día o fije el máximo a fabricar si hay algún trabajo de impresión activo
+4300	Alternar propiedad del jugador
+4301	Inténtalo de nuevo en {0}
+4302	Todos los procesos
+4303	Carga nueva
+4304	Perforante
+4305	No se puede iniciar un proyecto nuevo porque el diseñador jefe {0} no está disponible para esta tarea de gestión
+4306	Mentor
+4307	Haz que este empleado enseñe a otros cuando sea posible, en lugar de trabajar en las tareas asignadas
+4308	Mentoría
+4309	Cronología
+4310	Lanzó {0}
+4311	Intercambió {0}{1:NotNull: de *}{2:NotNull: a *} por {3}
+4312	Absorbió a {0}
+4313	Contrató a {0}
+4314	Se fundó {0}
+4315	Parche de {0} lanzado
+4316	corrigiendo {0} errores
+4317	actualizando {0}
+4318	Adaptado a {0}
+4319	Cambió el precio a {0}
+4320	Consiguió la distribuidora {0}
+4321	Perdió la distribuidora {0}
+4322	{0} investigado
+4323	Salió a bolsa por {0}
+4324	Diluyó las acciones hasta {0}
+4325	Vendió {2} de acciones de {0} con un beneficio de {1}
+4326	Compró acciones de {0} por {1} para poseer {2}
+4327	Recompró acciones para poseer {0}
+4328	Quebró
+4329	Fue absorbida{0:NotNull: por *}
+4330	Patentó {0}
+4331	{0} pasó a ser filial de {1}
+4332	IP traspasada a {0}
+4333	Vas camino de la quiebra. ¿Quieres dejar que el juego venda activos para evitarla?
+4334	Se tomaron las siguientes medidas para evitar la quiebra
+4335	Una impresora quedó bloqueada por otras cajas en la cinta transportadora. Plantéate darle más recorrido
+4336	Agresividad de investigación
+4337	Algunas opciones no están disponibles porque el líder del proyecto tiene pocos puntos de habilidad en Automatización
+4338	Enfriamiento entre lanzamientos
+4339	Cuántos meses esperar tras el lanzamiento de un producto antes de iniciar otro proyecto
+4340	Gestionar adaptaciones
+4341	Equipos de adaptación
+4342	El proyecto {0} empezó a adaptar {1} a {2}
+4343	Mandar a casa
+4344	Puedes usar esto para mandar a casa a los equipos si les has cambiado el horario y no quieres que terminen su turno actual
+4345	Suma
+4346	Mínimo
+4347	Mediana
+4348	Rango
+4349	Se acabó el tiempo
+4350	Qué ocurre cuando un jugador llega al límite de tiempo
+4351	Desactivar pausa
+4352	Forzar velocidad de tiempo completa
+4353	Perderás todos los cambios de tu logotipo.\n¿Seguro que quieres continuar?
+4354	Guardado
+4355	Límite de tareas
+4356	Este equipo tiene asignadas ahora mismo más tareas de las que puede trabajar a la vez
+4357	Indica una comida que odies
+4358	Sr. {0}
+4359	Se descubrirán las actividades ilegales si no presentas un informe
+4360	Debes {0} en impuestos y tienes 3 meses para presentar un informe o enfrentarte a una demanda
+4361	Tu líder elegirá automáticamente qué especializaciones priorizar según las especializaciones seleccionadas y las tareas activas del equipo
+4362	Revisión por pares de {0}
+4363	Promocionar a beta
+4364	¡Has ganado {0} {0:Plural:premios,premio} este año!
+4365	Subir un nivel tecnológico por encima del framework elegido reducirá el aumento de velocidad de las características que usen esa tecnología.\n¿Seguro que quieres continuar?
+4366	{0} [Ordenador|Ordenadores]
+4367	Deja que el director de proyecto se encargue del marketing posterior y de fijar el presupuesto; si no, las tareas de marketing aparecerán en la lista de tareas para que las gestiones tú
+4368	Si se inicia una tarea de marketing al lanzar un producto. El premarketing se gestiona mientras haya equipos de marketing asignados
+4369	Pasado {Constant:DayOrMonth}
+4370	Agrupar por especialización
+4371	El anfitrión le dio {1} a {0} con trampas
+4372	Construye los objetos resaltados en azul
+4373	Has introducido un nombre que ha filtrado Steam, elige otro
+4374	Pulsa {KeyBind:DragCamera} o {KeyBind:MoveUp}, {KeyBind:MoveDown}, {KeyBind:MoveLeft} y {KeyBind:MoveRight} para mover la vista
+4375	Pulsa {KeyBind:RotateCamera} o {KeyBind:TurnUp}, {KeyBind:TurnDown}, {KeyBind:TurnLeft} y {KeyBind:TurnRight} para girar la vista
+4376	Usa la rueda del ratón o {KeyBind:ZoomIn} y {KeyBind:ZoomOut} para acercar o alejar la vista
+4377	Usa {KeyBind:FloorUp} y {KeyBind:FloorDown} para ver otra planta
+4378	Usa 10 vatios adicionales por metro recorrido
+4379	Hierba por todas partes
+4380	Si se dibuja hierba en todas las zonas exteriores además de en el suelo
+4381	Añade tus propias imágenes
+4382	Copia tus archivos png o jpg en {0}
+4383	Umbral de habilidad a partir del cual asignar un rol, relativo a la habilidad máxima del empleado. 100 % = solo la habilidad más alta, 0 % = se asignarán todos los roles
+4384	Explica brevemente por qué crees que debería eliminarse el logotipo
+4385	Búsqueda global
+4386	Puedes pulsar {KeyBind:GlobalSearch} para buscar cualquier cosa del juego
+4387	Alternar superposición de {0}
+4388	Puntuación de reseñas
+4389	basado en {0} reseñas
+4390	{0} reseñas positivas
+4391	Reseñas recientes
+4392	Principal
+4393	Advertencia
+4394	Positivo
+4395	Negativo
+4396	Actualizar
+4397	Recurrir al inglés
+4398	Hay una actualización de tus archivos de traducción, ¿quieres descargarla?
+4399	Espera primero a que el empleado salga de las instalaciones
+4400	Cuenta a los empleados según para qué fueron contratados; si no, según los roles que tienen asignados
+4401	{0} años seguidos
+4402	Adaptará el software a los sistemas operativos con más de 500 000 usuarios activos, si el software ha vendido algo en los últimos 5 años
+4403	Nivel tecnológico {0} disponible desde {1:ToLower}{2:NotNull:\\: *}
+4404	No investigado
+4405	Investigando nivel tecnológico {0}
+4406	Colocar en la oficina
+4407	Aceptar trabajo
+4408	Calidad del aire
+4409	Maloliente
+4410	No puedo respirar en esta sala
+4411	Los empleados tienen problemas para respirar por la mala calidad del aire interior
+4412	Filtración de aire
+4413	Contaminación del aire
+4414	Una mala calidad del aire hará a tus empleados menos eficaces y más propensos a enfermar, y estropeará antes los aparatos electrónicos. La calidad del aire se puede mejorar con aire acondicionado, plantas, ventanas en verano, limpieza y duchas para los empleados que las necesiten
+4415	Colocar mobiliario automáticamente
+4416	No se encontraron ubicaciones válidas
+4417	Esta sala resulta agobiante
+4418	Desde la última vez que jugaste esta partida se han introducido las basuras. ¿Quieres que el juego coloque papeleras por toda tu oficina automáticamente?
+4419	Añadir papeleras
+4420	Deberías añadir papeleras cerca de los ordenadores para evitar que la basura se amontone en el suelo
+4421	Basura
+4422	Tecla
+4423	Asignación alternativa
+4424	Colocación automática
+4425	Cerca de ordenadores
+4426	En cuadrícula
+4427	Junto a las paredes
+4428	Por todas partes
+4429	En escritorios
+4430	En paredes
+4431	Al tresbolillo
+4432	Completa una tarea para desbloquearlo
+4433	La calidad del aire de esta sala podría llegar a ser un problema\nAñade plantas y ventilación para filtrar el aire
+4434	Parpadeo
+4435	Si las lámparas deben parpadear cuando están a punto de romperse
+4436	{0} acaba de lanzar usando tu framework
+4437	Echa un vistazo a este panel para ver qué opciones tienes al colocar objetos. Algunos objetos tendrán opciones distintas, así que siempre merece la pena mirar
+4438	{0} {0:Plural:cajas,caja} por minuto
+4439	¡Solo admite basura de papel!
+4440	Uno o más empleados del equipo seleccionado tienen niveles de compatibilidad demasiado bajos para filtrar por ellos
+4441	Elige un equipo con empleados

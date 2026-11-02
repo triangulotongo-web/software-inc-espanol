@@ -1,0 +1,450 @@
+1350	Mods
+1351	Dinero inicial
+1352	Año de inicio
+1353	Objetivos
+1354	Empezar partida
+1355	Desbloquear controles deslizantes
+1356	Ojos
+1357	Nariz
+1358	Boca
+1359	Orejas
+1360	Estampado
+1361	Falda
+1362	Camiseta
+1363	Chaqueta
+1364	Pantalones
+1365	Pantalones cortos
+1366	Camisa
+1367	Zapatos
+1368	Blusa
+1369	Mangas
+1370	Gorro
+1371	Traje
+1372	Cuello
+1373	Sudadera
+1374	Accesorios
+1375	Gorra
+1376	Sombra de ojos
+1377	Delineador
+1378	Pintalabios
+1379	Barba
+1380	Cejas
+1381	Pelo
+1382	Pelo corto
+1383	Aceptar
+1384	Cancelar
+1385	Sí
+1386	No
+1387	Error
+1388	RR. HH.
+1389	Finanzas
+1390	Mercado
+1391	Desarrollar software
+1392	Diseña y lanza tu propio software
+1393	Tus lanzamientos
+1394	Consulta la lista de productos que posees
+1395	Trabajo por encargo
+1396	Acepta trabajos por encargo. Desarrollar software puede salir caro: haz trabajos por encargo para ganar un dinero rápido
+1397	Gestiona tus servidores y reasigna procesos
+1398	Gestionar empleados
+1399	Consulta la lista de tus empleados
+1400	Contratar empleados
+1401	Busca, entrevista y contrata a nuevos empleados
+1402	Gestionar equipos
+1403	Gestiona tus equipos, fija horarios y delega responsabilidades
+1404	Gestionar personal
+1405	Contrata o llama a personal para que tus instalaciones estén impecables
+1406	Acciones
+1407	Compra y vende acciones, aquí hay mucho dinero que ganar
+1408	Préstamos
+1409	Si tienes problemas, quizá te convenga pedir un préstamo
+1410	Todo el software
+1411	Consulta la lista de todo el software lanzado hasta ahora
+1412	Todas las empresas
+1413	Inspecciona a tus competidores
+1414	The Software Times
+1415	Mantente al día de la actualidad y de las reseñas de productos
+1416	Canales de distribución
+1417	Gestiona cómo quieres distribuir tu software
+1418	Ajustes
+1419	Alternar lámparas
+1420	Alterna todo el mobiliario fijado al techo
+1421	Etiquetas de salas
+1422	Alterna las etiquetas sobre las salas, que indican el equipo al que pertenecen y qué limitaciones de uso se aplican
+1423	Usa esto para conectar tus servidores
+1424	Superposición de datos
+1425	Modo construcción
+1426	Haz clic aquí para activar el modo construcción, con el que puedes construir y amueblar tus oficinas y construir carreteras y aparcamientos
+1427	Beneficios mensuales
+1428	Saltar tiempo muerto
+1429	Si no hay nadie, puedes saltar hasta que llegue alguien
+1430	Construir
+1431	Construye salas, puertas, ascensores y ventanas
+1432	Amueblar
+1433	Coloca mobiliario en tus salas para que funcionen
+1434	Carreteras
+1435	Puesto
+1436	Estado
+1437	Eficacia
+1438	Compatibilidad de equipo
+1439	Satisfacción
+1440	Liderazgo
+1441	Habilidad de liderazgo
+1442	Habilidad de programación
+1443	Habilidad de diseño
+1444	Habilidad artística
+1445	Habilidad de marketing
+1446	Lanzamiento
+1447	Calidad
+1448	Popularidad
+1449	Licencia
+1450	Beneficio
+1451	Código abierto
+1452	Pérdidas
+1453	Detalles
+1454	Valor
+1455	Reputación
+1456	En quiebra
+1457	Fundada
+1458	Gráfico
+1459	Propietario
+1460	Cambio
+1461	Coste
+1462	Vender
+1463	Comprar
+1464	Cantidad
+1465	Compatibilidad
+1466	Trabajo
+1467	Llegada
+1468	Salida
+1469	Disolver
+1470	Automatización
+1471	Tipo
+1472	Despedir
+1473	Progreso
+1474	Contrato
+1475	Ingresos
+1476	Total
+1477	Pago
+1478	Edad
+1479	Sueldo
+1480	Contratar
+1481	Fecha
+1482	Dinero
+1483	Activado
+1484	Alternar
+1485	Tienda física
+1486	Coste de lanzamiento
+1487	Contratos
+1488	Potencia
+1489	Número de servidores
+1490	Potencia necesaria
+1491	Documento de diseño
+1492	Finanzas
+1493	Negociaciones salariales
+1494	Seguro
+1495	Partidas guardadas
+1496	Personal
+1497	Marketing
+1498	Formación
+1499	Materiales
+1500	CLUF
+1501	Acción
+1502	Propio
+1503	Añadir
+1504	Quitar
+1505	Nada seleccionado
+1506	Servidor
+1507	SCM
+1508	Gestión del control de código fuente
+1509	Información
+1510	Dependencias
+1511	Sistema operativo
+1512	Desarrollar
+1513	Sin seleccionar
+1514	IP original
+1515	Convierte este producto en la secuela de otro de tus productos
+1516	Haz clic aquí para generar un nombre aleatorio
+1517	Lanza tu producto gratis para ganar popularidad y presionar a tus competidores
+1518	Quédate este producto para ti, para que tus competidores no puedan aprovecharlo
+1519	Nombre del producto
+1520	Menos de un año
+1521	Cerca de un año
+1522	Aprox. {0} años
+1523	Muy bajo
+1524	Bajo
+1525	Medio
+1526	Alto
+1527	Muy alto
+1528	Pequeño
+1529	Grande
+1530	Horrible
+1531	Malo
+1532	Mediocre
+1533	Bueno
+1534	Muy bueno
+1535	Sobresaliente
+1536	Gestión de proyectos
+1537	Para activar esto, el líder del equipo debe haber hecho un curso de gestión de proyectos mediante el programa de formación
+1538	Gestión de RR. HH.
+1539	Para activar esto, el líder del equipo debe haber hecho un curso de gestión de RR. HH. mediante el programa de formación
+1540	Presupuesto de desarrollo
+1541	Presupuesto de marketing
+1542	Premarketing
+1543	Posmarketing
+1544	Equipo de desarrollo
+1545	Equipo de marketing
+1546	Equipo de soporte
+1547	Rol principal
+1548	Rol secundario
+1549	Presupuesto
+1550	Nombre del servidor...
+1551	Renombrar
+1552	Ver procesos no admitidos
+1553	Procesos
+1554	Empezar a buscar
+1555	Quitar 10
+1556	Entrevistar
+1557	Empezar formación
+1558	La gestión de proyectos permite a un líder encargarse de un ciclo de desarrollo diseñando productos nuevos de forma automática y delegando el trabajo en equipos concretos.
+1559	La gestión de RR. HH. permite a un líder asumir las tareas de recursos humanos, como contratar, despedir, resolver conflictos, subir sueldos y organizar la formación.
+1560	Cerrar trato
+1561	Desconectar
+1562	Historial de popularidad
+1563	Tu canal de distribución
+1564	Comisión
+1565	Petición de empleado
+1566	Aceptar
+1567	Cerrar
+1568	Importe
+1569	Interés
+1570	Plazo
+1571	Préstamos actuales
+1572	Pedir préstamo
+1573	Ingresar
+1574	Retirar
+1575	por empleado
+1576	Acciones de la empresa:
+1577	Acciones en propiedad:
+1578	Fijo
+1579	Temporal
+1580	Llamar a mantenimiento
+1581	Llamar a limpieza
+1582	Llamar a soporte informático
+1583	Contratar mantenimiento
+1584	Contratar limpieza
+1585	 por hora
+1586	 por mes
+1587	{0} de entrada\nHasta {0} por reparación
+1588	Sección de reseñas
+1589	Sección de negocios
+1590	Sección de industria
+1591	Tú
+1592	Reanudar
+1593	Guardar partida
+1594	Guardar partida como...
+1595	Salir al menú
+1596	Salir al escritorio
+1597	Saltar día automáticamente
+1598	Salta automáticamente hasta la próxima llegada de un empleado si no hay nadie presente
+1599	Moneda
+1600	Dificultad
+1601	Ejecutar en segundo plano
+1602	Autoguardado
+1603	Guarda cada día a las 00:00, sin sobrescribir el archivo de guardado principal
+1604	Tutoriales
+1605	AM/PM
+1606	Celsius
+1607	Desplazamiento por el borde con el ratón
+1608	Desplazará la cámara cuando el ratón esté en el borde de la pantalla
+1609	Velocidad de desplazamiento
+1610	Velocidad de zoom
+1611	Velocidad de rotación
+1612	Fácil
+1613	Difícil
+1614	Jugabilidad
+1615	Gráficos
+1616	Atajos de teclado
+1617	Resolución
+1618	Pantalla completa
+1619	Tipo de antialiasing
+1620	Suaviza los bordes dentados
+1621	VSync
+1622	Espera a la frecuencia de refresco de tu pantalla para renderizar un fotograma. Elimina el desgarro de imagen y evita que tu tarjeta gráfica pierda tiempo renderizando fotogramas que no puedes ver.
+1623	1 fotograma
+1624	2 fotogramas
+1625	El entorno exterior proyecta sombras según la posición del sol
+1626	Más sombras
+1627	Oclusión ambiental
+1628	Añade sombras a las esquinas y los resquicios
+1629	Tilt shift
+1630	Desenfoca la parte superior e inferior de la pantalla para dar un efecto de miniatura
+1631	Bloom
+1632	Añade un ligero resplandor y aumenta la intensidad del color
+1633	Efectos de sonido
+1634	Interfaz de usuario
+1635	Alternar luces
+1636	Alternar paredes
+1637	Mover cámara hacia delante
+1638	Mover cámara hacia atrás
+1639	Mover cámara a la izquierda
+1640	Mover cámara a la derecha
+1641	Rotar cámara hacia arriba
+1642	Rotar cámara hacia abajo
+1643	Rotar cámara a la izquierda
+1644	Rotar cámara a la derecha
+1645	Acercar
+1646	Alejar
+1647	Subir una planta
+1648	Bajar una planta
+1649	Pausar juego
+1650	Velocidad normal
+1651	Velocidad rápida
+1652	Velocidad máxima
+1653	Alternar modo de cámara
+1654	Ocultar HUD
+1655	Ir al empleado
+1656	Vender/Despedir/Demoler selección
+1657	Alternar modo construcción
+1658	Inactivo
+1659	Buscando ordenador
+1660	Volviendo a casa
+1661	Trabajando
+1662	Yendo a por comida
+1663	Yendo a por café
+1664	Haciendo café
+1665	Comiendo
+1666	Yendo a una reunión
+1667	En una reunión
+1668	Yendo al baño
+1669	Haciendo sus necesidades
+1670	Buscando cosas rotas
+1671	Yendo a reparar algo
+1672	Reparando
+1673	Buscando una sala sucia
+1674	Yendo a limpiar una sala
+1675	Limpiando
+1676	Buscando suciedad
+1677	Preparando comida
+1678	Sirviendo comida
+1679	En clase
+1680	Despedido
+1681	En el trabajo
+1682	En casa
+1683	Jubilado
+1684	De vacaciones
+1685	Enfermo
+1686	Muerto
+1687	Hospitalizado
+1688	No me gusta {0}
+1689	Me gusta mucho {0}
+1690	Estoy completamente agotado
+1691	¡Esta reunión es genial!
+1692	Me encanta trabajar
+1693	Tengo demasiados trabajos a la vez
+1694	No estoy contento con cómo fue la última negociación salarial
+1695	Estoy muy contento con mi sueldo
+1696	Me estoy congelando
+1697	Me estoy abrasando
+1698	No veo nada
+1699	Este sitio está sucio
+1700	Este sitio tiene buena pinta
+1701	Este mobiliario es incómodo
+1702	Mi ordenador funciona genial
+1703	Mi ordenador es una porquería
+1704	La sala es agradable y silenciosa
+1705	Trabajar en el sótano es una porquería
+1706	Me muero de hambre
+1707	Tengo muchísimas ganas de hacer pis
+1708	No conseguí el sueldo que quería
+1709	¡Acaban de subirme el sueldo!
+1710	Me han recortado el sueldo
+1711	Un empleado está cansado y no puede trabajar
+1712	Un empleado se está congelando
+1713	Un empleado tiene calor
+1714	Un empleado tiene problemas con el ordenador. Contrata soporte informático y renueva los ordenadores viejos
+1715	No puedes permitirte esto
+1716	Los autobuses se están llenando, plantéate construir un aparcamiento
+1717	Haz clic y arrastra
+1718	No hay forma de entrar en esta sala\nAñade puertas o ascensores
+1719	Los empleados no usarán los baños en público\nSepara los baños en otras salas o quita las ventanas grandes y las aberturas
+1720	Los empleados no usarán duchas a la vista\nQuita las ventanas grandes y las aberturas
+1721	Hay muchos ordenadores en esta sala\nLas salas abarrotadas pueden distraer a los empleados
+1722	Aquí no hay suficiente luz\nAñade ventanas o lámparas
+1723	Algo del inventario se ha roto y necesita mantenimiento
+1724	La estructura no tiene soporte
+1725	No puedes construir dentro de otras salas.\nSi quieres dividir una sala, tienes que construir de pared a pared
+1726	Tienes que construir dentro de los límites de tu parcela
+1727	Tus salas deben medir al menos 2x2
+1728	No se puede sustituir {0} por {0}
+1729	Tienes que colocar esto en el límite de una sala
+1730	Tienes que colocar el mobiliario dentro de tus salas
+1731	Tienes que colocar esto contra una pared
+1732	Tienes que colocar esto en una mesa libre
+1733	Este espacio ya está ocupado
+1734	Tienes que colocar esto en una mesa
+1735	Hambre
+1736	Energía
+1737	Vejiga
+1738	Despedido
+1739	Temperatura
+1740	Entorno
+1741	Comodidad
+1742	Ruido
+1743	Sótano
+1744	{0} quiere dejarlo
+1745	 y
+1746	 o
+1747	Subir el sueldo {0}
+1748	Esta característica no está disponible en la demo
+1749	En la demo solo se puede construir en las dos primeras plantas
+1750	¿Seguro que quieres sobrescribir?
+1751	Una o más salas se usan para soporte y no se pueden destruir
+1752	Tienes que haber guardado una partida antes de continuar
+1753	Partida guardada
+1754	A nadie le interesa esta acción
+1755	No puedes vender toda tu empresa, eso te haría perder.
+1756	Tu reputación es demasiado baja para negociar acciones de este volumen
+1757	Has activado la gestión de RR. HH. para un equipo que no tiene salas.\nDesigna al menos una sala para este equipo
+1758	Ya existe un producto con este nombre
+1759	Selecciona uno o más sistemas operativos
+1760	No has elegido un nombre para tu software, ¿seguro que quieres continuar?
+1761	El tamaño del equipo que has elegido es bastante pequeño para un proyecto de este tamaño\n¿Seguro que quieres continuar?
+1762	No puedes permitirte el coste de las licencias
+1763	Ya existe un equipo con este nombre
+1764	Introduce un nombre de equipo que no esté vacío
+1765	Te has arruinado con {0} en tu cuenta.
+1766	Usado actualmente por
+1767	Propiedad de
+1768	Nadie
+1769	Encendido actualmente
+1770	Apagado actualmente
+1771	Este objeto se desbloquea en el año {0}
+1772	Sala de descanso
+1773	Cualquiera
+1774	Líderes
+1775	Programadores
+1776	Diseñadores
+1777	Artistas
+1778	Pared
+1779	Puerta
+1780	Ventana
+1781	Carretera
+1782	Aparcamiento
+1783	Destruir
+1784	Normal
+1785	Horizontal
+1786	Vertical
+1787	Construir sala
+1788	Quitar carretera
+1789	Construir carretera
+1790	No disponible en la demo
+1791	Oficina
+1792	Necesidades
+1793	Decoración
+1794	Colores de sala
+1795	Formar empleado
+1796	Despedir empleado
+1797	Vender mobiliario
+1798	Cambiar de equipo
+1799	Limitar uso de la sala

@@ -1,0 +1,450 @@
+1800	Seleccionar todo el edificio
+1801	Cambiar el puesto del empleado
+1802	Mandar al empleado a casa
+1803	Color del objeto
+1804	Seleccionar tipos de mobiliario en las salas seleccionadas
+1805	Datos del empleado
+1806	Cambiar el sueldo del empleado
+1807	Seleccionar todo el equipo
+1808	Seleccionar el mobiliario asignado al empleado
+1809	Seleccionar empleados de la sala
+1810	Desasignar mobiliario
+1811	Asignar el mobiliario que usa el empleado
+1812	Mover mobiliario
+1813	Elegir {0}
+1814	Elegir sistema operativo
+1815	Elegir secuela
+1816	Mis lanzamientos
+1817	Todos los lanzamientos
+1818	Productos para {0}
+1819	Cancelar soporte
+1820	Te has quedado sin fondos para mantener tu campaña de marketing
+1821	Hablando con la prensa
+1822	Neto
+1823	Diseñando
+1824	Tirar
+1825	Esperando
+1826	No se puede promocionar a alfa porque no se ha hecho ningún trabajo
+1827	Pérdida de {0} por cancelar el contrato
+1828	Contrato finalizado por un valor neto de {0}
+1829	Alfa
+1830	Beta
+1831	Promocionar
+1832	Retrasar
+1833	No hay errores que corregir
+1834	{0} errores corregidos
+1835	Tienes {0} en tu cuenta
+1836	Gana antes del {0}
+1837	Nada
+1838	Innovación
+1839	Estabilidad
+1840	Usabilidad
+1841	Sistemas operativos
+1842	Franquicia
+1843	Usado en
+1844	Características
+1845	Retirar del mercado
+1846	Poner en el mercado
+1847	Detalles de {0}
+1848	Nombre: {0}\nEmpresa: {1} ({2})\nTipo: {4} {3}\nCódigo abierto: {5}\nInterno: {6}\nFecha de lanzamiento: {7}
+1849	Calidad: {0}\nPercepción: {1}\nPopularidad: {2}\nCoste de licencia: {3}\nIngresos brutos: {4}\nPérdidas: {5}
+1850	Averiado
+1851	Limpio
+1852	Haz clic izquierdo en un servidor para seleccionarlo y luego clic izquierdo en otro servidor para conectarlos.\n\nHaz clic izquierdo en cualquier otro sitio o doble clic para desconectar el servidor.\n\nClic derecho para deseleccionar y cancelar.
+1853	Ruido
+1854	Estado
+1855	Asignar
+1856	Sin asignar
+1857	Escribe el nombre de la partida...
+1858	Guardar
+1859	Cargar
+1860	Aplicar
+1861	Nuevo equipo
+1862	Nombre del equipo
+1863	Activar
+1864	Habilidad
+1865	Rasgos
+1866	Diseño
+1867	Código
+1868	Arte
+1869	Habilidad base
+1870	Liderar
+1871	Líder
+1872	Diseñador
+1873	Programador
+1874	Artista
+1875	Especialista en marketing
+1876	Aceptar cualquier trabajo
+1877	Cualquier puesto
+1878	Cualquiera
+1879	Todos
+1880	Factores de trabajo
+1881	Característica
+1882	Cambiar de equipo
+1883	Cambiar puestos
+1884	Despedir
+1885	Seleccionar todo
+1886	Formar
+1887	Interior
+1888	Exterior
+1889	Suelo
+1890	Uso
+1891	Ninguno
+1892	Primario
+1893	Secundario
+1894	Terciario
+1895	Dividir, fusionar y ampliar salas
+1896	¡Vas camino de la bancarrota!
+1897	Desarrollo
+1898	Escribe para buscar...
+1899	Inventor
+1900	Comprado
+1901	Color
+1902	Beneficio neto
+1903	¿Seguro que quieres
+1904	Marketing de {0}
+1905	Premarketing de {0}
+1906	Fin
+1907	En el mercado
+1908	Aumenta la capacidad de reunir a un equipo, mejorar su eficiencia y encargarse de las tareas de gestión
+1909	Aumenta la velocidad de programación, la calidad del código y la rapidez con que se corrigen los errores
+1910	Aumenta la velocidad de redacción de documentación y especificaciones de requisitos y la capacidad de evitar complejidad innecesaria
+1911	Aumenta la rapidez con que trabaja el artista, la calidad del arte y reduce la cantidad de defectos
+1912	Parte de tu equipo electrónico se ve afectado por el calor
+1913	Superrefrigeración
+1914	Reabrir
+1915	flujo de caja
+1916	Mobiliario
+1917	Todo
+1918	Ene.
+1919	Feb.
+1920	Mar.
+1921	Abr.
+1922	Jun.
+1923	Jul.
+1924	Ago.
+1925	Sep.
+1926	Oct.
+1927	Nov.
+1928	Dic.
+1929	Mes pasado
+1930	Este mes
+1931	Facturas
+1932	Software
+1933	Licencias
+1934	Varios
+1935	Días por mes
+1936	Si un producto está dañando tu reputación o no puedes darle soporte, quizá convenga retirarlo del mercado. Puede afectar a tu reputación.
+1937	Aura de la sala
+1938	Mantenimiento
+1939	Informática
+1940	Simulando el mercado...
+1941	{0} se ha jubilado
+1942	¡{0} ha muerto!
+1943	¡{0} ha sufrido un accidente y ha dimitido!
+1944	Saltar día
+1945	Empresas activas
+1946	N/D
+1947	Malísimo
+1948	Muy malo
+1949	Increíble
+1950	Se ha roto algún equipo electrónico y necesita soporte informático
+1951	Pensamientos
+1952	Sueldo ideal
+1953	No hay dónde mear
+1954	Los baños dan asco
+1955	No hay intimidad en el baño
+1956	No hay dónde sentarse
+1957	El café sabe mal
+1958	Este café está genial
+1959	Necesito un seguro médico por si me hago daño
+1960	Podría morir en cualquier momento, necesito un seguro de vida
+1961	Me bajan la pensión justo cuando estoy a punto de jubilarme
+1962	Un empleado tiene problemas para encontrar un baño
+1963	{0} recibidos por aceptar el contrato
+1964	Desactivar la sincronización vertical podría dañar tu tarjeta gráfica tras largos periodos de juego, debido al sobrecalentamiento.\n¿Seguro que quieres continuar?
+1965	Esta sala es aburrida de mirar
+1966	Tienes mobiliario al que tu personal no puede llegar
+1967	Contratos disponibles
+1968	Contratos finalizados
+1969	a tiempo
+1970	Herramienta de clonado
+1971	Úsala para clonar las salas seleccionadas
+1972	Desasignar salas
+1973	Contratar soporte informático
+1974	Quejas
+1975	Sueldo actual
+1976	Sueldo exigido
+1977	Aceptar exigencia
+1978	Despedir empleado
+1979	¿Seguro que quieres terminar la fase de retraso?\nTerminar la fase de retraso antes de tiempo suele alargar la fase beta por la cantidad de errores adicionales.
+1980	El tamaño del equipo que has elegido es bastante grande para un proyecto de este tamaño\n¿Seguro que quieres continuar?
+1981	Estás clonando una gran cantidad de cosas, lo que podría saturar tu ordenador.\n¿Seguro que quieres continuar?
+1982	El personal no puede llegar a este {0:ToLower}\nAsegúrate de que no haya nada en medio
+1983	No se puede llegar a esta plaza de aparcamiento\nAsegúrate de que esté conectada a la carretera principal
+1984	{0} no puede volver a casa\nAsegúrate de que haya un camino para salir del edificio sin nada que lo bloquee
+1985	Cobertura
+1986	Estoy de acuerdo
+1987	Validar
+1988	Bosque
+1989	Ciudad
+1990	Tienes que poseer todas las acciones de una empresa antes de poder comprarla
+1991	Electricidad
+1992	Agua
+1993	Alojamiento de {0}
+1994	IP de {0}
+1995	{1} de {0}
+1996	Acuerdos
+1997	Descripción
+1998	Cliente
+1999	Oferta
+2000	Tipo: {0}\nUnidades de potencia por hora: {1}\nUnidades necesarias: {2}
+2001	Cierra acuerdos con otras empresas y vence a la competencia desde dentro\nNecesitas una recepción para recibir ofertas
+2002	¿Quieres comprar esta IP por {0}?
+2003	Nadie está interesado en comprar esta IP
+2004	Comerciar con IP
+2005	Recepcionista
+2006	Invitado
+2007	Contratar recepcionista
+2008	No has elegido un nombre para la empresa.\n¿Seguro que quieres continuar?
+2009	Conectar servidores
+2010	Modo cableado
+2011	{0} en nombre de {1}
+2012	¡Cancelar el soporte de un producto que aún tiene errores enfadará a tus clientes!\n¿Seguro que quieres continuar?
+2013	Aceptar todo y cerrar
+2014	¿Seguro que quieres aceptar todas las exigencias?\nLos aumentos son de {0} de media, lo que supone un cambio neto de {1} al mes
+2015	Próximos eventos
+2016	Haz clic aquí para ver una lista de los eventos del mes que viene. El icono brillará en rojo si ocurren eventos muy importantes.
+2017	{0}, del equipo {1}, se jubilará el mes que viene tras trabajar {3} años en {2}.
+2018	{0} tienen vacaciones planeadas el mes que viene y {1} empleados tienen previsto cogerse sus vacaciones.
+2019	Ningún equipo tiene vacaciones planeadas el mes que viene, pero {0} empleados tienen previsto cogerse sus vacaciones.
+2020	{0} planea lanzar el mes que viene un producto de tipo {1} llamado «{2}».
+2021	Tamaño de la interfaz
+2022	Introduce un nombre de empresa que no esté vacío
+2023	Guardar imagen
+2024	Tuitear imagen
+2025	¿Qué quieres contarle al mundo?
+2026	¡Mirad mi imperio del software! #SoftwareInc
+2027	Introduce el PIN
+2028	Se ha producido un error al intentar publicar tu imagen en Twitter
+2029	¿Quieres guardar esta captura de pantalla en tu cuenta de Steam?
+2030	Preferencias de ventanas
+2031	Restablecer
+2032	Cerrar todas las ventanas
+2033	¿Seguro que quieres cerrar todas las ventanas?
+2034	Solo secuelas
+2035	Elegir alternativa
+2036	Alternativa
+2037	Proyecto
+2038	Desierto
+2039	Tundra
+2040	En pausa
+2041	Desmontar
+2042	¿Seguro que quieres desmontar {0} segmentos de pared?
+2043	Desmontar {0} segmentos de pared
+2044	Segmentos de pared
+2045	Anclar la cuadrícula a un objeto o a una pared del mundo
+2046	Fusionar salas
+2047	Cuadrícula
+2048	Seleccionar todos los segmentos de esta pared
+2049	Duplicar
+2050	Las paredes de las salas deben estar separadas 1,0 unidades
+2051	Las paredes no pueden cruzarse
+2052	No puedes construir salas alrededor de otras salas
+2053	Esto debe colocarse en los puntos indicados
+2054	No puedes construir salas dentro de otras salas
+2055	Construir sala rectangular
+2056	Este archivo de guardado está dañado.\nProbablemente sea de una versión antigua de Software Inc. que ya no es compatible.
+2057	Haz clic y arrastra para escalar este segmento
+2058	Eliminar
+2059	¿Seguro que quieres eliminar este archivo de guardado?\n¡No podrás recuperarlo después!
+2060	Se ha producido un error al intentar eliminar el archivo de guardado\nAsegúrate de tener permiso para eliminar este archivo en tu ordenador
+2061	Habilidad general
+2062	Entrevista de habilidades
+2063	Entrevista de especialización
+2064	Entrevista de personalidad
+2065	SSAA
+2066	El antialiasing por supermuestreo renderiza el juego al doble de resolución para suavizar los bordes al máximo (requiere una tarjeta gráfica de gama alta)
+2067	Evento
+2068	Pagos
+2069	Pulsa un botón...
+2070	Menú contextual
+2071	Girar la cámara
+2072	Segmento
+2073	Este archivo de guardado ya no existe en tu ordenador y se eliminará
+2074	Tienes que colocar esto en una pared exterior
+2075	Este mobiliario no se puede colocar en el sótano
+2076	Selección
+2077	Selección múltiple
+2078	{0} está trabajando en el arte de {1} pero no es competente en arte y podría retrasar el lanzamiento y arruinar el arte
+2079	{0} está programando {1} pero no es competente con el código y podría retrasar el lanzamiento y añadir errores
+2080	{0} está diseñando {1} pero no es competente en diseño y podría retrasar el lanzamiento y añadir errores
+2081	No puedes construir carretera delante de la parada de autobús
+2082	Unidades
+2083	Percepción
+2084	Coste de licencia
+2085	Ingresos brutos
+2086	Precio
+2087	Usuarios activos
+2088	Categoría
+2089	Llegada est.
+2090	Artistas necesarios
+2091	Interés esperado
+2092	Alcance del consumidor
+2093	Costes de licencia
+2094	Tamaño de equipo recomendado
+2095	Comerciado
+2096	Los fans no influyen directamente en tus ventas, pero tener más fans te facilitará ganar reconocimiento en el mercado.
+2097	Reputación empresarial
+2098	Haz clic aquí para usar el precio sugerido para este software
+2099	Reconocimiento de mercado
+2100	Tu reconocimiento de mercado determina lo conocido que eres en cada mercado de software y, por tanto, lo bien que se venderán tus productos en cada categoría
+2101	Ancho de banda
+2102	Reflejos
+2103	Reflejos en el espacio de pantalla
+2104	Hace que la mayoría de las superficies brillantes reflejen su entorno (requiere una tarjeta gráfica de gama alta)
+2105	Espera, por favor
+2106	Error al hacer la foto. Elige una resolución más pequeña.
+2107	Consejo de rendimiento
+2108	Pasa el ratón para ver detalles
+2109	El rendimiento de la mayoría de los efectos depende de la resolución de pantalla y no de la complejidad de los objetos que se ven. El SSAA duplicará el impacto en el rendimiento de la mayoría de los efectos.
+2110	Impacto
+2111	¿Quieres iniciar ahora una campaña de marketing para {0}?\nHacer marketing de tu producto mientras está en desarrollo generará expectación, lo que afecta a las ventas de lanzamiento y a tus competidores
+2112	Ya hay una campaña de marketing para este producto
+2113	«{0}» ya está asignada a «{1}», ¿seguro que quieres reasignarla?
+2114	Solicitud
+2115	Precio de venta
+2116	Prioridad
+2117	Cambiar el nombre del software
+2118	Marketing de {0}
+2119	Detalles del proyecto actual:\nNombre: {0}\nTipo: {1}\nCategoría: {2}
+2120	La partida que intentas cargar es de una versión antigua de Software Inc. ({0}) que ya no es compatible con la versión que usas ({1})
+2121	FXAA
+2122	Antialiasing aproximado rápido, antialiasing básico. Evita que los bordes se vean pixelados
+2123	SMAA
+2124	Antialiasing morfológico de subpíxeles, antialiasing más avanzado. Evita que los bordes se vean pixelados
+2125	Antialiasing morfológico de subpíxeles, no compatible con DirectX9
+2126	Antialiasing por supermuestreo. Renderiza el juego a mayor resolución para suavizar los bordes al máximo (requiere una tarjeta gráfica de gama alta)
+2127	¿Seguro que quieres cancelar {0}?
+2128	Calidad de las sombras
+2129	Unidades vendidas
+2130	Desactivado
+2131	Restablecer el estilo por defecto
+2132	Un ordenador va muy lento y el personal de soporte informático debe revisarlo
+2133	Haz clic para ver
+2134	Puesto automático
+2135	Vista cenital
+2136	Un número más alto significa mayor prioridad
+2137	Mantén Mayús para colocar varios
+2138	{0} quiere {1}, que no puedes permitirte
+2139	Escaso
+2140	Destacado
+2141	Extendido
+2142	Inevitable
+2143	Seleccionar planta del edificio
+2144	Algo bloquea este camino
+2145	Selección por barrido
+2146	Multiplicador
+2147	Usar licencias propias
+2148	Generando expectación
+2149	Cumpliendo contrato
+2150	Plazo
+2151	Calidad exigida
+2152	Por adelantado
+2153	Al terminar
+2154	Penalización
+2155	Coste por error
+2156	Penalización por errores
+2157	Penalización por retraso
+2158	Penalización por calidad
+2159	Penalización por cancelación
+2160	Entregado
+2161	Ancho de banda máx.
+2162	Volver a mirar
+2163	¿Seguro que quieres volver a mirar? Costará {0}
+2164	Regalías
+2165	Regalía
+2166	Investigación
+2167	Investigando
+2168	Investiga y patenta características para cobrar regalías a tus competidores
+2169	Durabilidad
+2170	Mejora de sala
+2171	Ánimo
+2172	Aparcamiento horizontal
+2173	Aparcamiento vertical
+2174	Calefacción
+2175	Refrigeración
+2176	¿Seguro que quieres cancelar esta investigación? Perderás todo el progreso
+2177	Tu patente de {1} para {0} ha caducado
+2178	Desbloquea
+2179	Investigado
+2180	La empresa ya no existe
+2181	Buscar propietario
+2182	Puerto
+2183	Portando
+2184	Portando a {0}
+2185	¡Tienes procesos de servidor no compatibles!
+2186	Calidad máx.
+2187	Valla
+2188	Construir valla
+2189	Construir valla rectangular
+2190	Material de construcción de salas
+2191	Arrastrar cámara
+2192	Bajar una planta
+2193	Subir una planta
+2194	Sueldos
+2195	Forzar puesto
+2196	Edad preferida
+2197	Enfriamiento de formación
+2198	Dividendos
+2199	Ahora mismo no hay nada que investigar
+2200	¡Fin de la partida!\n\nHaz clic para continuar
+2201	El ángulo de la pared debe ser mayor de {0}°
+2202	Pista
+2203	Pistas
+2204	Puedes asignar empleados al mobiliario seleccionando a la vez al empleado (o empleados) y el mobiliario y haciendo clic derecho
+2205	Puedes seleccionar fácilmente varios objetos de un tipo concreto manteniendo {KeyBind:SweepSelect} mientras arrastras el ratón
+2206	La opción «Seleccionar tipos de mobiliario» del menú contextual es muy versátil: sirve para seleccionar todo el mobiliario de una sala o los tipos de mobiliario seleccionados en las salas seleccionadas
+2207	Vigila los productos próximos y recién lanzados antes de lanzar el tuyo para que no te eclipsen
+2208	Puedes copiar varios objetos de una disposición a la vez seleccionando varios antes de duplicar
+2209	Puedes formar a varios empleados a la vez seleccionándolos a todos antes de abrir la ventana de formación
+2210	En algunos segmentos de pared puedes mantener Ctrl para escalar automáticamente el segmento y ajustarlo a la pared donde quieres construirlo
+2211	RR. HH. del equipo {0} no tiene presupuesto suficiente para contratar a más empleados
+2212	Este producto no depende de ningún sistema operativo
+2213	Esto ya se ha investigado
+2214	Este software depende de {1} para desarrollarse. Selecciona un producto de tipo {1} para continuar
+2215	Necesitas al menos una característica para empezar el desarrollo
+2216	Banco
+2217	Subir
+2218	Steam Workshop
+2219	Haz clic aquí para empezar a subir tus mods al Steam Workshop
+2220	Error al subir el mod con código de error: {0}
+2221	¡Mod subido correctamente! Recuerda cambiar la visibilidad de tu mod en el Workshop.
+2222	No tienes permiso para subir este mod al Steam Workshop
+2223	Se ha encontrado un archivo de tipo {0}. Sube solo archivos relevantes
+2224	¿Seguro que quieres subir esto al Steam Workshop? Por favor, no subas trabajos que no sean tuyos.
+2225	Puedes hacer clic izquierdo y arrastrar los elementos de trabajo para reordenarlos en la lista. Con clic derecho en un elemento de trabajo lo contraes.
+2226	Subido
+2227	Elige un nombre para tu plano
+2228	Nombre del plano
+2229	Mi plano
+2230	Ese nombre ya está en uso
+2231	Planos de edificios
+2232	Elige entre una lista de edificios prediseñados y ya amueblados
+2233	Guardar salas seleccionadas
+2234	Planos
+2235	Construir
+2236	Error al guardar el plano: {0}
+2237	Cancela la suscripción a este elemento en el Steam Workshop. Si lo subiste tú al Workshop, elimínalo manualmente de la carpeta Blueprints.
+2238	Metros cuadrados
+2239	Coste del edificio
+2240	Coste del mobiliario
+2241	Mobiliario incompatible
+2242	Distribución
+2243	Bienvenida
+2244	Personalización
+2245	Trabajo de diseño
+2246	Trabajo de alfa
+2247	Trabajo de soporte
+2248	Contratación
+2249	Tutorial de {0}

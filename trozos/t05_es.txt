@@ -1,0 +1,450 @@
+2250	¿Quieres empezar el tutorial de {0}?
+2251	Tutorial
+2252	Ahora no
+2253	Nunca
+2254	Desactivar todo
+2255	Saltar
+2256	¿Seguro que quieres cancelar el tutorial?
+2257	El mod seleccionado no es compatible con los otros mods seleccionados
+2258	Preparando
+2259	Subiendo
+2260	Confirmando
+2261	Reducción de ruido
+2262	Me siento aislado
+2263	Estrés
+2264	Sociable
+2265	Trabajador
+2266	Vago
+2267	Un buen líder debe ser sociable, pero un empleado independiente trabajará feliz todo el día solo en su cubículo
+2268	Un empleado vago intentará escaquearse todo lo que pueda, mientras que uno estresado se sentirá sobrecargado enseguida
+2269	Un trabajador siempre da el 110 %, pero el que aprende rápido adquiere nuevas habilidades con más facilidad
+2270	Estás a punto de empezar a desarrollar un producto interno, lo que significa que no podrás venderlo ni licenciarlo.\n¿Seguro que quieres continuar?
+2271	No puedes hacer marketing de productos internos
+2272	Pulsa {0} o {1} para girar el edificio
+2273	Ancho de banda aprox.
+2274	Zoom
+2275	Gamma
+2276	Algo impide que tu personal de limpieza limpie esta sala
+2277	Poner más gente de la necesaria en un proyecto no acelera necesariamente el desarrollo y hasta podría reducir la eficacia
+2278	Contratar cocinero
+2279	Cocinero
+2280	Comedor
+2281	Nombre nuevo
+2282	Nombre del empleado:
+2283	Cambiar nombre
+2284	Error al guardar la partida con este mensaje:\n{0}
+2285	Forma abreviada de la moneda
+2286	M
+2287	B
+2288	Actualizar plano
+2289	Esta división dejaría salas sin soporte
+2290	Error al activar el mod. Consulta el registro para más detalles.
+2291	Hex
+2292	¿Seguro que quieres eliminar el plano: {0}?
+2293	Abrir consola
+2294	Diseñadores recomendados
+2295	Programadores recomendados
+2296	Artistas recomendados
+2297	No puedes redelegar un proceso de servidor al servidor en el que ya está
+2298	Cancelar acuerdo
+2299	El directorio no existe: {0}
+2300	Reunión
+2301	Función
+2302	Capacidad
+2303	Anclar cuadrícula
+2304	Opiniones
+2305	Correo electrónico
+2306	Mensaje
+2307	Archivos
+2308	Enviar
+2309	Introduce una dirección de correo válida o deja el campo vacío
+2310	Error al enviar el informe. ¿Quieres intentarlo más tarde?\nError:
+2311	Incluir archivo de registro
+2312	Incluir archivo de guardado
+2313	Incluir especificaciones del PC
+2314	Escribe al menos 50 letras en tu mensaje
+2315	El juego ha detectado un cierre inesperado en tu última sesión, ¿quieres avisar ahora al desarrollador?
+2316	El juego ha detectado un error, ¿quieres avisar ahora al desarrollador?
+2317	(OPCIONAL) Permite que te contacte para pedirte más información
+2318	Escribe aquí tu mensaje para el desarrollador
+2319	Tu informe se ha guardado y se reintentará la próxima vez que abras el juego
+2320	Solo puedes enviar un informe cada 5 minutos
+2321	Informar
+2322	Informar con captura
+2323	Error al guardar la partida. El juego continuará, pero podrías notar comportamientos raros o pérdida de datos.\nEl error se ha registrado. ¿Quieres enviar además un informe de error al desarrollador?\nDisculpa las molestias.
+2324	Error al cargar la partida. El juego continuará, pero podrías notar comportamientos raros o pérdida de datos.\nEl error se ha registrado. ¿Quieres enviar además un informe de error al desarrollador?\nDisculpa las molestias.
+2325	{0} está dispuesto a ofrecer {1}, ¿quieres aceptar su oferta?\nCompraste las acciones por {2} y ahora valen {3}
+2326	No se puede acceder a esta sala desde el exterior\nConéctala mediante puertas, ascensores o escaleras
+2327	Anchura de columnas
+2328	No se pudo asignar al botón pulsado
+2329	Filtrar según los equipos seleccionados
+2330	Reemplazar mobiliario
+2331	Mods de contenido instalados
+2332	Empleados ociosos
+2333	No trabaja
+2334	Sin tareas asignadas
+2335	No hay ordenador disponible
+2336	Afectado negativamente por el entorno
+2337	Todas las tareas están terminadas
+2338	Me siento estresado
+2339	Copia de seguridad
+2340	Hacer copia de seguridad de las partidas antes de sobrescribirlas
+2341	Cargar copia de seguridad
+2342	Estás a punto de cargar la copia de seguridad de tu partida.\n¿Seguro que es lo que quieres hacer?
+2343	Satisfacción laboral
+2344	Otros equipos
+2345	Despacho privado
+2346	Reembolsos
+2347	Revisión por pares
+2348	Reseña
+2349	Anónimo
+2350	Reseña de {0}
+2351	{0} reseñas terminadas
+2352	¿Quién quieres que se encargue de la revisión por pares?\nTen en cuenta que externalizarla costará {0} por reseña.
+2353	Una nota de prensa cuenta al mundo tu producto.\nCuanto más tengas que enseñar, más eficaz será, así que conviene esperar un poco a la fase de diseño o desarrollo para hacerla.\nCada nota de prensa reduce el efecto de la siguiente, así que úsalas con moderación.
+2354	Puedes enviar una copia anticipada de tu producto a la prensa para ganar muchos seguidores rápidamente. Si a la prensa no le gusta tu producto, podrías perder seguidores igual de rápido, así que ten cuidado.\nLa respuesta a tu demo aparecerá en el periódico al día siguiente de enviarla.
+2355	Conviene mantener la expectación una vez que has ganado seguidores, para que no se olviden de tu producto.\nPromocionar tu producto frenará la pérdida de seguidores si empiezan a perder interés.
+2356	Debes centrarte en que tu producto salga mencionado lo máximo posible en los medios una vez lanzado.\nEl marketing es un pozo sin fondo de dinero y compites todo el rato por la atención con tus competidores directos.\nFija un presupuesto para no quedarte sin dinero o déjalo en 0 si no quieres limitar el gasto.
+2357	Redactando nota de prensa
+2358	Anunciar fecha de lanzamiento
+2359	Nota de prensa
+2360	Versión para prensa
+2361	Expectación
+2362	{0} seguidores
+2363	Elige una fecha futura
+2364	Imágenes
+2365	Vídeo
+2366	No tienes opciones de marketing disponibles para este producto
+2367	No puedes lanzar este producto antes de haber lanzado todos los sistemas operativos que admite
+2368	Esperando el lanzamiento
+2369	Detalles del proyecto
+2370	Fecha de lanzamiento
+2371	Desarrollo iniciado
+2372	{0} corregidos
+2373	{0} verificados
+2374	{0} en cola
+2375	{0} sin detectar
+2376	Recursos humanos
+2377	Elige un líder
+2378	Escarcha en la interfaz
+2379	Da un aspecto escarchado a los paneles de la interfaz principal
+2380	Nombre del proyecto
+2381	Equipos de diseño
+2382	Equipos de desarrollo
+2383	Equipos de desarrollo secundarios
+2384	Equipos de soporte
+2385	Equipos de premarketing
+2386	Equipos de posmarketing
+2387	Tiempo de desarrollo
+2388	Desarrollo automático
+2389	Actívalo para que el líder proponga productos nuevos a partir del último producto lanzado
+2390	Si el líder solo debe crear secuelas de proyectos anteriores en lugar de crear IP nueva
+2391	Cuánto tiempo mantener cada proyecto en desarrollo respecto al tiempo óptimo que llevaría desarrollarlo
+2392	Fase
+2393	Proyectos
+2394	Información
+2395	En cola
+2396	Seguidores
+2397	Ahora mismo no tienes ninguna tarea de gestión de proyectos en marcha
+2398	Haz clic aquí para asignar este proyecto a una tarea de gestión de proyectos
+2399	Próximo lanzamiento
+2400	Desarrollando
+2401	Encargarse del marketing
+2402	Adquisición
+2403	Si el líder debe intentar ceñirse únicamente a licencias internas al crear proyectos nuevos
+2404	IP única
+2405	Si el líder debe ceñirse a una sola IP, obligándole a esperar si ya se está desarrollando una secuela
+2406	No disponible temporalmente
+2407	Tienes que elegir un líder antes de poder continuar
+2408	¡Tu empresa está en números rojos! Tienes hasta el {0} para corregir tu situación financiera o tu empresa tendrá que declararse en bancarrota
+2409	¡Enhorabuena! Ha pasado 1 mes y tu empresa ha salido de los números rojos
+2410	Las revisiones por pares solo están disponibles durante la alfa
+2411	Planta actual
+2412	Unidades físicas
+2413	Unidades digitales
+2414	En existencias
+2415	Varios
+2416	Ocupado
+2417	Libre
+2418	Invitados
+2419	Entregas
+2420	Cocineros
+2421	Asignar plaza de aparcamiento
+2422	Seleccionar a las personas aparcadas aquí
+2423	Seleccionar plazas de aparcamiento contiguas
+2424	Distribución digital
+2425	Haz una oferta a {0} sobre qué porcentaje de ingresos te quedarás por las ventas digitales
+2426	Hacer una oferta de distribución digital
+2427	Actualmente te quedas con el {0} % de los ingresos de las ventas digitales
+2428	Cuota de mercado digital
+2429	Abrir tienda en línea
+2430	¿Seguro que quieres cancelar tu acuerdo de distribución con {0}?
+2431	{0} no están interesados en tu oferta
+2432	Tienes que esperar al menos un mes antes de poder hacer otra oferta
+2433	Introduce una cantidad válida
+2434	Copias de {0}
+2435	Pedir copias
+2436	Copias físicas vendidas
+2437	Cuota de mercado físico
+2438	Empezar a imprimir
+2439	Imprimir
+2440	Contratar mensajero
+2441	Mensajero
+2442	Fecha límite
+2443	Objetivo
+2444	Pedidos de impresión de productos
+2445	Reflejar sala horizontalmente
+2446	Reflejar sala verticalmente
+2447	En existencias + en almacén
+2448	El personal de mantenimiento se asegurará de que tu edificio funcione a la perfección arreglando el mobiliario. Conviene tenerlos a mano, ya que repararán las cosas antes de que se rompan del todo.
+2449	El personal de limpieza se encargará de que los suelos de tu edificio estén limpios, mejorando así el ambiente de trabajo y manteniendo contentos a tus empleados
+2450	El personal de informática arreglará todo lo que el de mantenimiento no pueda, como ordenadores, servidores e impresoras
+2451	Los recepcionistas recibirán a los invitados que visiten tu empresa para ofrecer acuerdos. Sin recepcionistas no puedes recibir acuerdos.
+2452	Los mensajeros recogerán los productos que hayas imprimido y estén en el almacén (máx. {Constant:CourierBoxes} cajas al mes para contratados fijos), para que se entreguen a las tiendas, se repongan y se vendan
+2453	Los cocineros cocinarán y servirán comida en un comedor para tus empleados. Necesitarás neveras, cocinas y bandejas de servicio preparadas.
+2454	Trabajo de impresión de {0}
+2455	Ingresos por Mbps al mes
+2456	Uso actual de ancho de banda
+2457	Uso máximo de ancho de banda
+2458	Por día
+2459	Por copia
+2460	Caduca
+2461	Tus impresoras se están atascando, construye más palés para descargarlas
+2462	Necesitas un servidor para abrir tu propia plataforma de distribución digital
+2463	¿Seguro que quieres abrir tu propia plataforma de distribución digital? Todas las copias digitales de tus productos se venderán a través de tu plataforma y requerirán capacidad de servidor suficiente
+2464	¿Seguro que quieres cerrar tu propia plataforma de distribución digital?
+2465	No puedes empezar a imprimir copias hasta llegar a la fase beta
+2466	Solo puedes imprimir copias de IP que te pertenezcan
+2467	{0} por copia
+2468	{0} copias al mes
+2469	Motivo
+2470	Despidos
+2471	Opciones de RR. HH.
+2472	Copias físicas
+2473	Productividad
+2474	Seguridad
+2475	Todas las secciones
+2476	Hecho
+2477	Marca de tiempo de compilación
+2478	2D
+2479	3D
+2480	Algoritmo
+2481	Puntuación global
+2482	Precisión de la reseña
+2483	Impresión
+2484	Escribe brevemente qué ha cambiado
+2485	Notas de cambios
+2486	No tienes ninguna impresora de productos, ¿seguro que quieres empezar un trabajo de impresión?\nPuedes pedir copias al instante por {0} cada una pulsando el botón «Pedir copias»
+2487	No se ha reemplazado todo el mobiliario porque algo más lo bloqueaba
+2488	Sin fecha de lanzamiento
+2489	Consulta un resumen de los gastos e ingresos de tu empresa
+2490	Alquiler
+2491	Comida
+2492	Internet
+2493	Hace {0} meses
+2494	Hoja
+2495	Próxima impresión en {0} minutos
+2496	Registro
+2497	Copiar
+2498	Esto debe colocarse en interiores
+2499	Ruido de salas vecinas
+2500	Nivel de ruido
+2501	Superposición de ruido
+2502	Vigila las fuentes de ruido. Pasa el ratón por las salas para ver exactamente cómo se propaga el ruido
+2503	Cancelar el soporte de un producto con usuarios activos los enfadará, salvo que se hayan corregido todos los errores.\n¿Seguro que quieres continuar?
+2504	Tamaño de sala
+2505	¿Seguro que quieres salir de la fase alfa?\nUna vez que salgas de la alfa ya no podrás mejorar la calidad del producto
+2506	Reseñas
+2507	¿Seguro que quieres fijar la fecha de lanzamiento el {0}?\nTendrás {1} para lanzar el producto
+2508	Reseña previa al lanzamiento de {0}
+2509	{0} anuncia {1}
+2510	Se ha reseñado un producto.
+2511	Se ha reseñado una versión para prensa.
+2512	Se ha mencionado una nota de prensa.
+2513	Capacidad de impresión
+2514	Mostrar/ocultar superposición de audio
+2515	Mostrar/ocultar elemento de techo
+2516	Elemento de techo
+2517	Hoy
+2518	Reciclar
+2519	Ampliación de parcela
+2520	Tienda digital
+2521	Comisión de la tienda
+2522	Alojamiento
+2523	IP
+2524	De guardia
+2525	Ilimitado
+2526	Límite
+2527	Copias máximas
+2528	{0} por caja
+2529	{0} por adelantado - {1} por caja
+2530	Llamar al mensajero
+2531	Perdiendo un {0} % de seguidores al mes
+2532	Ahora mismo no se pierden seguidores
+2533	Maestro
+2534	Interfaz
+2535	Tienes una nota de prensa sin publicar para este proyecto, que se cancelará si lanzas tu producto.\n¿Quieres continuar?
+2536	Tienes una versión para prensa sin publicar para este proyecto, que se cancelará si lanzas tu producto.\n¿Quieres continuar?
+2537	Rechazar
+2538	¿Seguro que quieres rechazar estos elementos?
+2539	{0} restantes
+2540	{0} de retraso
+2541	Calidad esperada
+2542	Cancelado
+2543	Inadecuado
+2544	Satisfactorio
+2545	Tarde
+2546	Penalización por trabajo sin terminar
+2547	Evaluación de calidad
+2548	Contrato finalizado por un valor neto de {0}, con calidad {1}
+2549	Se ha enviado a la prensa una versión que refleja el estado actual de {0}
+2550	Encargarse del soporte
+2551	Deja que el jefe de proyecto se encargue del soporte y de cuándo terminarlo
+2552	La calidad de {0} está bajando rápido, {1} no es muy hábil en {2}
+2553	RR. HH. del equipo {0} no tiene presupuesto suficiente para formar a los empleados
+2554	Informe enviado correctamente, con número de identificación: {0}\nPuedes usar la ventana de opiniones para encontrar este número si lo necesitas más adelante
+2555	Informes anteriores
+2556	Tu filial {0} está en quiebra y ha cerrado
+2557	Filial
+2558	Filiales
+2559	Aún no has anunciado una fecha de lanzamiento, lo que reducirá el impacto de tu {0}\n¿Seguro que quieres continuar?
+2560	Asignar mobiliario al empleado
+2561	Asignar mobiliario al empleado seleccionado
+2562	Asignar ordenadores automáticamente en las salas
+2563	Estás a punto de cerrar tu filial, {0}.\n¿Seguro que quieres continuar?
+2564	¿Quieres adquirir {0} y su IP o convertirla en filial de tu empresa?
+2565	Vuelve en {0}
+2566	La fase de diseño suele ser más corta que la de implementación, pero puedes usar un equipo de desarrollo secundario para llevar proyectos en paralelo y recuperar cualquier retraso
+2567	Introduce cuánto dinero quieres ingresar en la filial
+2568	La empresa necesita dinero para no declararse en bancarrota
+2569	Fin de vacaciones
+2570	¿Seguro que quieres cambiar la fecha de lanzamiento? Tendrás {0} para lanzar tu producto.\nRetrasar la fecha de lanzamiento puede hacer que la gente empiece a dejar de seguirte y será más difícil retrasarla después, si la adelantas.
+2571	Capacidad de envío
+2572	Cerrar ventana activa
+2573	{0} copias por caja
+2574	{0} cajas
+2575	{0} copias
+2576	Periodo de vacaciones
+2577	Revisiones por pares pasadas
+2578	Ver mobiliario asignado
+2579	Haz clic aquí para poner en rojo todo el mobiliario asignado y en gris el no asignado
+2580	Ingresos por Mb por hora
+2581	Filtro
+2582	Horas extra
+2583	Las horas extra obligan a todos los empleados de un equipo a trabajar mucho más rápido a costa de su satisfacción. Los empleados trabajarán más despacio durante un tiempo después de las horas extra, según lo que hayan durado.
+2584	Las horas extra son estresantes
+2585	Resaca de horas extra
+2586	Acuerdos de distribución
+2587	¡{0} ha llegado a la alfa y aún no tiene seguidores! Empieza pronto tus esfuerzos de marketing o nadie comprará tu producto
+2588	El equipo {0} acaba de perder a su líder y ya no está bajo la gestión de RR. HH.
+2589	Encargarse de los sueldos
+2590	Encargarse de las quejas
+2591	¿Seguro que quieres lanzar {0} ahora?
+2592	Desde
+2593	Hasta
+2594	Deshacer
+2595	¡Esta función es experimental! El juego se guardará automáticamente por si ocurre algo
+2596	Derribar pared
+2597	Derriba las paredes entre salas
+2598	Este {0:ToLower} necesita una silla para ser accesible
+2599	Generoso
+2600	Optimista
+2601	Misántropo
+2602	Chulo
+2603	Esnob
+2604	Borde
+2605	Pesimista
+2606	Bobalicón
+2607	Ligón
+2608	Ingenuo
+2609	Dramático
+2610	Irascible
+2611	Cabezota
+2612	Introvertido
+2613	Extrovertido
+2614	Extremo
+2615	Al ejecutar esta prueba se saldrá al menú principal.\n¿Seguro que quieres continuar?
+2616	Asegúrate de que la resolución y los ajustes de pantalla completa sean correctos, ya que influirán en el resultado.\n¿Quieres iniciar la prueba?
+2617	Prueba de rendimiento
+2618	El juego hará una pequeña prueba y elegirá tus ajustes gráficos según los resultados
+2619	Personalizado
+2620	Ultra
+2621	Límite alcanzado
+2622	Incompleto
+2623	Cumplido
+2624	Contrato {0:ToLower} por un valor neto de {1}, con calidad {2}
+2625	El juego no pudo acceder al archivo settings.txt, tus ajustes no se guardarán ni se cargarán.\nPuede ocurrir porque no tienes permiso para editar archivos, un antivirus lo ha bloqueado, está marcado como de solo lectura o has descargado el juego de forma ilegal.
+2626	Mes pasado
+2627	En almacén
+2628	Tiene secuela
+2629	{0} palabras dulces
+2630	Modificando tramos de carretera
+2631	Introduce cuántas copias quieres imprimir antes de que se cancele el trabajo de impresión. -1 significa sin límite.
+2632	Trabajo de impresión de {0} terminado
+2633	Copias del trabajo de impresión
+2634	Ponlo en un número superior a 0 para poner en cola automáticamente un trabajo de impresión para cada proyecto, que imprimirá la cantidad asignada de copias cuando el proyecto llegue a la fase beta.\nAñade % al final del número para imprimir un porcentaje de los seguidores del proyecto.
+2635	Esta cantidad de copias físicas se pedirá para la venta al lanzar cada producto desarrollado\nAñade % al final del número para pedir un porcentaje de los seguidores del producto.
+2636	Hacer secuela
+2637	No puedes comprar acciones con dinero prestado
+2638	Confirmaciones de diálogo
+2639	Escribe aquí un nombre para tu estilo:
+2640	Estilo de sala
+2641	Añadir salas seleccionadas al grupo
+2642	Grupos de salas
+2643	Escribe aquí un nombre para tu grupo de salas:
+2644	Nuevo grupo de salas
+2645	Ya existe un grupo de salas con ese nombre
+2646	No tienes ningún grupo de salas, ¿quieres crear uno ahora?
+2647	Estilo de interior
+2648	Estilo de exterior
+2649	Seleccionar salas
+2650	Salas sin grupo
+2651	Asignar grupos de salas al personal seleccionado
+2652	Cambiar aspecto de las paredes
+2653	Gestiona y agrupa salas para asignar personal y cambiar el estilo fácilmente
+2654	Cadena de generación
+2655	Clima
+2656	Frío
+2657	Templado
+2658	Cálido
+2659	Rural
+2660	Pueblo
+2661	Mapa personalizado
+2662	Elegir mapa
+2663	Trasladar empresa
+2664	Solo puedes colocar mobiliario dentro de salas que sean tuyas
+2665	Pulsa {0} para alinear el mobiliario con la pared más cercana
+2666	Alinear con la pared más cercana
+2667	Gestionar puestos
+2668	Relativo
+2669	Vista de parcelas
+2670	Parcelas
+2671	Usa esta herramienta para comprar y vender parcelas
+2672	Mensual
+2673	Trimestral
+2674	Anual
+2675	Cristal opaco
+2676	Esto hará opacas las ventanas de las plantas inferiores para optimizar el rendimiento en edificios muy grandes con mucho mobiliario
+2677	Me cae bien un miembro del equipo
+2678	Me cae mal un miembro del equipo
+2679	Me siento incómodo en mi equipo
+2680	Un empleado tiene problemas para encontrar dónde sentarse
+2681	Retirar {0} te costará {1} en intereses perdidos. ¿Quieres continuar?
+2682	Retirada libre
+2683	Seguro médico
+2684	Seguro de vida
+2685	Pensión
+2686	Beneficios para empleados
+2687	Gestiona qué ventajas y beneficios recibirán tus empleados por defecto
+2688	Cuenta de ahorro
+2689	Revertir
+2690	Selección de puesto
+2691	No cambiar
+2692	Contratado para
+2693	Mejores puestos
+2694	El mejor y luego el secundario
+2695	Comisión de tienda física
+2696	Comisión de tienda digital
+2697	Beneficios
+2698	Vendiendo parcela
+2699	Comprando parcela
